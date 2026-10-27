@@ -1,0 +1,344 @@
+{
+  "brief_id": "brief-118",
+  "title": "Named Refusal-Reason Allow-List \u2014 Millersville Named Refusal Reason Codes Under Flight15 also_refused_by Ledger (Still Hold-Gated); Never Invent Reason Codes; fabricate_refusal=0 / allowlist_reasons_only=1 / burn_outbound=0",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-118.md + peer-review-118.json + citations-118.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 292,
+  "citations_passed": true,
+  "pipeline_version": "v1.117.0",
+  "pairs": [
+    "brief-098"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "Named refusal reason codes only under Flight15 also_refused_by Hold \u2014 never invent reason codes",
+    "fabricate_refusal=0 / allowlist_reasons_only=1 / invent_refusal_reason=0 / fake_live_refusal=0 / off_allowlist_reason=0 / burn_outbound=0",
+    "reuse_stale_reason=0 / hold_timeout_refusal=0 / auto_text_kids=0 / auto_text_flight15=0 / merge_apply=false / review_private_default=1",
+    "Pairs brief-098; cousins brief-098/091(+117/096/113/116) merge_apply=false",
+    "also_refused_by on overlapping invent-refusal / off-allowlist-reason / fabricate / fake-live refusal surfaces",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/invent-refusal-reason",
+    "/api/off-allowlist-reason",
+    "/api/refusal/invent-reason",
+    "/api/refusal/off-allowlist-reason",
+    "/api/named-refusal-reason/invent",
+    "/api/named-refusal-reason/off-allowlist",
+    "/api/invent-named-refusal",
+    "/api/reuse-stale-reason",
+    "/api/allowlist/extend-refusal-reason",
+    "/api/flight15/invent-refusal-reason",
+    "/api/flight15/off-allowlist-reason",
+    "/api/ledger/invent-refusal-reason",
+    "/api/ledger/off-allowlist-reason",
+    "/api/fake-live-refusal-reason",
+    "/api/fabricate-refusal-reason"
+  ],
+  "scorecard": {
+    "fabricate_refusal": 0,
+    "allowlist_reasons_only": 1,
+    "burn_outbound": 0,
+    "invent_refusal_reason": 0,
+    "fake_live_refusal": 0,
+    "off_allowlist_reason": 0,
+    "reuse_stale_reason": 0,
+    "hold_timeout_refusal": 0,
+    "merge_apply": false,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "review_private_default": 1
+  },
+  "cousins": {
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_refusal_reason",
+        "off_allowlist_reason",
+        "flight15_text_apply"
+      ],
+      "role": "Flight15 also_refused_by refusal ledger (pair \u2014 owns rows)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_refusal_reason",
+        "off_allowlist_reason",
+        "flight15_text"
+      ],
+      "role": "Flight 15 family alert kit (cousin)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_refusal_reason",
+        "off_allowlist_reason",
+        "live_refusal_row_paint"
+      ],
+      "role": "refusal dual-digest strip (overlap)"
+    },
+    "brief_096": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_refusal_reason",
+        "off_allowlist_reason",
+        "live_t0_paint"
+      ],
+      "role": "T-0 dual-proof strip (overlap)"
+    },
+    "brief_113": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_refusal_reason",
+        "off_allowlist_reason",
+        "live_t0_paint"
+      ],
+      "role": "live_t0_paint also_refused_by (overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_refusal_reason",
+        "off_allowlist_reason",
+        "snack_order"
+      ],
+      "role": "snack also_refused_by (overlap)"
+    },
+    "brief_115": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_refusal_reason",
+        "off_allowlist_reason",
+        "off_allowlist_refusal"
+      ],
+      "role": "off-allowlist vendor refusal (overlap \u2014 vendor paths stay 115)"
+    },
+    "brief_112": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_refusal_reason",
+        "off_allowlist_reason",
+        "mismatch_hold_apply"
+      ],
+      "role": "dual-proof mismatch Hold (overlap)"
+    },
+    "brief_114": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_refusal_reason",
+        "off_allowlist_reason",
+        "live_order_paint"
+      ],
+      "role": "snack cart dual-proof (overlap)"
+    },
+    "brief_111": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_refusal_reason",
+        "off_allowlist_reason",
+        "t0_allowlist_apply"
+      ],
+      "role": "T-0 source allow-list (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Named refusal reason codes only under Flight15 also_refused_by Hold. Never invent reason codes. allowlist_reasons_only=1. Never burn outbound.",
+  "named_refusal_reason_allowlist_example": {
+    "schema": "named_refusal_reason_allowlist/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "allowlist_reasons_only": 1,
+    "fabricate_refusal": 0,
+    "burn_outbound": 0,
+    "reasons_allowlist": [
+      "cousin_kit_as_flight15_text",
+      "cousin_dual_proof_as_flight15_text",
+      "cousin_snack_as_flight15_text",
+      "fabricated_t0",
+      "single_source_live",
+      "hold_timeout_alert",
+      "burn_outbound_attempt",
+      "off_allowlist_notify"
+    ],
+    "example_row": {
+      "row_id": "refuse_flight15_text_from_clash_SYNTHETIC",
+      "reason_code": "cousin_kit_as_flight15_text",
+      "on_allowlist": true,
+      "live_paint_authorized": false,
+      "honesty": "SYNTHETIC \u2014 reason code EXAMPLE only; human Apply still required before cyan LIVE; never invent codes"
+    },
+    "scorecard": {
+      "fabricate_refusal": 0,
+      "allowlist_reasons_only": 1,
+      "burn_outbound": 0,
+      "invent_refusal_reason": 0,
+      "fake_live_refusal": 0,
+      "off_allowlist_reason": 0,
+      "reuse_stale_reason": 0,
+      "hold_timeout_refusal": 0,
+      "merge_apply": false,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "review_private_default": 1
+    },
+    "pairs": [
+      "brief-098"
+    ],
+    "cousins_merge_apply_false": [
+      "brief-098",
+      "brief-091",
+      "brief-117",
+      "brief-096",
+      "brief-113",
+      "brief-116"
+    ],
+    "cousins": {
+      "brief-098": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_refusal_reason",
+          "off_allowlist_reason",
+          "flight15_text_apply"
+        ],
+        "role": "Flight15 also_refused_by refusal ledger (pair \u2014 owns rows)"
+      },
+      "brief-091": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_refusal_reason",
+          "off_allowlist_reason",
+          "flight15_text"
+        ],
+        "role": "Flight 15 family alert kit (cousin)"
+      },
+      "brief-117": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_refusal_reason",
+          "off_allowlist_reason",
+          "live_refusal_row_paint"
+        ],
+        "role": "refusal dual-digest strip (overlap)"
+      },
+      "brief-096": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_refusal_reason",
+          "off_allowlist_reason",
+          "live_t0_paint"
+        ],
+        "role": "T-0 dual-proof strip (overlap)"
+      },
+      "brief-113": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_refusal_reason",
+          "off_allowlist_reason",
+          "live_t0_paint"
+        ],
+        "role": "live_t0_paint also_refused_by (overlap)"
+      },
+      "brief-116": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_refusal_reason",
+          "off_allowlist_reason",
+          "snack_order"
+        ],
+        "role": "snack also_refused_by (overlap)"
+      },
+      "brief-115": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_refusal_reason",
+          "off_allowlist_reason",
+          "off_allowlist_refusal"
+        ],
+        "role": "off-allowlist vendor refusal (overlap \u2014 vendor paths stay 115)"
+      },
+      "brief-112": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_refusal_reason",
+          "off_allowlist_reason",
+          "mismatch_hold_apply"
+        ],
+        "role": "dual-proof mismatch Hold (overlap)"
+      },
+      "brief-114": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_refusal_reason",
+          "off_allowlist_reason",
+          "live_order_paint"
+        ],
+        "role": "snack cart dual-proof (overlap)"
+      },
+      "brief-111": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_refusal_reason",
+          "off_allowlist_reason",
+          "t0_allowlist_apply"
+        ],
+        "role": "T-0 source allow-list (overlap)"
+      }
+    },
+    "hold": {
+      "state": "HOLD",
+      "destination": null,
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "created_at": null,
+      "expires_at": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "auto_paint": null,
+      "auto_text": null,
+      "cousin_ack": {
+        "brief_098": false,
+        "brief_091": false,
+        "brief_117": false,
+        "brief_096": false,
+        "brief_113": false,
+        "brief_116": false,
+        "brief_115": false,
+        "brief_112": false,
+        "brief_114": false,
+        "brief_111": false
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "named_refusal_reason_allowlist.json",
+      "etag": "EXAMPLE_CAS"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 allow-listed reason code does not auto-authorize cyan LIVE; invent/off-list refused",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "preferred_fold": ":4335"
+  }
+}

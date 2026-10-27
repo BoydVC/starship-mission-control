@@ -1,0 +1,157 @@
+{
+  "brief_id": "brief-026",
+  "source": "agent-brief-forge/out/brief-026.md + peer-review-026.json + citations-026.json",
+  "parent_briefs": [
+    "brief-001",
+    "brief-009",
+    "brief-010",
+    "brief-018",
+    "brief-019",
+    "brief-020"
+  ],
+  "peer_review": {
+    "verdict": "accept_with_revisions_noted",
+    "independence": "simulated peer (same model family) — prefer external /interrogate before fleet law"
+  },
+  "household": {
+    "label": "Millersville, MD",
+    "timezone": "America/New_York",
+    "wall": "household-mc",
+    "pairing": [":4335", ":4245"]
+  },
+  "mission_control_honesty": {
+    "rule": "fuse public Falcon windows + Starship planning + Starlink catalogue + Millersville home node; stamp every card LIVE / SYNTHETIC / STALE / UNKNOWN / ILLUSTRATIVE / HISTORICAL / LIVE (statement); never invent vehicle TLM; never force READY; travel tiles Hold",
+    "live_requires": ["source_url", "fetched_at"],
+    "stamps": [
+      "LIVE",
+      "LIVE (statement)",
+      "LIVE (document)",
+      "SYNTHETIC",
+      "ILLUSTRATIVE",
+      "HISTORICAL",
+      "STALE",
+      "UNKNOWN"
+    ],
+    "forbidden": [
+      "fabricated vehicle/pad/tower numeric without public URL + fetch time",
+      "MISSION READY without G1–G12 digest",
+      "unofficial NET as hero T-minus / official clock",
+      "date_precision month/quarter rendered as second-precision countdown",
+      "webcam as chopsticks/vehicle state",
+      "historical webcast TLM labeled LIVE for current/future flight",
+      "constellation count as Millersville Available",
+      "third-party ISP % as Starlink map proof",
+      "travel auto-Apply from wall",
+      "auto-announce catch from burn",
+      "SYNTHETIC Why Boyd cares with cyan LIVE",
+      "community API 5xx filled from memory"
+    ]
+  },
+  "card_families": [
+    "falcon_next_window",
+    "starship_flight_15_planning",
+    "starlink_catalogue",
+    "millersville_home_node",
+    "themes",
+    "why_boyd_cares",
+    "travel_kit_hold"
+  ],
+  "mission_ready_gates": {
+    "rule": "READY is a digest of G1–G12, never a lonely green pill or soft-green rumor; fail closed",
+    "gates": [
+      "G1_freshness",
+      "G2_official_clock",
+      "G3_narrative_vs_telemetry",
+      "G4_webcam_neq_state",
+      "G5_license_literacy",
+      "G6_constellation_neq_coverage",
+      "G7_millersville_address",
+      "G8_travel_hold",
+      "G9_conflict",
+      "G10_mode",
+      "G11_cas",
+      "G12_human_principal"
+    ],
+    "fail_closed": true,
+    "default_banner": "MISSION READY: DENIED",
+    "hero_tminus_without_official_net": "forbidden"
+  },
+  "travel_hold": {
+    "rule": "trip/travel tiles inherit Hold even when Falcon GO is LIVE (brief-020 fold); never auto-Apply purchase / plan_change / announce_covered",
+    "banner": "HOLD",
+    "auto_apply": 0,
+    "blocked_actions": ["purchase", "plan_change", "announce_covered", "auto_book"]
+  },
+  "fabricate_telemetry": {
+    "rule": "fabricate_telemetry=0 hard law — scorecard column must stay zero",
+    "value": 0
+  },
+  "mission_ready_force": {
+    "rule": "mission_ready_force=0 hard law — no READY banner without G1–G12 digest",
+    "value": 0
+  },
+  "denied_claims": [
+    "fake LIVE telemetry",
+    "MISSION READY with any gate fail",
+    "unofficial NET as official countdown authority",
+    "date_precision ignored ticking clock",
+    "webcam CATCH_ARMED",
+    "historical webcast as Flight 15 LIVE",
+    "constellation as Millersville Available",
+    "BroadbandNow / third-party % as Starlink map",
+    "travel auto-Apply",
+    "auto-announce catch",
+    "FAA cleared dual catch from earnings alone",
+    "self-approve READY"
+  ],
+  "denied_mutations": [
+    "mission-ready-force",
+    "fabricate",
+    "send",
+    "publish",
+    "overwrite",
+    "mutate",
+    "coverage-force",
+    "fabricate-coverage",
+    "availability-claim"
+  ],
+  "refused_post_prefixes": [
+    "/api/mission-ready-force",
+    "/api/fabricate",
+    "/api/send",
+    "/api/publish",
+    "/api/overwrite",
+    "/api/mutate",
+    "/api/coverage-force",
+    "/api/fabricate-coverage",
+    "/api/availability-claim"
+  ],
+  "public_data_only": true,
+  "auto_announce": 0,
+  "burn_outbound": 0,
+  "scorecard": {
+    "fabricate_telemetry": 0,
+    "mission_ready_force": 0,
+    "fake_live": 0,
+    "synthetic_as_live": 0,
+    "unofficial_net_as_clock": 0,
+    "date_precision_ignored": 0,
+    "webcam_as_state": 0,
+    "historical_as_live": 0,
+    "constellation_as_coverage": 0,
+    "third_party_pct_as_map": 0,
+    "travel_auto_apply": 0,
+    "license_hallucinated": 0,
+    "color_only_status": 0,
+    "mode_confusion": 0,
+    "utc_only_stamps": 0,
+    "auto_announce": 0,
+    "snapshot_clobber": 0,
+    "reveal_as_live_tlm": 0,
+    "burn_outbound": 0,
+    "self_approve_ready": 0,
+    "api_outage_invented": 0,
+    "timezone": "America/New_York"
+  },
+  "separation": "brief-019 = ops-wall TLM / READY; brief-020 = coverage / trip kits; brief-026 = household Mission Control fusion (countdown + constellation + home node + travel HOLD) with fabricate_telemetry=0 / mission_ready_force=0"
+}

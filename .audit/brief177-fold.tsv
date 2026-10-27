@@ -1,0 +1,13 @@
+brief	177
+theme	boundary-vs-if-match-lost-update-cousin-merge-refusal
+pipeline	v1.176.0
+smoke	7316/7316
+api	/api/brief177 200
+pid	2723699
+bak	/workspace/tokenmax/starship-mission-control/server.py.bak-brief177-20261027-165818
+fold	PASS
+ts	20261027-165818
+surfaces	8
+pairs	brief-176+brief-175+brief-174+brief-173+brief-172+brief-171+brief-166+brief-162+brief-154+brief-018
+encode	dual_proof_required=1 fabricate_digest=0 single_digest_live=0 merge_apply=false
+note	No Boyd outbound; weekly burn only; forge :4330 untouched

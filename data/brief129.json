@@ -1,0 +1,355 @@
+{
+  "brief_id": "brief-129",
+  "title": "Named LIVE-Apply Surface Allow-List for print_kit also_refused_by \u2014 Millersville Named LIVE Apply Surfaces (clash_live_apply / webcast_live_apply / snack_live_apply) That May Attempt print_kit also_refused_by Apply; invent_live_apply_surface=0 / allowlist_live_surfaces_only=1 / burn_outbound=0; still merge_apply=false / also_refused_by print_kit",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-129.md + peer-review-129.json + citations-129.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 325,
+  "citations_passed": true,
+  "pipeline_version": "v1.128.0",
+  "pairs": [
+    "brief-122",
+    "brief-119"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE named LIVE-Apply surface allow-list (clash_live_apply / webcast_live_apply / snack_live_apply) \u2014 only these may attempt print_kit also_refused_by; membership \u2260 Apply",
+    "invent_live_apply_surface=0 / allowlist_live_surfaces_only=1 / burn_outbound=0 / off_allowlist_live_surface=0",
+    "merge_apply=false / also_refused_by print_kit / fabricate_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / single_digest_live=0 / hold_timeout_refusal=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0",
+    "Pairs brief-122 + brief-119; cousins brief-122/119(+128/127/126/121/120/117/091/098/116/123/124/125/085/088/097) merge_apply=false",
+    "also_refused_by on overlapping kit-print/dual-digest/snack/LIVE-paint\u2192LIVE-Apply surface allow-list merge paths; prefer 129 on named LIVE-Apply surface allow-list paths",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/kit-print-as-live-apply-surface-allowlist",
+    "/api/dual-digest-live-as-live-apply-surface-allowlist",
+    "/api/snack-also-refused-by-as-live-apply-surface-allowlist",
+    "/api/live-print-kit-refusal-paint-as-live-apply-surface-allowlist",
+    "/api/kit-print-as-live-apply-surface-allowlist-apply",
+    "/api/dual-digest-live-as-live-apply-surface-allowlist-apply",
+    "/api/snack-also-refused-by-as-live-apply-surface-allowlist-apply",
+    "/api/live-print-kit-refusal-paint-as-live-apply-surface-allowlist-apply",
+    "/api/merge-kit-print-live-apply-surface-allowlist",
+    "/api/merge-dual-digest-live-live-apply-surface-allowlist",
+    "/api/merge-snack-also-refused-by-live-apply-surface-allowlist",
+    "/api/merge-live-print-kit-refusal-paint-live-apply-surface-allowlist",
+    "/api/silent-merge-kit-print-live-apply-surface-allowlist",
+    "/api/silent-merge-dual-digest-live-live-apply-surface-allowlist",
+    "/api/silent-merge-snack-live-apply-surface-allowlist",
+    "/api/silent-merge-live-print-kit-refusal-paint-live-apply-surface-allowlist",
+    "/api/invent-live-apply-surface",
+    "/api/off-allowlist-live-surface",
+    "/api/invent-kit-print-live-apply-surface",
+    "/api/invent-dual-digest-live-apply-surface",
+    "/api/membership-as-print-kit-also-refused-by-apply",
+    "/api/allowlist-membership-as-print-kit-apply",
+    "/api/cousin-apply-as-live-apply-surface-allowlist",
+    "/api/silent-merge-cousin-live-apply-surface-allowlist",
+    "/api/fabricate-live-apply-surface",
+    "/api/fake-live-apply-surface",
+    "/api/single-digest-live-apply-surface",
+    "/api/hold-timeout-live-apply-surface",
+    "/api/allowlist/extend-live-apply-surface",
+    "/api/flight15/kit-print-as-live-apply-surface-allowlist",
+    "/api/flight15/dual-digest-live-as-live-apply-surface-allowlist",
+    "/api/flight15/snack-also-refused-by-as-live-apply-surface-allowlist",
+    "/api/flight15/live-print-kit-refusal-paint-as-live-apply-surface-allowlist",
+    "/api/live-apply-surface-allowlist/cousin-merge",
+    "/api/live-apply-surface-allowlist/kit-print-merge",
+    "/api/live-apply-surface-allowlist/dual-digest-live-merge",
+    "/api/live-apply-surface-allowlist/snack-also-refused-by-merge",
+    "/api/live-apply-surface-allowlist/live-print-kit-refusal-paint-merge"
+  ],
+  "scorecard": {
+    "invent_live_apply_surface": 0,
+    "allowlist_live_surfaces_only": 1,
+    "burn_outbound": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "print_kit",
+      "live_apply_surface_allowlist",
+      "invent_live_apply_surface",
+      "off_allowlist_live_surface",
+      "membership_as_print_kit_apply"
+    ],
+    "fabricate_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "off_allowlist_live_surface": 0,
+    "hold_timeout_refusal": 0,
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "print_kit LIVE cousin also_refused_by (pair \u2014 owns refusal ledger when LIVE Apply presented as print_kit also_refused_by; this brief owns which LIVE surfaces may attempt)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (pair \u2014 owns print_kit rows; print Apply \u2260 LIVE surface membership)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist",
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "Cousin also_refused_by dual-digest LIVE print_kit also_refused_by paint (overlap)"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "Print also_refused_by dual-digest mismatch Hold (overlap)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named digest-pipeline allow-list (overlap)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist",
+        "dual_digest_live_apply"
+      ],
+      "role": "Print also_refused_by dual-digest (overlap)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (overlap)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist",
+        "dual_digest_live_apply"
+      ],
+      "role": "Refusal ledger dual-digest (overlap)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist",
+        "kit_apply"
+      ],
+      "role": "Flight 15 family alert kit (overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "Flight15 also_refused_by (overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist",
+        "snack_order"
+      ],
+      "role": "snack also_refused_by (overlap)"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist",
+        "invent_hold"
+      ],
+      "role": "Invented print_kit refusal-reason Hold (overlap)"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "off-list print_kit reason dual-digest (overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist",
+        "invent_print_reason_apply"
+      ],
+      "role": "Cousin invent-print-reason Apply (overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "webcast (overlap)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "clash (overlap)"
+    },
+    "brief_097": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "snack allow-list (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Only clash_live_apply / webcast_live_apply / snack_live_apply may attempt print_kit also_refused_by. invent_live_apply_surface=0. allowlist_live_surfaces_only=1. Membership \u2260 Apply. merge_apply=false. also_refused_by print_kit. dual_proof_required=1. single_digest_live=0. Never burn outbound.",
+  "live_apply_surface_allowlist_print_kit_example": {
+    "schema": "live_apply_surface_allowlist_print_kit/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "allowlist_live_surfaces_only": 1,
+    "invent_live_apply_surface": 0,
+    "burn_outbound": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "print_kit",
+      "live_apply_surface_allowlist",
+      "invent_live_apply_surface",
+      "off_allowlist_live_surface",
+      "membership_as_print_kit_apply"
+    ],
+    "live_surfaces_allowlist": [
+      "clash_live_apply",
+      "webcast_live_apply",
+      "snack_live_apply"
+    ],
+    "example_membership": {
+      "surface": "clash_live_apply",
+      "allowlisted": true,
+      "may_attempt_print_kit_also_refused_by": true,
+      "satisfies_print_kit_also_refused_by_apply": false,
+      "honesty": "SYNTHETIC \u2014 allow-listed LIVE Apply surface may attempt (and be refused into) print_kit also_refused_by; membership \u2260 Apply (merge_apply=false; also_refused_by print_kit; pairs brief-122 + brief-119)"
+    },
+    "example_off_list_refused": {
+      "surface": "kit_print_live_apply_SYNTHETIC",
+      "allowlisted": false,
+      "may_attempt_print_kit_also_refused_by": false,
+      "honesty": "SYNTHETIC \u2014 invented / off-list LIVE Apply surface never counts (invent_live_apply_surface=0 / allowlist_live_surfaces_only=1)"
+    },
+    "scorecard": {
+      "invent_live_apply_surface": 0,
+      "allowlist_live_surfaces_only": 1,
+      "burn_outbound": 0,
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_surface_allowlist",
+        "invent_live_apply_surface",
+        "off_allowlist_live_surface",
+        "membership_as_print_kit_apply"
+      ],
+      "fabricate_refusal": 0,
+      "dual_proof_required": 1,
+      "fake_live_refusal": 0,
+      "review_private_default": 1,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "auto_text_print": 0,
+      "single_digest_live": 0,
+      "off_allowlist_live_surface": 0,
+      "hold_timeout_refusal": 0
+    },
+    "pairs": [
+      "brief-122",
+      "brief-119"
+    ],
+    "cousins_merge_apply_false": [
+      "brief-122",
+      "brief-119",
+      "brief-128",
+      "brief-127",
+      "brief-126",
+      "brief-121",
+      "brief-120",
+      "brief-117",
+      "brief-091",
+      "brief-098",
+      "brief-116",
+      "brief-123",
+      "brief-124",
+      "brief-125",
+      "brief-085",
+      "brief-088",
+      "brief-097"
+    ],
+    "preferred_fold": ":4335",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 only clash_live_apply / webcast_live_apply / snack_live_apply may attempt print_kit also_refused_by; invent_live_apply_surface=0; allowlist_live_surfaces_only=1; membership \u2260 Apply (merge_apply=false; also_refused_by print_kit); never invent cyan LIVE",
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "destination": null,
+      "auto_paint": null,
+      "auto_text": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "reason": "invent_or_off_allowlist_live_apply_surface"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 LIVE Apply surface allow-list membership never paints cyan LIVE print_kit also_refused_by alone; merge_apply=false; invent_live_apply_surface=0; allowlist_live_surfaces_only=1; dual_proof_required=1; fabricate_refusal=0; fake_live_refusal=0",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    }
+  }
+}

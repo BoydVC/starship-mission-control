@@ -1,0 +1,563 @@
+{
+  "brief_id": "brief-154",
+  "title": "If-Match / ETag Lost-Update Ledger for Disposition Apply Membership Proof under live_print_kit_refusal_paint Dual-Proof — Millersville Audit Ledger when CAS Conflict / Stale If-Match / Membership Digest Mismatch Refuses Disposition Apply; reopen review_private; never force Apply; merge_apply=false; invent_apply_surface=0 / dual_proof_required=1 / fabricate_digest=0 / review_private_default=1 / mismatch_auto_pick=0 / burn_outbound=0; pairs brief-152 + brief-151 + brief-018",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-154.md + peer-review-154.json + citations-154.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 331,
+  "citations_passed": true,
+  "pipeline_version": "v1.153.0",
+  "pairs": [
+    "brief-152",
+    "brief-151",
+    "brief-018"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE If-Match / etag lost-update ledger — CAS conflict / stale If-Match / membership digest mismatch ⇒ refuse disposition Apply, reopen review_private, never force Apply; disposition Apply remains reject_apply / route_to_allowlist_extension_apply only after brief-152 dual-digest membership proof + fresh If-Match; invent_apply_surface=0; dual_proof_required=1; fabricate_digest=0; single_digest_live=0; reuse_stale_digest=0; mismatch_auto_pick=0; still invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / merge_apply=false / also_refused_by live_print_kit_refusal_paint",
+    "invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / invent_apply_surface=0 / mismatch_auto_pick=0 / fabricate_refusal=0 / hold_timeout_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / fabricate_digest=0 / reuse_stale_digest=0 / single_digest_live=0 / burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / silent_merge_apply=0",
+    "merge_apply=false / also_refused_by live_print_kit_refusal_paint / disposition_apply_surfaces=reject_apply|route_to_allowlist_extension_apply / digest_pipelines=on_disk_row_sha256|apply_ledger_row_digest|cas_store|git_object_id",
+    "Pairs brief-152 + brief-151 + brief-018; cousins brief-153/150/149/148/147…119 (+117/116/098/091/085/088) merge_apply=false",
+    "Prefer 154 on If-Match / etag lost-update ledger paths (stale If-Match / CAS conflict / force Apply on stale etag / lost-update without reopen); keep unique prior ownership (153 Cousin also_refused_by skip-membership ledger, 152 Disposition Apply CAS dual-digest membership, 151 CAS/review_private before disposition Apply, 150 off-list disposition board, 149 digest-pipeline allow-list, 148 dual-proof strip, 018 box-desktop multi-agent isolation / CAS on shared /workspace)",
+    "Personal household only — not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/stale-if-match-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/cas-conflict-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/force-apply-on-stale-etag-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/lost-update-without-reopen-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/skip-if-match-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/skip-membership-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/single-digest-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/fabricate-membership-digest-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/reuse-stale-membership-digest-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/mismatch-auto-pick-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/skip-cas-etag-membership-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/skip-review-private-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/invent-apply-surface-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/invent-pipeline-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/off-allowlist-pipeline-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/cyan-live-from-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/auto-mint-allowlist-extension-from-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/fabricate-refusal-from-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/fabricate-digest-via-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/hold-timeout-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger-hold-timeout-live",
+    "/api/fake-live-from-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/close-disposition-without-membership-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/cousin-apply-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/silent-merge-cousin-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/box-desktop-018-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/cousin-skip-membership-153-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/membership-152-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/cas-review-private-151-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/disposition-board-150-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/digest-pipeline-allowlist-149-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/dual-proof-148-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/pipeline-allowlist-126-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/apply-surface-147-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/mismatch-auto-pick-or-fabricate-146-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/apply-surface-145-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/disposition-board-144-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/live-print-kit-pipeline-paint-143-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/off-list-disposition-142-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/pipeline-aware-mismatch-141-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/mismatch-hold-127-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/dual-digest-121-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/kit-print-119-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/surface-allowlist-138-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/invent-hold-offlist-140-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/dual-digest-proof-139-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/live-off-list-paint-137-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/off-list-mismatch-136-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/off-list-pipeline-135-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/invent-print-125-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/invent-hold-123-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/allowlist-120-as-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/skip-membership",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/single-digest",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/fabricate-digest",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/reuse-stale-digest",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/mismatch-auto-pick",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/skip-cas-etag",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/skip-review-private",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/invent-apply-surface",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/invent-pipeline",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/off-allowlist-pipeline",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/cyan-live",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/auto-mint",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/fabricate-refusal",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/fake-live-refusal",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/hold-timeout",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/cousin-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/153-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/018-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/152-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/151-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/150-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/149-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/148-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/147-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/146-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/145-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/144-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/143-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/142-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/141-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/128-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/127-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/126-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/121-merge",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/119-merge",
+    "/api/flight15/skip-membership-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/flight15/single-digest-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/flight15/invent-apply-surface-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/flight15/fabricate-membership-digest-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/flight15/hold-timeout-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/merge-live-print-kit-refusal-paint-if-match-lost-update-ledger-cyan-live",
+    "/api/silent-merge-live-print-kit-refusal-paint-if-match-lost-update-ledger-cyan-live",
+    "/api/auto-text-from-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/auto-print-from-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/stale-if-match",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/cas-conflict",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/force-apply",
+    "/api/live-print-kit-refusal-paint-if-match-lost-update-ledger/lost-update",
+    "/api/flight15/stale-if-match-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/flight15/cas-conflict-live-print-kit-refusal-paint-if-match-lost-update-ledger",
+    "/api/flight15/force-apply-on-stale-etag-live-print-kit-refusal-paint-if-match-lost-update-ledger"
+  ],
+  "scorecard": {
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "invent_apply_surface": 0,
+    "allowlist_apply_surfaces_only": 1,
+    "mismatch_auto_pick": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "silent_merge_apply": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "live_print_kit_refusal_paint",
+      "live_print_kit_refusal_paint_off_list_digest_pipeline_disposition",
+      "live_print_kit_refusal_paint_off_list_disposition_cas_review_private",
+      "live_print_kit_refusal_paint_disposition_apply_cas_dual_digest_membership",
+      "live_print_kit_refusal_paint_cousin_skip_membership_also_refused_by",
+      "live_print_kit_refusal_paint_if_match_lost_update_ledger",
+      "invent_pipeline",
+      "off_allowlist_pipeline",
+      "allowlist_pipelines_only",
+      "invent_apply_surface",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "hold_timeout_refusal",
+      "dual_proof_required",
+      "single_digest_live",
+      "fabricate_digest",
+      "reuse_stale_digest",
+      "mismatch_auto_pick",
+      "review_private_default",
+      "if_match_lost_update_ledger",
+      "cas_conflict"
+    ],
+    "digest_pipelines": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "disposition_apply_surfaces": [
+      "reject_apply",
+      "route_to_allowlist_extension_apply"
+    ]
+  },
+  "cousins": {
+    "brief_152": {
+      "merge_apply": false,
+      "role": "Disposition Apply CAS dual-digest membership proof strip (pair)"
+    },
+    "brief_151": {
+      "merge_apply": false,
+      "role": "CAS / review_private before disposition Apply (pair)"
+    },
+    "brief_018": {
+      "merge_apply": false,
+      "role": "Box-desktop multi-agent isolation / CAS on shared /workspace (pair)"
+    },
+    "brief_153": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by skip-membership ledger (cousin)"
+    },
+    "brief_150": {
+      "merge_apply": false,
+      "role": "Named off-list digest-pipeline disposition board (cousin)"
+    },
+    "brief_149": {
+      "merge_apply": false,
+      "role": "Named digest-pipeline allow-list (cousin)"
+    },
+    "brief_148": {
+      "merge_apply": false,
+      "role": "Dual-digest LIVE print_kit also_refused_by paint dual-proof strip (cousin)"
+    },
+    "brief_147": {
+      "merge_apply": false,
+      "role": "Named live_print_kit_refusal_paint Apply surface allow-list"
+    },
+    "brief_146": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by mismatch_auto_pick_or_fabricate"
+    },
+    "brief_145": {
+      "merge_apply": false,
+      "role": "Named mismatch-Hold Apply surface allow-list"
+    },
+    "brief_144": {
+      "merge_apply": false,
+      "role": "Print mismatch Hold disposition board"
+    },
+    "brief_143": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by live_print_kit_pipeline_paint"
+    },
+    "brief_142": {
+      "merge_apply": false,
+      "role": "Named off-list disposition board (generic)"
+    },
+    "brief_141": {
+      "merge_apply": false,
+      "role": "pipeline-aware mismatch Hold"
+    },
+    "brief_140": {
+      "merge_apply": false,
+      "role": "invent-print Apply cousin"
+    },
+    "brief_139": {
+      "merge_apply": false,
+      "role": "invent-print dual-digest"
+    },
+    "brief_138": {
+      "merge_apply": false,
+      "role": "invent Apply surface"
+    },
+    "brief_137": {
+      "merge_apply": false,
+      "role": "LIVE off-list paint"
+    },
+    "brief_136": {
+      "merge_apply": false,
+      "role": "Off-list mismatch Hold"
+    },
+    "brief_135": {
+      "merge_apply": false,
+      "role": "off-list digest-pipeline"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "role": "invent-print-reason Hold also_refused_by"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "role": "invent-Hold timeout"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "role": "invent-Hold dual-digest"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "role": "invent-print LIVE paint"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "role": "LIVE→print_kit dual-digest"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "role": "LIVE-Apply surface"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by live_print_kit_refusal_paint"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "role": "Print also_refused_by dual-digest mismatch Hold"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "role": "Named print also_refused_by digest-pipeline allow-list"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "role": "invent-print-reason Apply cousin"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "role": "off-list print_kit reason dual-digest"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "role": "invent-Hold print_kit reason"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "role": "LIVE cousin"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "role": "Print also_refused_by dual-digest"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "role": "Named print_kit refusal-reason allow-list"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "role": "Flight15 kit print also_refused_by"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "role": "Refusal ledger dual-digest"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "role": "snack also_refused_by"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "role": "also_refused_by cousin"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "role": "Flight15 kit"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "role": "webcast cousin"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "role": "clash cousin"
+    }
+  },
+  "live_print_kit_refusal_paint_if_match_lost_update_ledger_example": {
+    "schema": "live_print_kit_refusal_paint_if_match_lost_update_ledger/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "also_refused_by": "live_print_kit_refusal_paint",
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "invent_apply_surface": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "mismatch_auto_pick": 0,
+    "dual_proof_required": 1,
+    "merge_apply": false,
+    "allow_list": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "digest_pipelines": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "disposition_apply_surfaces": [
+      "reject_apply",
+      "route_to_allowlist_extension_apply"
+    ],
+    "example_membership_reject_apply": {
+      "proposed_pipeline": "vendor_receipt_sha_SYNTHETIC",
+      "disposition": "reject",
+      "apply_surface": "reject_apply",
+      "cas": {
+        "etag": "W/\"disp-42\"",
+        "if_match": "W/\"disp-42\"",
+        "result": "ok"
+      },
+      "membership_digest_a": {
+        "pipeline": "cas_store",
+        "proves": [
+          "cas_etag:W/\"disp-42\"",
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "membership_digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "proves": [
+          "cas_etag:W/\"disp-42\"",
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "digests_match": true,
+      "hold": {
+        "kind": "review_private",
+        "reason": "disposition_apply_membership",
+        "opened_at": "2026-10-27T13:55:00-04:00",
+        "state": "HOLD"
+      },
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "invented": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — dual-digest membership of CAS etag + reject_apply with fresh If-Match before close; stale If-Match / CAS conflict ⇒ refuse Apply, reopen review_private; never force Apply; never cyan LIVE (pairs brief-152 + brief-151 + brief-018)"
+    },
+    "example_membership_route_apply": {
+      "proposed_pipeline": "email_body_etag_SYNTHETIC",
+      "disposition": "route-to-allowlist-extension",
+      "apply_surface": "route_to_allowlist_extension_apply",
+      "cas": {
+        "etag": "W/\"disp-43\"",
+        "if_match": "W/\"disp-43\"",
+        "result": "ok"
+      },
+      "membership_digest_a": {
+        "pipeline": "on_disk_row_sha256",
+        "proves": [
+          "cas_etag:W/\"disp-43\"",
+          "apply_surface:route_to_allowlist_extension_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "membership_digest_b": {
+        "pipeline": "git_object_id",
+        "proves": [
+          "cas_etag:W/\"disp-43\"",
+          "apply_surface:route_to_allowlist_extension_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "digests_match": true,
+      "extension_apply_required": true,
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — fresh If-Match + dual-digest membership before route_to_allowlist_extension_apply; never force Apply on stale etag; never auto-mint; never cyan LIVE"
+    },
+    "example_membership_mismatch_refused": {
+      "apply_surface": "reject_apply",
+      "membership_digest_a": {
+        "pipeline": "cas_store",
+        "proves": [
+          "cas_etag:W/\"disp-42\"",
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false
+      },
+      "membership_digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "proves": [
+          "cas_etag:W/\"stale\"",
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false
+      },
+      "digests_match": false,
+      "apply_closed": false,
+      "live_paint_authorized": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — stale If-Match / CAS conflict / membership digest mismatch ⇒ disposition Apply refused; reopen review_private; never force Apply; never mismatch_auto_pick (pairs brief-152 + brief-151 + brief-018)",
+      "cas": {
+        "etag": "W/\"disp-42\"",
+        "if_match": "W/\"stale\"",
+        "result": "precondition_failed",
+        "lost_update": true
+      },
+      "force_apply": false,
+      "reopen_review_private": true
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "status": "EXAMPLE",
+      "live_badge": false,
+      "refusal_id": null
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "reason": "live_print_kit_refusal_paint_if_match_lost_update_ledger",
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false,
+      "timeout_becomes_auto_mint": false,
+      "cas_required": true,
+      "membership_proof_required": true
+    },
+    "preferred_fold": ":4335",
+    "example_lost_update_refused": {
+      "apply_surface": "reject_apply",
+      "cas": {
+        "etag": "W/\"disp-44\"",
+        "if_match": "W/\"disp-43\"",
+        "result": "precondition_failed",
+        "lost_update": true
+      },
+      "membership_digest_a": {
+        "pipeline": "cas_store",
+        "proves": [
+          "cas_etag:W/\"disp-44\"",
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "membership_digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "proves": [
+          "cas_etag:W/\"disp-43\"",
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "digests_match": false,
+      "apply_closed": false,
+      "force_apply": false,
+      "reopen_review_private": true,
+      "live_paint_authorized": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — If-Match lost-update ledger: CAS conflict ⇒ refuse Apply, reopen review_private; never force Apply"
+    }
+  }
+}

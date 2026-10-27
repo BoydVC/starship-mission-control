@@ -1,0 +1,279 @@
+{
+  "brief_id": "brief-113",
+  "title": "Cousin also_refused_by Dual-Proof LIVE Paint \u2014 Millersville Refusal Ledger When Flight15 Kit / Window Apply Attempted as LIVE T-0 Paint or Flight15 Text; merge_apply=false; also_refused_by live_t0_paint",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-113.md + peer-review-113.json + citations-113.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 273,
+  "citations_passed": true,
+  "pipeline_version": "v1.112.0",
+  "pairs": [
+    "brief-096",
+    "brief-091",
+    "brief-049"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "merge_apply=false \u2014 Flight15 kit Apply / Starship window Apply never satisfy LIVE T-0 paint or Flight15 text",
+    "also_refused_by live_t0_paint \u2014 ledger refusal when kit/window presented as LIVE T-0 paint or Flight15 text",
+    "kit_as_live_paint=0 / window_as_live_paint=0 \u2014 brief-091 / brief-049 \u2260 cyan LIVE T-0 paint",
+    "Never fabricate LIVE T-0; never fake LIVE T-0; dual_proof_required=1; single_source_live=0",
+    "Never silent_merge_apply; never fabricate_refusal / fake_live_refusal; hold_timeout_paint=0",
+    "Never auto-text kids/Flight15; burn_outbound=0; review_private default",
+    "Pairs brief-096 + brief-091 + brief-049; cousins brief-111/112/097/098 merge_apply=false",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_refusal",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/kit-as-live-paint",
+    "/api/window-as-live-paint",
+    "/api/merge-kit-live-t0",
+    "/api/merge-window-live-t0",
+    "/api/kit-as-flight15-text",
+    "/api/window-as-flight15-text",
+    "/api/flight15/kit-as-live-paint",
+    "/api/flight15/window-as-live-paint",
+    "/api/live-t0-paint/kit-merge",
+    "/api/live-t0-paint/window-merge",
+    "/api/silent-merge-kit-live",
+    "/api/silent-merge-window-live",
+    "/api/hold-timeout-paint",
+    "/api/fabricate-t0-from-kit",
+    "/api/fabricate-t0-from-window"
+  ],
+  "scorecard": {
+    "merge_apply": false,
+    "also_refused_by": [
+      "live_t0_paint",
+      "flight15_text_apply"
+    ],
+    "fabricate_t0": 0,
+    "auto_text_kids": 0,
+    "burn_outbound": 0,
+    "kit_as_live_paint": 0,
+    "window_as_live_paint": 0,
+    "fake_live_t0": 0,
+    "dual_proof_required": 1,
+    "single_source_live": 0,
+    "silent_merge_apply": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "hold_timeout_paint": 0,
+    "auto_text_flight15": 0
+  },
+  "cousins": {
+    "brief_096": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_t0_paint"
+      ],
+      "role": "Flight 15 T-0 dual-proof strip"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_t0_paint",
+        "flight15_text_apply"
+      ],
+      "role": "Flight 15 family alert kit"
+    },
+    "brief_049": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_t0_paint",
+        "flight15_text_apply"
+      ],
+      "role": "Starship launch window family alert"
+    },
+    "brief_111": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_t0_paint",
+        "t0_allowlist_apply"
+      ],
+      "role": "T-0 source allow-list (overlap)"
+    },
+    "brief_112": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_t0_paint",
+        "mismatch_hold_apply"
+      ],
+      "role": "dual-proof mismatch Hold (overlap)"
+    },
+    "brief_097": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_t0_paint",
+        "snack_order"
+      ],
+      "role": "snack allow-list (overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_t0_paint",
+        "flight15_text_apply"
+      ],
+      "role": "Flight15 also_refused_by (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Kit/window Apply \u2260 LIVE T-0 paint \u2260 Flight15 text. merge_apply=false. also_refused_by live_t0_paint. Never fabricate LIVE. Never auto-text kids.",
+  "live_t0_paint_also_refused_by_example": {
+    "schema": "live_t0_paint_also_refused_by/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 no LIVE refusal history; kit/window Apply \u2260 LIVE T-0 paint / Flight15 text; merge_apply=false; also_refused_by live_t0_paint",
+    "scorecard": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_t0_paint",
+        "flight15_text_apply"
+      ],
+      "fabricate_t0": 0,
+      "auto_text_kids": 0,
+      "burn_outbound": 0,
+      "kit_as_live_paint": 0,
+      "window_as_live_paint": 0,
+      "fake_live_t0": 0,
+      "dual_proof_required": 1,
+      "single_source_live": 0,
+      "silent_merge_apply": 0,
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "hold_timeout_paint": 0,
+      "auto_text_flight15": 0
+    },
+    "cousins": {
+      "brief-096": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_t0_paint"
+        ],
+        "role": "Flight 15 T-0 dual-proof strip"
+      },
+      "brief-091": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_t0_paint",
+          "flight15_text_apply"
+        ],
+        "role": "Flight 15 family alert kit"
+      },
+      "brief-049": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_t0_paint",
+          "flight15_text_apply"
+        ],
+        "role": "Starship launch window family alert"
+      },
+      "brief-111": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_t0_paint",
+          "t0_allowlist_apply"
+        ],
+        "role": "T-0 source allow-list (overlap)"
+      },
+      "brief-112": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_t0_paint",
+          "mismatch_hold_apply"
+        ],
+        "role": "dual-proof mismatch Hold (overlap)"
+      },
+      "brief-097": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_t0_paint",
+          "snack_order"
+        ],
+        "role": "snack allow-list (overlap)"
+      },
+      "brief-098": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_t0_paint",
+          "flight15_text_apply"
+        ],
+        "role": "Flight15 also_refused_by (overlap)"
+      }
+    },
+    "ledger": [
+      {
+        "id": "EXAMPLE-refuse-113-001",
+        "attempted_apply": "brief-091.flight15_kit",
+        "target_apply": "live_t0_paint",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; also_refused_by live_t0_paint; kit_as_live_paint=0",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "at": null
+      },
+      {
+        "id": "EXAMPLE-refuse-113-002",
+        "attempted_apply": "brief-049.starship_window",
+        "target_apply": "live_t0_paint",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; also_refused_by live_t0_paint; window_as_live_paint=0",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "at": null
+      },
+      {
+        "id": "EXAMPLE-refuse-113-003",
+        "attempted_apply": "brief-091.flight15_kit",
+        "target_apply": "flight15_text_apply",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; also_refused_by flight15_text_apply; kit \u2260 Flight15 text from LIVE paint path",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "at": null
+      }
+    ],
+    "hold": {
+      "state": "HOLD",
+      "attempted_from": null,
+      "destination": null,
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_refusal",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "created_at": null,
+      "expires_at": null,
+      "review_private": true,
+      "timeout_becomes_paint": false,
+      "cousin_ack": {
+        "brief_096": false,
+        "brief_091": false,
+        "brief_049": false,
+        "brief_111": false,
+        "brief_112": false,
+        "brief_097": false,
+        "brief_098": false
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "live_t0_paint_also_refused_by.json"
+    }
+  }
+}

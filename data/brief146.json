@@ -1,0 +1,494 @@
+{
+  "brief_id": "brief-146",
+  "title": "Cousin also_refused_by mismatch_auto_pick_or_fabricate — Millersville Refusal Ledger When mismatch Hold / Dual-Digest LIVE Paint / Pipeline Allow-List / Print Apply Attempted as Mismatch Auto-Pick or Fabricate LIVE Refusal from Mismatch (Still merge_apply=false / also_refused_by mismatch_auto_pick_or_fabricate; Never Auto-Pick; Never Fabricate Cyan); invent_apply_surface=0 / allowlist_apply_surfaces_only=1 / invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / mismatch_auto_pick=0 / fabricate_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / review_private_default=1",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-146.md + peer-review-146.json + citations-146.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 327,
+  "citations_passed": true,
+  "pipeline_version": "v1.145.0",
+  "pairs": [
+    "brief-127",
+    "brief-121",
+    "brief-126",
+    "brief-119"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE Cousin also_refused_by mismatch_auto_pick_or_fabricate ledger — when mismatch Hold / dual-digest LIVE paint / pipeline allow-list / print Apply attempted as mismatch auto-pick or fabricate LIVE refusal from mismatch; never auto-pick A/B; never invent cyan LIVE refusal from mismatch; never Hold timeout → cyan LIVE; invent_apply_surface=0; allowlist_apply_surfaces_only=1",
+    "invent_apply_surface=0 / allowlist_apply_surfaces_only=1 / invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / mismatch_auto_pick=0 / fabricate_refusal=0 / hold_timeout_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / single_digest_live=0 / fabricate_digest=0 / reuse_stale_digest=0",
+    "merge_apply=false / also_refused_by mismatch_auto_pick_or_fabricate / invent_apply_surface / allowlist_apply_surfaces_only / mismatch_auto_pick / fabricate_refusal",
+    "Pairs brief-127 + brief-121 + brief-126 + brief-119; cousins brief-145/144/143/142/141/140…128/125…120 (+117/116/098/091/085/088) merge_apply=false",
+    "Prefer 146 on mismatch_auto_pick/fabricate also_refused_by cousin paths; keep unique prior ownership (145 Apply surface allow-list, 144 disposition board, 143 live_print_kit_pipeline_paint, 142 off-list disposition, 141 pipeline-aware mismatch Hold, 127 mismatch Hold open, 121 dual-digest)",
+    "Personal household only — not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/mismatch-hold-apply-as-auto-pick",
+    "/api/dual-digest-live-paint-apply-as-auto-pick",
+    "/api/pipeline-allowlist-apply-as-auto-pick",
+    "/api/print-apply-as-auto-pick",
+    "/api/mismatch-hold-apply-as-fabricate-live-refusal",
+    "/api/dual-digest-live-paint-apply-as-fabricate-live-refusal",
+    "/api/pipeline-allowlist-apply-as-fabricate-live-refusal",
+    "/api/print-apply-as-fabricate-live-refusal",
+    "/api/mismatch-auto-pick-or-fabricate-as-cyan-live",
+    "/api/cyan-live-from-mismatch-auto-pick-or-fabricate",
+    "/api/fabricate-refusal-from-mismatch-auto-pick-or-fabricate",
+    "/api/fabricate-digest-via-mismatch-auto-pick-or-fabricate",
+    "/api/fake-live-from-mismatch-auto-pick-or-fabricate",
+    "/api/hold-timeout-mismatch-auto-pick-or-fabricate",
+    "/api/mismatch-auto-pick-or-fabricate-hold-timeout-live",
+    "/api/single-digest-after-mismatch-auto-pick-or-fabricate-live",
+    "/api/reuse-stale-digest-after-mismatch-auto-pick-or-fabricate",
+    "/api/invent-apply-surface-as-mismatch-auto-pick-or-fabricate",
+    "/api/off-allowlist-apply-surface-as-mismatch-auto-pick-or-fabricate",
+    "/api/cousin-apply-as-mismatch-auto-pick-or-fabricate",
+    "/api/silent-merge-cousin-mismatch-auto-pick-or-fabricate",
+    "/api/kit-print-as-mismatch-auto-pick-or-fabricate",
+    "/api/dual-digest-live-as-mismatch-auto-pick-or-fabricate",
+    "/api/snack-also-refused-by-as-mismatch-auto-pick-or-fabricate",
+    "/api/kit-print-as-mismatch-auto-pick-or-fabricate-apply",
+    "/api/dual-digest-live-as-mismatch-auto-pick-or-fabricate-apply",
+    "/api/snack-also-refused-by-as-mismatch-auto-pick-or-fabricate-apply",
+    "/api/merge-kit-print-mismatch-auto-pick-or-fabricate",
+    "/api/merge-dual-digest-live-mismatch-auto-pick-or-fabricate",
+    "/api/merge-snack-also-refused-by-mismatch-auto-pick-or-fabricate",
+    "/api/silent-merge-kit-print-mismatch-auto-pick-or-fabricate",
+    "/api/silent-merge-dual-digest-live-mismatch-auto-pick-or-fabricate",
+    "/api/silent-merge-snack-mismatch-auto-pick-or-fabricate",
+    "/api/apply-surface-145-as-mismatch-auto-pick-or-fabricate",
+    "/api/disposition-board-144-as-mismatch-auto-pick-or-fabricate",
+    "/api/live-print-kit-pipeline-paint-143-as-mismatch-auto-pick-or-fabricate",
+    "/api/off-list-disposition-142-as-mismatch-auto-pick-or-fabricate",
+    "/api/pipeline-aware-mismatch-141-as-mismatch-auto-pick-or-fabricate",
+    "/api/mismatch-hold-127-as-mismatch-auto-pick-or-fabricate",
+    "/api/dual-digest-121-as-mismatch-auto-pick-or-fabricate",
+    "/api/pipeline-allowlist-126-as-mismatch-auto-pick-or-fabricate",
+    "/api/kit-print-119-as-mismatch-auto-pick-or-fabricate",
+    "/api/invent-hold-offlist-140-as-mismatch-auto-pick-or-fabricate",
+    "/api/dual-digest-proof-139-as-mismatch-auto-pick-or-fabricate",
+    "/api/surface-allowlist-138-as-mismatch-auto-pick-or-fabricate",
+    "/api/live-off-list-paint-137-as-mismatch-auto-pick-or-fabricate",
+    "/api/off-list-mismatch-136-as-mismatch-auto-pick-or-fabricate",
+    "/api/off-list-pipeline-135-as-mismatch-auto-pick-or-fabricate",
+    "/api/invent-print-125-as-mismatch-auto-pick-or-fabricate",
+    "/api/invent-hold-123-as-mismatch-auto-pick-or-fabricate",
+    "/api/allowlist-120-as-mismatch-auto-pick-or-fabricate",
+    "/api/flight15/mismatch-hold-apply-as-auto-pick",
+    "/api/flight15/print-apply-as-fabricate-live-refusal",
+    "/api/flight15/cyan-live-from-mismatch-auto-pick-or-fabricate",
+    "/api/flight15/fabricate-refusal-from-mismatch-auto-pick-or-fabricate",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/cousin-merge",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/invent-surface",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/off-allowlist",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/cyan-live",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/auto-pick",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/fabricate",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/145-merge",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/144-merge",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/143-merge",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/142-merge",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/141-merge",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/127-merge",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/121-merge",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/126-merge",
+    "/api/mismatch-auto-pick-or-fabricate-also-refused-by/119-merge",
+    "/api/merge-mismatch-auto-pick-or-fabricate-cyan-live",
+    "/api/silent-merge-mismatch-auto-pick-or-fabricate-cyan-live",
+    "/api/auto-text-from-mismatch-auto-pick-or-fabricate",
+    "/api/auto-print-from-mismatch-auto-pick-or-fabricate"
+  ],
+  "named_triggers": [
+    "mismatch_hold_apply_as_auto_pick",
+    "dual_digest_live_paint_apply_as_auto_pick",
+    "pipeline_allowlist_apply_as_auto_pick",
+    "print_apply_as_auto_pick",
+    "mismatch_hold_apply_as_fabricate_live_refusal",
+    "dual_digest_live_paint_apply_as_fabricate_live_refusal",
+    "pipeline_allowlist_apply_as_fabricate_live_refusal",
+    "print_apply_as_fabricate_live_refusal"
+  ],
+  "scorecard": {
+    "invent_apply_surface": 0,
+    "allowlist_apply_surfaces_only": 1,
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "mismatch_auto_pick": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "mismatch_auto_pick_or_fabricate",
+      "mismatch_auto_pick",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "hold_timeout_refusal",
+      "invent_apply_surface",
+      "allowlist_apply_surfaces_only",
+      "dual_proof_required"
+    ],
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate",
+        "mismatch_hold_apply",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "Print also_refused_by dual-digest mismatch Hold (pair — owns Hold when A ≠ B; Hold open ≠ auto-pick / fabricate authority; this brief ledgers also_refused_by when Hold Apply attempted as auto-pick / fabricate)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate",
+        "print_kit_dual_digest_live"
+      ],
+      "role": "Print also_refused_by dual-digest (pair — owns matching dual digests before cyan LIVE; dual-digest LIVE paint ≠ auto-pick / fabricate from mismatch)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named print also_refused_by digest-pipeline allow-list (pair — pipeline membership ≠ auto-pick authority)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (pair — print Apply ≠ fabricate LIVE refusal from mismatch)"
+    },
+    "brief_145": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate",
+        "mismatch_hold_apply",
+        "invent_apply_surface"
+      ],
+      "role": "Named mismatch-Hold Apply surface allow-list (cousin — surface membership ≠ auto-pick / fabricate authority)"
+    },
+    "brief_144": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate",
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "Print mismatch Hold disposition board (cousin — disposition board ≠ auto-pick / fabricate)"
+    },
+    "brief_143": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate",
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "Cousin also_refused_by live_print_kit_pipeline_paint (cousin — paint refusal ledger ≠ auto-pick / fabricate)"
+    },
+    "brief_142": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate",
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "Named off-list disposition board (cousin — off-list disposition ≠ auto-pick / fabricate)"
+    },
+    "brief_141": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate",
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "Pipeline-aware mismatch Hold (cousin — pipeline-aware Hold ≠ auto-pick / fabricate)"
+    },
+    "brief_140": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "invent-Hold / off-list → invent-print-reason Apply (cousin overlap)"
+    },
+    "brief_139": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "Invent-print dual-digest proof (cousin overlap)"
+    },
+    "brief_138": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate",
+        "invent_print_apply_surface"
+      ],
+      "role": "Invent-print Apply surface (cousin overlap)"
+    },
+    "brief_137": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate",
+        "live_off_list_print_kit_reason_paint"
+      ],
+      "role": "LIVE off-list paint (cousin — never cyan from auto-pick)"
+    },
+    "brief_136": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "Off-list mismatch Hold (cousin overlap)"
+    },
+    "brief_135": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "Off-list digest-pipeline (cousin overlap)"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "invent-print-reason Hold (cousin overlap)"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "invent-Hold timeout (cousin overlap)"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "invent-Hold dual-digest (cousin overlap)"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "print_kit_live_apply (cousin overlap)"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "LIVE→print_kit dual-digest (cousin overlap)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "LIVE-Apply surface (cousin overlap)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "LIVE print_kit paint (cousin overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "invent-print-reason Apply (cousin overlap)"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "Off-list dual-digest (cousin overlap)"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "invent-Hold (cousin overlap)"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "LIVE cousin (cousin overlap)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (cousin overlap)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "Refusal ledger dual-digest (cousin overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "snack also_refused_by (cousin overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "Flight15 also_refused_by (cousin overlap)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "Flight15 kit / text (cousin overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "webcast LIVE (cousin overlap)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_auto_pick_or_fabricate"
+      ],
+      "role": "clash LIVE (cousin overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Mismatch Hold / dual-digest LIVE paint / pipeline allow-list / print Apply attempted as mismatch auto-pick or fabricate LIVE refusal from mismatch ⇒ ledger also_refused_by=mismatch_auto_pick_or_fabricate; still merge_apply=false; never auto-pick; never invent cyan; never Hold timeout → LIVE; invent_apply_surface=0; allowlist_apply_surfaces_only=1; invent_pipeline=0; off_allowlist_pipeline=0; allowlist_pipelines_only=1; mismatch_auto_pick=0; fabricate_refusal=0; hold_timeout_refusal=0; dual_proof_required=1; fake_live_refusal=0; review_private_default=1; Never burn outbound.",
+  "mismatch_auto_pick_or_fabricate_also_refused_by_example": {
+    "schema": "mismatch_auto_pick_or_fabricate_also_refused_by/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "invent_apply_surface": 0,
+    "allowlist_apply_surfaces_only": 1,
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "burn_outbound": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "mismatch_auto_pick_or_fabricate",
+      "mismatch_auto_pick",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "hold_timeout_refusal",
+      "invent_apply_surface",
+      "allowlist_apply_surfaces_only",
+      "dual_proof_required"
+    ],
+    "mismatch_auto_pick": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "review_private_default": 1,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "named_triggers": [
+      "mismatch_hold_apply_as_auto_pick",
+      "dual_digest_live_paint_apply_as_auto_pick",
+      "pipeline_allowlist_apply_as_auto_pick",
+      "print_apply_as_auto_pick",
+      "mismatch_hold_apply_as_fabricate_live_refusal",
+      "dual_digest_live_paint_apply_as_fabricate_live_refusal",
+      "pipeline_allowlist_apply_as_fabricate_live_refusal",
+      "print_apply_as_fabricate_live_refusal"
+    ],
+    "example_trigger_attempt": {
+      "trigger": "mismatch_hold_apply_as_auto_pick",
+      "hold_id": "hold_mismatch_print_kit_f15_EXAMPLE",
+      "digest_a": "digest_A_EXAMPLE",
+      "digest_b": "digest_B_EXAMPLE",
+      "digests_match": false,
+      "attempt_ok": false,
+      "auto_pick": false,
+      "fabricate_live_refusal": false,
+      "also_refused_by": "mismatch_auto_pick_or_fabricate",
+      "cyan_live": false,
+      "live_paint_authorized": false,
+      "invented": false,
+      "review": "review_private",
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — mismatch Hold Apply attempted as auto-pick when A ≠ B; ledger also_refused_by=mismatch_auto_pick_or_fabricate; still merge_apply=false; never auto-pick; never fabricate cyan (pairs brief-127 + brief-121 + brief-126 + brief-119)"
+    },
+    "example_fabricate_attempt": {
+      "trigger": "print_apply_as_fabricate_live_refusal",
+      "attempt_ok": false,
+      "fabricate_live_refusal": false,
+      "auto_pick": false,
+      "cyan_live": false,
+      "live_paint_authorized": false,
+      "invented": false,
+      "also_refused_by": "mismatch_auto_pick_or_fabricate",
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — print Apply attempted as fabricate LIVE refusal from mismatch; fabricate_refusal=0; fake_live_refusal=0; never cyan from fabricated mismatch refusal"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "status": "EXAMPLE",
+      "live_badge": false,
+      "refusal_id": null
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "reason": "mismatch_auto_pick_or_fabricate",
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false
+    },
+    "pairs": [
+      "brief-127",
+      "brief-121",
+      "brief-126",
+      "brief-119"
+    ],
+    "preferred_fold": ":4335"
+  }
+}

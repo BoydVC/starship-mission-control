@@ -1,0 +1,330 @@
+{
+  "brief_id": "brief-119",
+  "title": "Cousin also_refused_by Flight15 kit print Apply \u2014 Millersville Refusal Ledger When Clash / Webcast / Snack Apply Attempted as Kit Print; merge_apply=false; also_refused_by print_kit",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-119.md + peer-review-119.json + citations-119.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 313,
+  "citations_passed": true,
+  "pipeline_version": "v1.118.0",
+  "pairs": [
+    "brief-098",
+    "brief-091",
+    "brief-097"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE refusal ledger when clash / webcast / snack Apply attempted as kit print \u2014 never invent cyan LIVE print from cousin Apply",
+    "merge_apply=false / also_refused_by print_kit / clash_as_print_kit=0 / webcast_as_print_kit=0 / snack_as_print_kit=0",
+    "auto_print_kit=0 / burn_outbound=0 / fabricate_print=0 / fake_live_print=0",
+    "silent_merge_apply=0 / fabricate_refusal=0 / fake_live_refusal=0 / hold_timeout_print=0 / auto_text_kids=0 / auto_text_print=0",
+    "Pairs brief-098+091+097; cousins +116/085/088/114 merge_apply=false",
+    "also_refused_by on overlapping print_kit / clash / webcast / snack Apply surfaces",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_refusal",
+    "text_print",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/clash-as-print-kit",
+    "/api/webcast-as-print-kit",
+    "/api/snack-as-print-kit",
+    "/api/merge-clash-print-kit",
+    "/api/merge-webcast-print-kit",
+    "/api/merge-snack-print-kit",
+    "/api/clash-as-kit-print",
+    "/api/webcast-as-kit-print",
+    "/api/snack-as-kit-print",
+    "/api/flight15/clash-as-print-kit",
+    "/api/flight15/webcast-as-print-kit",
+    "/api/flight15/snack-as-print-kit",
+    "/api/print-kit/clash-merge",
+    "/api/print-kit/webcast-merge",
+    "/api/print-kit/snack-merge",
+    "/api/silent-merge-clash-print",
+    "/api/silent-merge-webcast-print",
+    "/api/silent-merge-snack-print",
+    "/api/fabricate-print-from-clash",
+    "/api/fabricate-print-from-webcast",
+    "/api/fabricate-print-from-snack",
+    "/api/hold-timeout-print-kit",
+    "/api/fake-live-print-from-cousin",
+    "/api/fabricate-print",
+    "/api/fake-live-print"
+  ],
+  "scorecard": {
+    "merge_apply": false,
+    "also_refused_by": [
+      "print_kit",
+      "flight15_kit_print"
+    ],
+    "auto_print_kit": 0,
+    "burn_outbound": 0,
+    "clash_as_print_kit": 0,
+    "webcast_as_print_kit": 0,
+    "snack_as_print_kit": 0,
+    "fabricate_print": 0,
+    "fake_live_print": 0,
+    "silent_merge_apply": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "hold_timeout_print": 0,
+    "auto_text_kids": 0,
+    "auto_text_print": 0
+  },
+  "cousins": {
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "flight15_text_apply"
+      ],
+      "role": "Flight15 also_refused_by"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit"
+      ],
+      "role": "Flight 15 family alert kit (print owner)"
+    },
+    "brief_097": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "snack_order"
+      ],
+      "role": "Flight 15 snack Hold allow-list"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "snack_order"
+      ],
+      "role": "snack also_refused_by (overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "webcast_apply"
+      ],
+      "role": "webcast (overlap)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "clash_apply"
+      ],
+      "role": "clash (overlap)"
+    },
+    "brief_114": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_order_paint"
+      ],
+      "role": "snack cart dual-proof (overlap)"
+    },
+    "brief_118": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "invent_refusal_reason"
+      ],
+      "role": "named refusal-reason allow-list (overlap)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_refusal_row_paint"
+      ],
+      "role": "refusal dual-digest (overlap)"
+    },
+    "brief_113": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_t0_paint"
+      ],
+      "role": "live_t0_paint also_refused_by (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Clash / webcast / snack Apply \u2260 kit print. merge_apply=false. also_refused_by print_kit. Never auto-print. Never burn outbound.",
+  "print_kit_also_refused_by_example": {
+    "schema": "print_kit_also_refused_by/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 rows are SYNTHETIC; never invent cyan LIVE print from clash/webcast/snack Apply; never fabricate refusal",
+    "scorecard": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "flight15_kit_print"
+      ],
+      "auto_print_kit": 0,
+      "burn_outbound": 0,
+      "clash_as_print_kit": 0,
+      "webcast_as_print_kit": 0,
+      "snack_as_print_kit": 0,
+      "fabricate_print": 0,
+      "fake_live_print": 0,
+      "silent_merge_apply": 0,
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "hold_timeout_print": 0,
+      "auto_text_kids": 0,
+      "auto_text_print": 0
+    },
+    "cousins": {
+      "brief-098": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "flight15_text_apply"
+        ],
+        "role": "Flight15 also_refused_by"
+      },
+      "brief-091": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit"
+        ],
+        "role": "Flight 15 family alert kit (print owner)"
+      },
+      "brief-097": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "snack_order"
+        ],
+        "role": "Flight 15 snack Hold allow-list"
+      },
+      "brief-116": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "snack_order"
+        ],
+        "role": "snack also_refused_by (overlap)"
+      },
+      "brief-085": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "webcast_apply"
+        ],
+        "role": "webcast (overlap)"
+      },
+      "brief-088": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "clash_apply"
+        ],
+        "role": "clash (overlap)"
+      },
+      "brief-114": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "live_order_paint"
+        ],
+        "role": "snack cart dual-proof (overlap)"
+      },
+      "brief-118": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "invent_refusal_reason"
+        ],
+        "role": "named refusal-reason allow-list (overlap)"
+      },
+      "brief-117": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "live_refusal_row_paint"
+        ],
+        "role": "refusal dual-digest (overlap)"
+      },
+      "brief-113": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "live_t0_paint"
+        ],
+        "role": "live_t0_paint also_refused_by (overlap)"
+      }
+    },
+    "ledger": [
+      {
+        "id": "ex-refusal-001",
+        "attempted": "brief-088.clash_apply",
+        "target": "print_kit",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; also_refused_by print_kit; clash_as_print_kit=0",
+        "honesty": "SYNTHETIC/EXAMPLE",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "ts": "2026-10-27T10:00:43-04:00"
+      }
+    ],
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 rows are SYNTHETIC; fabricate_refusal=0 / fake_live_refusal=0; clash/webcast/snack \u2260 kit print",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "hold": {
+      "state": "HOLD",
+      "destination": null,
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_refusal",
+        "text_print",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "created_at": null,
+      "expires_at": null,
+      "review_private": true,
+      "timeout_becomes_print": false,
+      "auto_print": null,
+      "auto_text": null,
+      "cousin_ack": {
+        "brief_098": false,
+        "brief_091": false,
+        "brief_097": false,
+        "brief_116": false,
+        "brief_085": false,
+        "brief_088": false,
+        "brief_114": false,
+        "brief_118": false,
+        "brief_117": false,
+        "brief_113": false
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "print_kit_also_refused_by.json",
+      "etag": "EXAMPLE_CAS"
+    },
+    "preferred_fold": ":4335"
+  }
+}

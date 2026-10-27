@@ -1,0 +1,31 @@
+ts_et	2026-10-27T15:54:57-04:00
+fold_ts	20261027-154914
+brief	brief-165
+title	Named Cyan-Row Paint Retry Storm Limiter after Repeated Stale If-Match under live_print_kit_refusal_paint — Millersville Limiter when Agents Retry Cyan Paint after N Stale If-Match / CAS Conflicts on brief-162 Lost-Update Ledger after brief-164 Extension Apply; Reopen review_private; Never Force Apply; invent_apply_surface=0 / burn_outbound=0 / review_private_default=1; merge_apply=false
+port	4335
+pid	2366349
+bak	server.py.bak-brief165-20261027-154914
+data	data/brief165.json
+api	/api/brief165 200 live_ok
+prior	/api/brief164 200 · /api/brief163 200
+smoke	5078/5078 PASS
+invent_apply_surface	0
+invent_pipeline	0
+off_allowlist_pipeline	0
+dual_proof_required	1
+review_private_default	1
+burn_outbound	0
+fabricate_digest	0
+reuse_stale_digest	0
+hold_timeout_refusal	0
+auto_text_kids	0
+auto_text_print	0
+auto_text_flight15	0
+merge_apply	False
+pairs	brief-164,brief-163,brief-162,brief-161,brief-160,brief-159,brief-158,brief-154
+retry_storm_limiter_surfaces	8
+brief_forge	untouched
+brief_166	not_started
+boyd_outbound	0
+cloud_agents	0
+kpd	0

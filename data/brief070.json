@@ -1,0 +1,148 @@
+{
+  "brief_id": "brief-070",
+  "title": "SpaceX Starbase Photo Trip HOLD \u2014 Millersville Family Starbase / South Texas Trip Idea Board",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-070.md",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 202,
+  "citations_passed": true,
+  "pairs": [
+    "brief-026",
+    "brief-020",
+    "brief-055",
+    "brief-049",
+    "brief-067"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD (Anne Arundel)",
+  "place_dest_example": "Starbase / Brownsville / South Padre, TX",
+  "constraints": [
+    "Trip board EXAMPLE/SYNTHETIC until this-session public launch-commit proof; never invent cyan LIVE GO / book-now",
+    "Trip stays HOLD; Hold before buy flights / reserve hotel / charge card; never auto-book",
+    "LIVE launch commit only with this-session public proof (SpaceX/LL2/NSF/NextSF) stamped America/New_York; missing proof => EXAMPLE",
+    "Never fabricate telemetry or T-0 to justify booking; never fake LIVE trip board from fixtures",
+    "Never auto-text Char/Vic trip notify; Hold timeout never books; burn_outbound=0",
+    "Pairs brief-026 Mission Control + brief-020 Starlink travel (+055/049/067); separate Apply surfaces",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "book_hold_destinations": [
+    "review_idea",
+    "research_only",
+    "buy_flights",
+    "reserve_hotel",
+    "book_package",
+    "charge_card",
+    "defer",
+    "reject"
+  ],
+  "trip_status_enum": [
+    "IDEA",
+    "HOLD",
+    "RESEARCH",
+    "READY_FOR_APPLY",
+    "BOOKED_AFTER_APPLY",
+    "CANCELLED"
+  ],
+  "refused_endpoints": [
+    "/api/auto-book-trip",
+    "/api/fabricate-launch-commit",
+    "/api/fabricate-telemetry",
+    "/api/fabricate-t0",
+    "/api/auto-reserve-hotel",
+    "/api/auto-buy-flights",
+    "/api/auto-charge-card",
+    "/api/auto-text-kids",
+    "/api/fake-live-trip-board",
+    "/api/hold-timeout-book",
+    "/api/trip/auto-book",
+    "/api/trip/auto-reserve"
+  ],
+  "scorecard": {
+    "auto_book_trip": 0,
+    "fabricate_launch_commit": 0,
+    "fabricate_telemetry": 0,
+    "fabricate_t0": 0,
+    "auto_reserve_hotel": 0,
+    "auto_buy_flights": 0,
+    "auto_charge_card": 0,
+    "auto_text_kids": 0,
+    "fake_live_trip_board": 0,
+    "hold_timeout_book": 0,
+    "burn_outbound": 0
+  },
+  "starbase_trip_board_example": {
+    "schema": "starbase-photo-trip/v1",
+    "tz": "America/New_York",
+    "place_home": "Millersville, MD",
+    "place_dest_example": "Starbase / Brownsville / South Padre, TX",
+    "honesty": "EXAMPLE/SYNTHETIC",
+    "launch": {
+      "status": "EXAMPLE",
+      "commit": null,
+      "net_et": null,
+      "source_url": null,
+      "fetched_at": null,
+      "proof": null,
+      "live_badge": false,
+      "note": "SYNTHETIC spring-break Starbase idea EXAMPLE \u2014 never cyan LIVE launch commit without public proof"
+    },
+    "trip": {
+      "status": "HOLD",
+      "idea": true,
+      "flights": [],
+      "hotels": [],
+      "photo_kit": [
+        {
+          "id": "camera",
+          "label": "Camera body + lens (EXAMPLE)",
+          "status": "CHECKLIST"
+        },
+        {
+          "id": "tripod",
+          "label": "Tripod / beanbag (EXAMPLE)",
+          "status": "CHECKLIST"
+        },
+        {
+          "id": "viewing",
+          "label": "Public beach / park viewing note (EXAMPLE)",
+          "status": "CHECKLIST"
+        }
+      ],
+      "book_ready": false,
+      "note": "EXAMPLE trip idea board \u2014 not LIVE; book Hold only"
+    },
+    "book_hold": {
+      "destination": null,
+      "state": "HOLD",
+      "options": [
+        "review_idea",
+        "research_only",
+        "buy_flights",
+        "reserve_hotel",
+        "book_package",
+        "charge_card",
+        "defer",
+        "reject"
+      ],
+      "default": "review_idea",
+      "auto_book": null,
+      "auto_reserve": null,
+      "auto_buy": null,
+      "auto_charge": null,
+      "requires": "Boyd/Miranda Apply",
+      "digest_sha256": null,
+      "expires_at": null
+    },
+    "notify_hold": {
+      "state": "HOLD",
+      "recipients_auto": [],
+      "draft_only": true,
+      "auto_text": null,
+      "requires": "Boyd/Miranda Apply"
+    },
+    "viewing_honesty": {
+      "pad_access": false,
+      "vip_tours": false,
+      "note": "Public beaches/parks EXAMPLE only \u2014 no VIP/pad-access claim"
+    }
+  }
+}

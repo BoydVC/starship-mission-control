@@ -1,0 +1,14 @@
+ts	20261027-162559
+brief	brief-171
+theme	retry-budget-reset-apply-cas-dual-digest-membership-proof
+smoke	6179/6179
+api_brief171	200
+pid	2522634
+bak	server.py.bak-brief171-20261027-162559
+audit	.audit/brief171-fold.tsv
+brief172_started	yes
+burn_outbound	0
+boyd_outbound	0
+cloud_agents	0
+port	4335
+forge_untouched	4330

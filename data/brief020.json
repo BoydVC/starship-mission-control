@@ -1,0 +1,131 @@
+{
+  "brief_id": "brief-020",
+  "source": "agent-brief-forge/out/brief-020.md + peer-review-020.json + citations-020.json",
+  "parent_briefs": [
+    "brief-009",
+    "brief-010",
+    "brief-013",
+    "brief-014",
+    "brief-018",
+    "brief-019"
+  ],
+  "peer_review": {
+    "verdict": "accept_with_revisions_noted",
+    "independence": "simulated peer (same model family) — prefer external /interrogate before fleet law"
+  },
+  "coverage_honesty": {
+    "rule": "public Starlink coverage / availability maps only; LIVE_MAP requires URL + fetched_at this session + address/status evidence — never invent Available; constellation ≠ FCC ≠ map ≠ sky ≠ plan",
+    "live_map_requires": ["source_url", "fetched_at", "status_evidence"],
+    "layers": [
+      "L0_constellation_CONTEXT",
+      "L1_FCC_STALE_SNAPSHOT",
+      "L2_Starlink_map_LIVE_MAP",
+      "L3_obstruction_UNKNOWN_until_scout",
+      "L4_plan_entitlement_LIVE_POLICY_or_HOLD"
+    ],
+    "green_requires": ["L2_pass_per_waypoint", "L4_pass_plan", "L3_not_BAD"],
+    "forbidden": [
+      "Available from constellation count",
+      "FCC hex / state share sold as orderable today",
+      "SYNTHETIC trip kit sold as LIVE coverage",
+      "SPA shell HTTP 200 as completed address check",
+      "reveal webm sold as LIVE coverage (brief-010)",
+      "enterprise availability API cosplay without credentials"
+    ]
+  },
+  "family_trip_kits": {
+    "rule": "kit cards are logistics (power, mounts, offline maps, cellular failover, kids packing) fused beside coverage — never replace LIVE_MAP; default SYNTHETIC until human Apply",
+    "home_base": {
+      "label": "Millersville, MD",
+      "status": "UNKNOWN",
+      "honesty": "Maryland FCC residential share is context (STALE_SNAPSHOT); home optimism still requires address check — never statewide Available cheer"
+    },
+    "minimum_kit": [
+      "dish_padded_case",
+      "dc_or_power_station",
+      "mount_tripod",
+      "travel_router_vpn",
+      "second_carrier_hotspot",
+      "offline_maps_media",
+      "weather_card",
+      "ready_gov_baseline"
+    ],
+    "auto_purchase": 0,
+    "auto_plan_change": 0,
+    "auto_campground_book": 0
+  },
+  "never_fabricate_coverage": {
+    "rule": "never_fabricate_coverage=0 hard law — scorecard column must stay zero (cousin of brief-019 never_fabricate_telemetry)",
+    "value": 0
+  },
+  "works_there_gates": {
+    "rule": "works-there / trip Available is a digest of gates, never a lonely green lamp; fail closed → HOLD",
+    "gates": [
+      "G1_live_map_or_unknown",
+      "G2_no_l0_l1_only_available",
+      "G3_fcc_stale_labeled",
+      "G4_plan_region_match",
+      "G5_kit_power_sky",
+      "G6_family_failover",
+      "G7_america_new_york_stamps",
+      "G8_synthetic_grey",
+      "G9_never_fabricate_coverage",
+      "G10_no_auto_purchase_plan_rsvp"
+    ],
+    "fail_closed": true,
+    "default_banner": "HOLD"
+  },
+  "denied_claims": [
+    "fake Available / works-there without LIVE_MAP",
+    "coverage-force green",
+    "fabricate-coverage",
+    "availability-claim without address fetch",
+    "FCC hex as LIVE capacity",
+    "constellation count as cabin coverage",
+    "Millersville / MD statewide Available without address check",
+    "auto-purchase Mini / Roam / campsite"
+  ],
+  "denied_mutations": [
+    "coverage-force",
+    "fabricate-coverage",
+    "availability-claim",
+    "fabricate",
+    "send",
+    "publish",
+    "overwrite",
+    "mutate",
+    "mission-ready-force"
+  ],
+  "refused_post_prefixes": [
+    "/api/coverage-force",
+    "/api/fabricate-coverage",
+    "/api/availability-claim",
+    "/api/mission-ready-force",
+    "/api/fabricate",
+    "/api/send",
+    "/api/publish",
+    "/api/overwrite",
+    "/api/mutate"
+  ],
+  "public_coverage_maps_only": true,
+  "public_data_only": true,
+  "auto_announce": 0,
+  "scorecard": {
+    "never_fabricate_coverage": 0,
+    "synthetic_as_live": 0,
+    "fcc_sold_as_live_capacity": 0,
+    "constellation_as_coverage": 0,
+    "wrong_roam_abroad": 0,
+    "stale_policy_fresh_badge": 0,
+    "auto_purchase": 0,
+    "missing_failover_family": 0,
+    "md_base_unchecked": 0,
+    "timezone_wrong": 0,
+    "kit_cas_clobber": 0,
+    "kpd_bleed": 0,
+    "fake_available_claims": 0,
+    "burn_outbound": 0,
+    "timezone": "America/New_York"
+  },
+  "separation": "brief-019 = never_fabricate_telemetry ops wall; brief-020 = never_fabricate_coverage + family trip kits for Starlink tab; maps are sources; kits are logistics; green is a privilege"
+}

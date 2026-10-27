@@ -1,0 +1,324 @@
+{
+  "brief_id": "brief-130",
+  "title": "LIVE Apply→print_kit also_refused_by Dual-Digest Proof Strip — Millersville Second Independent Ledger Digest Before Cyan LIVE Refusal-Row Paint When LIVE Cousin Apply Refused into print_kit also_refused_by; fabricate_refusal=0 / dual_proof_required=1 / fake_live_refusal=0",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-130.md + peer-review-130.json + citations-130.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 318,
+  "citations_passed": true,
+  "pipeline_version": "v1.129.0",
+  "pairs": [
+    "brief-122",
+    "brief-121",
+    "brief-119"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE dual ledger digests before cyan LIVE refusal-row when LIVE cousin Apply refused into print_kit also_refused_by — never cyan LIVE from one digest / fixture / LIVE cousin Apply alone",
+    "fabricate_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / single_digest_live=0 / mismatch_auto_pick=0 / burn_outbound=0",
+    "fabricate_digest=0 / reuse_stale_digest=0 / hold_timeout_refusal=0 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / merge_apply=false / also_refused_by print_kit / review_private_default=1",
+    "Pairs brief-122 + brief-121 + brief-119; cousins brief-122/121/119(+129/128/127/126/120/117/091) merge_apply=false",
+    "also_refused_by on overlapping LIVE→print_kit dual-digest / cyan LIVE refusal-row paint paths; prefer 130 on LIVE Apply→print_kit also_refused_by dual-digest proof strip paths",
+    "Personal household only — not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/single-digest-live-apply-print-kit-refusal",
+    "/api/single-digest-live-cousin-print-kit-refusal",
+    "/api/live-apply-print-kit-also-refused-by/single-digest",
+    "/api/live-apply-print-kit-also-refused-by/fabricate-refusal",
+    "/api/live-apply-print-kit-also-refused-by/fake-live-refusal",
+    "/api/live-apply-print-kit-also-refused-by/mismatch-auto-pick",
+    "/api/live-apply-print-kit-also-refused-by/fabricate-digest",
+    "/api/live-apply-print-kit-also-refused-by/reuse-stale-digest",
+    "/api/live-apply-print-kit-also-refused-by/hold-timeout",
+    "/api/live-cousin-apply-as-cyan-live-refusal",
+    "/api/live-cousin-122-as-cyan-live-refusal-row",
+    "/api/dual-digest-121-as-cyan-live-refusal-live-apply-print-kit",
+    "/api/print-kit-119-as-cyan-live-refusal-live-apply",
+    "/api/fabricate-live-apply-print-kit-refusal",
+    "/api/fake-live-apply-print-kit-refusal",
+    "/api/mismatch-auto-pick-live-apply-print-kit",
+    "/api/fabricate-digest-live-apply-print-kit",
+    "/api/reuse-stale-digest-live-apply-print-kit",
+    "/api/hold-timeout-live-apply-print-kit-refusal",
+    "/api/cousin-apply-as-live-apply-print-kit-dual-digest",
+    "/api/silent-merge-cousin-live-apply-print-kit-dual-digest",
+    "/api/surface-allowlist-as-live-apply-print-kit-dual-digest",
+    "/api/paint-as-live-apply-print-kit-dual-digest",
+    "/api/mismatch-hold-as-live-apply-print-kit-dual-digest",
+    "/api/pipeline-allowlist-as-live-apply-print-kit-dual-digest",
+    "/api/flight15/live-cousin-as-cyan-live-refusal",
+    "/api/flight15/single-digest-live-apply-print-kit",
+    "/api/live-apply-print-kit-dual-digest/cousin-merge",
+    "/api/live-apply-print-kit-dual-digest/122-merge",
+    "/api/live-apply-print-kit-dual-digest/121-merge",
+    "/api/live-apply-print-kit-dual-digest/119-merge",
+    "/api/live-apply-print-kit-dual-digest/129-merge",
+    "/api/live-apply-print-kit-dual-digest/128-merge",
+    "/api/merge-live-cousin-cyan-live-refusal",
+    "/api/silent-merge-live-cousin-cyan-live-refusal",
+    "/api/auto-text-from-single-digest-live-apply-print-kit",
+    "/api/auto-print-from-single-digest-live-apply-print-kit"
+  ],
+  "scorecard": {
+    "fabricate_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "single_digest_live": 0,
+    "mismatch_auto_pick": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "hold_timeout_refusal": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "print_kit",
+      "live_apply_print_kit_also_refused_by_dual_digest",
+      "single_digest_live",
+      "fabricate_refusal",
+      "fake_live_refusal"
+    ],
+    "burn_outbound": 0,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "review_private_default": 1,
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_print_kit_also_refused_by_dual_digest"
+      ],
+      "role": "LIVE cousin also_refused_by print_kit (pair — owns refusal ledger when LIVE Apply presented as print_kit also_refused_by; this brief gates cyan LIVE after dual digests)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_print_kit_also_refused_by_dual_digest",
+        "dual_digest_live_apply"
+      ],
+      "role": "Print also_refused_by dual-digest (pair — owns dual digests for print_kit also_refused_by rows generally; this brief specializes to LIVE cousin Apply→print_kit)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_print_kit_also_refused_by_dual_digest",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (pair — owns print_kit rows; print Apply ≠ cyan LIVE)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_print_kit_also_refused_by_dual_digest",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "Named LIVE-Apply surface allow-list (overlap — membership ≠ dual-digest LIVE proof)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_print_kit_also_refused_by_dual_digest",
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "Cousin also_refused_by dual-digest LIVE print_kit also_refused_by paint (overlap)"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_print_kit_also_refused_by_dual_digest",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "Print also_refused_by dual-digest mismatch Hold (overlap)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_print_kit_also_refused_by_dual_digest",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named digest-pipeline allow-list (overlap)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_print_kit_also_refused_by_dual_digest"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (overlap)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_print_kit_also_refused_by_dual_digest",
+        "dual_digest_live_apply"
+      ],
+      "role": "Refusal ledger dual-digest (overlap)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_print_kit_also_refused_by_dual_digest",
+        "kit_apply"
+      ],
+      "role": "Flight 15 family alert kit (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Two independent matching ledger digests before cyan LIVE refusal-row when LIVE cousin Apply refused into print_kit also_refused_by. Never fabricate LIVE refusal. dual_proof_required=1. merge_apply=false. also_refused_by print_kit. Never burn outbound.",
+  "live_apply_print_kit_also_refused_by_dual_digest_example": {
+    "schema": "live_apply_print_kit_also_refused_by_dual_digest/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "dual_proof_required": 1,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "pipelines_allowlist": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "also_refused_by": [
+      "print_kit",
+      "live_apply_print_kit_also_refused_by_dual_digest",
+      "single_digest_live",
+      "fabricate_refusal",
+      "fake_live_refusal"
+    ],
+    "example_proof": {
+      "row_id": "refuse_live_apply_to_print_kit_clash_SYNTHETIC",
+      "trigger": "LIVE cousin Apply (clash_live_apply) refused into print_kit also_refused_by",
+      "digest_a": {
+        "pipeline": "on_disk_row_sha256",
+        "value": "EXAMPLE_DIGEST_A",
+        "fetched_at": "2026-10-27T09:00:00-04:00",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "honesty": "SYNTHETIC"
+      },
+      "digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "value": "EXAMPLE_DIGEST_A",
+        "fetched_at": "2026-10-27T09:00:01-04:00",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "honesty": "SYNTHETIC"
+      },
+      "match": true,
+      "live_paint_authorized": false,
+      "honesty": "SYNTHETIC — matching digests EXAMPLE only; human Apply still required before cyan LIVE"
+    },
+    "digests": [
+      {
+        "pipeline": "on_disk_row_sha256",
+        "value": "EXAMPLE_DIGEST_A",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "honesty": "SYNTHETIC"
+      },
+      {
+        "pipeline": "apply_ledger_row_digest",
+        "value": "EXAMPLE_DIGEST_A",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "honesty": "SYNTHETIC"
+      }
+    ],
+    "scorecard": {
+      "fabricate_refusal": 0,
+      "dual_proof_required": 1,
+      "fake_live_refusal": 0,
+      "single_digest_live": 0,
+      "mismatch_auto_pick": 0,
+      "fabricate_digest": 0,
+      "reuse_stale_digest": 0,
+      "hold_timeout_refusal": 0,
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_apply_print_kit_also_refused_by_dual_digest",
+        "single_digest_live",
+        "fabricate_refusal",
+        "fake_live_refusal"
+      ],
+      "burn_outbound": 0,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "auto_text_print": 0,
+      "review_private_default": 1
+    },
+    "pairs": [
+      "brief-122",
+      "brief-121",
+      "brief-119"
+    ],
+    "cousins_merge_apply_false": [
+      "brief-122",
+      "brief-121",
+      "brief-119",
+      "brief-129",
+      "brief-128",
+      "brief-127",
+      "brief-126",
+      "brief-120",
+      "brief-117",
+      "brief-091"
+    ],
+    "preferred_fold": ":4335",
+    "honesty": "EXAMPLE/SYNTHETIC — matching dual digests EXAMPLE only; never cyan LIVE without this-session dual independent digests + Hold→Apply; LIVE cousin Apply ≠ cyan LIVE; fabricate_refusal=0; dual_proof_required=1; fake_live_refusal=0; merge_apply=false; also_refused_by print_kit",
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "destination": null,
+      "auto_paint": null,
+      "auto_text": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "reason": "awaiting_matching_dual_digests_and_human_apply"
+    },
+    "live_refusal_row_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE — dual digests never paint cyan LIVE alone; human Apply required; fabricate_refusal=0; dual_proof_required=1; fake_live_refusal=0; single_digest_live=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE — dual digests never paint cyan LIVE alone; human Apply required; fabricate_refusal=0; dual_proof_required=1; fake_live_refusal=0; single_digest_live=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    }
+  }
+}

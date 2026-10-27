@@ -1,0 +1,246 @@
+{
+  "brief_id": "brief-098",
+  "title": "Cousin also_refused_by Flight15 Apply \u2014 Millersville Refusal Ledger When Clash/Webcast Apply Attempted as Flight15 Text; merge_apply=false; also_refused_by Flight15 Text Apply",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-098.md + peer-review-098.json + citations-098.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 207,
+  "citations_passed": true,
+  "pipeline_version": "v1.97.0",
+  "pairs": [
+    "brief-091",
+    "brief-058",
+    "brief-088",
+    "brief-085"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "merge_apply=false \u2014 clash Apply / webcast Apply never satisfy Flight15 text Apply",
+    "also_refused_by text_flight15 \u2014 ledger refusal when cousin Apply presented as Flight15 text",
+    "Never fabricate LIVE T-0; never auto-text Char/Vic; never fake LIVE alert; burn_outbound=0",
+    "Never silent_merge_apply; never fabricate_refusal / fake_live_refusal rows painted cyan",
+    "Cousins brief-091 + brief-058/088 + brief-085 (+096/097) merge_apply=false",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "text_flight15",
+    "text_kids",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/merge-apply",
+    "/api/silent-merge-apply",
+    "/api/auto-merge-apply",
+    "/api/clash-as-flight15",
+    "/api/webcast-as-flight15",
+    "/api/fabricate-refusal",
+    "/api/fake-live-refusal",
+    "/api/fake-live-alert",
+    "/api/merge-clash-flight15",
+    "/api/merge-webcast-flight15",
+    "/api/cousin-merge-apply",
+    "/api/flight15/merge-apply",
+    "/api/flight15/silent-merge",
+    "/api/ledger/fabricate-refusal",
+    "/api/ledger/fake-live",
+    "/api/also-refused-by/clear",
+    "/api/also-refused-by/none"
+  ],
+  "scorecard": {
+    "merge_apply": false,
+    "also_refused_by": [
+      "text_flight15"
+    ],
+    "fabricate_t0": 0,
+    "auto_text_kids": 0,
+    "burn_outbound": 0,
+    "fake_live_alert": 0,
+    "auto_text_flight15": 0,
+    "hold_timeout_text": 0,
+    "silent_merge_apply": 0,
+    "clash_as_flight15": 0,
+    "webcast_as_flight15": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0
+  },
+  "cousins": {
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "text_flight15"
+      ],
+      "role": "Flight 15 family alert kit"
+    },
+    "brief_058": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "text_flight15"
+      ],
+      "role": "SpaceX\u00d7Chelsea clash"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "text_flight15"
+      ],
+      "role": "SpaceX\u00d7Ravens clash"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "text_flight15"
+      ],
+      "role": "webcast mirror"
+    },
+    "brief_096": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "text_flight15",
+        "live_t0_paint"
+      ],
+      "role": "T-0 dual-proof (overlap)"
+    },
+    "brief_097": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "text_flight15",
+        "snack_order"
+      ],
+      "role": "snack allow-list (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Clash Apply \u2260 webcast Apply \u2260 Flight15 text Apply. Ledger the refusal. Never silent-merge. Never fabricate T-0. Never auto-text kids.",
+  "flight15_also_refused_by_example": {
+    "schema": "flight15_also_refused_by/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 no LIVE refusal history; clash/webcast Apply \u2260 Flight15 text; merge_apply=false",
+    "scorecard": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "text_flight15"
+      ],
+      "fabricate_t0": 0,
+      "auto_text_kids": 0,
+      "burn_outbound": 0,
+      "fake_live_alert": 0,
+      "auto_text_flight15": 0,
+      "hold_timeout_text": 0,
+      "silent_merge_apply": 0,
+      "clash_as_flight15": 0,
+      "webcast_as_flight15": 0,
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0
+    },
+    "cousins": {
+      "brief-091": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "text_flight15"
+        ],
+        "role": "Flight15 kit / text / snack"
+      },
+      "brief-058": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "text_flight15"
+        ],
+        "role": "SpaceX\u00d7Chelsea clash"
+      },
+      "brief-088": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "text_flight15"
+        ],
+        "role": "SpaceX\u00d7Ravens clash"
+      },
+      "brief-085": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "text_flight15"
+        ],
+        "role": "webcast mirror"
+      },
+      "brief-096": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "text_flight15",
+          "live_t0_paint"
+        ],
+        "role": "T-0 dual-proof (overlap)"
+      },
+      "brief-097": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "text_flight15",
+          "snack_order"
+        ],
+        "role": "snack allow-list (overlap)"
+      }
+    },
+    "ledger": [
+      {
+        "id": "EXAMPLE-refuse-001",
+        "attempted_apply": "brief-058.clash",
+        "target_apply": "text_flight15",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; also_refused_by text_flight15",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "at": null
+      },
+      {
+        "id": "EXAMPLE-refuse-002",
+        "attempted_apply": "brief-085.webcast",
+        "target_apply": "text_flight15",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; webcast_as_flight15=0; also_refused_by text_flight15",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "at": null
+      },
+      {
+        "id": "EXAMPLE-refuse-003",
+        "attempted_apply": "brief-088.clash",
+        "target_apply": "text_flight15",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; clash_as_flight15=0; also_refused_by text_flight15",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "at": null
+      }
+    ],
+    "hold": {
+      "state": "HOLD",
+      "attempted_from": null,
+      "destination": null,
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "text_flight15",
+        "text_kids",
+        "defer",
+        "reject"
+      ],
+      "created_at": null,
+      "expires_at": null,
+      "review_private": true,
+      "cousin_ack": {
+        "brief_091": false,
+        "brief_058": false,
+        "brief_088": false,
+        "brief_085": false,
+        "brief_096": false,
+        "brief_097": false
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "flight15_also_refused_by.json"
+    }
+  }
+}

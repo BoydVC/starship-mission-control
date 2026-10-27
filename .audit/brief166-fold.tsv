@@ -1,0 +1,31 @@
+ts_et	2026-10-27T15:58:41-04:00
+fold_ts	20261027-155532
+brief	brief-166
+title	Membership Dual-Digest Proof Strip before Cousin also_refused_by Close after Extension under live_print_kit_refusal_paint — Millersville Dual-Digest Membership Proof before Closing also_refused_by on brief-160 Cousin Attempt after brief-164 Extension Apply / brief-165 Storm Clear; dual_proof_required=1 / fabricate_digest=0 / single_digest_live=0; invent_apply_surface=0 / burn_outbound=0 / review_private_default=1; merge_apply=false
+port	4335
+pid	2388174
+bak	server.py.bak-brief166-20261027-155532
+data	data/brief166.json
+api	/api/brief166 200 live_ok
+prior	/api/brief165 200 · /api/brief164 200
+smoke	5259/5259 PASS
+invent_apply_surface	0
+invent_pipeline	0
+off_allowlist_pipeline	0
+dual_proof_required	1
+review_private_default	1
+burn_outbound	0
+fabricate_digest	0
+reuse_stale_digest	0
+hold_timeout_refusal	0
+auto_text_kids	0
+auto_text_print	0
+auto_text_flight15	0
+merge_apply	False
+pairs	brief-165,brief-164,brief-163,brief-162,brief-161,brief-160,brief-159,brief-158,brief-157
+membership_dual_digest_strip_surfaces	8
+brief_forge	untouched
+brief_167	not_started
+boyd_outbound	0
+cloud_agents	0
+kpd	0

@@ -1,0 +1,253 @@
+{
+  "brief_id": "brief-111",
+  "title": "Independent T-0 Source Allow-List \u2014 Millersville Named Publisher Allow-List (SpaceX/NSF/LL2/RLL/NextSF/SFN) That May Count Toward Dual Proof; Never Single-Source LIVE",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-111.md + peer-review-111.json + citations-111.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 310,
+  "citations_passed": true,
+  "pipeline_version": "v1.110.0",
+  "pairs": [
+    "brief-096",
+    "brief-091"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "single_source_live=0 \u2014 never cyan LIVE T-0 from one source (even on-list)",
+    "allowlist_only=1 \u2014 only SpaceX/NSF/LL2/RLL/NextSF/SFN may count toward dual proof",
+    "fabricate_t0=0 / fake_live_t0=0 \u2014 no cyan LIVE without dual on-list proofs; no fixture LIVE",
+    "dual_proof_required=1 still holds \u2014 allow-list names who may count, not a single-source waiver",
+    "Never auto-text kids/Flight15; Hold timeout never alerts; burn_outbound=0",
+    "Cousins brief-096 + brief-091 (+049/097/098) merge_apply=false \u2014 kit/window/dual-proof Apply \u2260 allow-list Apply",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_allowlist",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/single-source-live",
+    "/api/off-allowlist-t0",
+    "/api/fabricate-t0",
+    "/api/fake-live-t0",
+    "/api/flight15/fabricate-t0",
+    "/api/flight15/fake-live-t0",
+    "/api/flight15/single-source-live",
+    "/api/flight15/off-allowlist-t0",
+    "/api/t0/off-allowlist",
+    "/api/t0/single-source",
+    "/api/allowlist/t0-bypass",
+    "/api/allowlist/single-source-live",
+    "/api/publisher/off-allowlist",
+    "/api/t0/allowlist-bypass",
+    "/api/fabricate-t0-allowlist"
+  ],
+  "scorecard": {
+    "single_source_live": 0,
+    "allowlist_only": 1,
+    "fabricate_t0": 0,
+    "dual_proof_required": 1,
+    "fake_live_t0": 0,
+    "off_allowlist_t0": 0,
+    "burn_outbound": 0,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "hold_timeout_alert": 0,
+    "reuse_stale_t0": 0,
+    "fabricate_telemetry": 0,
+    "auto_post_t0": 0,
+    "allowlist_kinds_only": 1
+  },
+  "cousins": {
+    "brief_096": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "t0_allowlist_apply",
+        "live_t0_paint"
+      ],
+      "role": "Flight 15 T-0 dual-proof strip"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "t0_allowlist_apply",
+        "flight15_text"
+      ],
+      "role": "Flight 15 family alert kit"
+    },
+    "brief_049": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "t0_allowlist_apply",
+        "live_t0_paint"
+      ],
+      "role": "Starship launch window"
+    },
+    "brief_097": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "t0_allowlist_apply",
+        "snack_order"
+      ],
+      "role": "Flight 15 snack allow-list"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "t0_allowlist_apply",
+        "flight15_apply"
+      ],
+      "role": "Flight15 also_refused_by ledger"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Only named publishers may count toward dual proof. Still dual_proof_required=1. Never single-source LIVE. Never fabricate LIVE T-0.",
+  "flight15_t0_source_allowlist_example": {
+    "schema": "flight15_t0_source_allowlist/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "status": "EXAMPLE",
+    "live_t0": null,
+    "dual_proof_required": 1,
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 allowlisted=true \u2260 single-source LIVE; dual_proof_required=1; live_t0 null",
+    "allowlist_publishers": [
+      {
+        "publisher_id": "spacex_official",
+        "kind": "spacex",
+        "host_or_path": "https://www.spacex.com/",
+        "allowlisted": true,
+        "label": "EXAMPLE SpaceX official",
+        "fetched_at": null
+      },
+      {
+        "publisher_id": "nsf_main",
+        "kind": "nsf",
+        "host_or_path": "https://www.nasaspaceflight.com/",
+        "allowlisted": true,
+        "label": "EXAMPLE NASASpaceflight",
+        "fetched_at": null
+      },
+      {
+        "publisher_id": "ll2_starship",
+        "kind": "ll2",
+        "host_or_path": "https://ll.thespacedevs.com/2.3.0/launches/upcoming/?search=Starship&limit=5",
+        "allowlisted": true,
+        "label": "EXAMPLE Launch Library 2",
+        "fetched_at": null
+      },
+      {
+        "publisher_id": "rll_f15",
+        "kind": "rll",
+        "host_or_path": "https://www.rocketlaunch.live/launch/starship-flight-15",
+        "allowlisted": true,
+        "label": "EXAMPLE RocketLaunch.Live F15",
+        "fetched_at": null
+      },
+      {
+        "publisher_id": "nextsf_starship",
+        "kind": "nextsf",
+        "host_or_path": "https://nextspaceflight.com/starship/",
+        "allowlisted": true,
+        "label": "EXAMPLE Next Spaceflight Starship",
+        "fetched_at": null
+      },
+      {
+        "publisher_id": "sfn_schedule",
+        "kind": "sfn",
+        "host_or_path": "https://spaceflightnow.com/launch-schedule/",
+        "allowlisted": true,
+        "label": "EXAMPLE Spaceflight Now schedule",
+        "fetched_at": null
+      }
+    ],
+    "hold": {
+      "state": "HOLD",
+      "action": null,
+      "destination": null,
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_allowlist",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "publisher_ids": [],
+      "created_at": null,
+      "expires_at": null,
+      "review_private": true,
+      "cousin_ack": {
+        "brief_096": false,
+        "brief_091": false,
+        "brief_049": false,
+        "brief_097": false,
+        "brief_098": false
+      }
+    },
+    "scorecard": {
+      "single_source_live": 0,
+      "allowlist_only": 1,
+      "fabricate_t0": 0,
+      "dual_proof_required": 1,
+      "fake_live_t0": 0,
+      "off_allowlist_t0": 0,
+      "burn_outbound": 0,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "hold_timeout_alert": 0,
+      "reuse_stale_t0": 0,
+      "fabricate_telemetry": 0,
+      "auto_post_t0": 0,
+      "allowlist_kinds_only": 1
+    },
+    "cousins": {
+      "brief-096": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "t0_allowlist_apply",
+          "live_t0_paint"
+        ]
+      },
+      "brief-091": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "t0_allowlist_apply",
+          "flight15_text"
+        ]
+      },
+      "brief-049": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "t0_allowlist_apply",
+          "live_t0_paint"
+        ]
+      },
+      "brief-097": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "t0_allowlist_apply",
+          "snack_order"
+        ]
+      },
+      "brief-098": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "t0_allowlist_apply",
+          "flight15_apply"
+        ]
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "flight15_t0_source_allowlist.json"
+    }
+  }
+}

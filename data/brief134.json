@@ -1,0 +1,344 @@
+{
+  "brief_id": "brief-134",
+  "title": "Cousin also_refused_by invent-print-reason Hold Apply \u2014 Millersville Refusal Ledger When invent-print-reason Hold / Dual-Digest Invent / LIVE Cousin Apply Attempted as invent-mint or auto-LIVE from invent; merge_apply=false; also_refused_by invent_print_reason_hold",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-134.md + peer-review-134.json + citations-134.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 313,
+  "citations_passed": true,
+  "pipeline_version": "v1.133.0",
+  "pairs": [
+    "brief-123",
+    "brief-120",
+    "brief-119",
+    "brief-122"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE invent_print_reason_hold also_refused_by ledger when invent-print-reason Hold / dual-digest invent / LIVE cousin Apply attempted as invent-mint or auto-LIVE from invent",
+    "invent_refusal_reason=0 / fabricate_refusal=0 / fake_live_refusal=0 / burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / single_digest_live=0 / dual_proof_required=1 / hold_timeout_refusal=0 / invent_mint_from_hold=0 / auto_live_from_invent=0 / silent_cousin_merge=0",
+    "merge_apply=false / also_refused_by invent_print_reason_hold",
+    "Pairs brief-123 + brief-120 + brief-119 + brief-122; cousins brief-133/132/131/130/129/128/127/126/125/121 merge_apply=false",
+    "also_refused_by on overlapping invent-mint / auto-LIVE-from-invent paths; prefer 134 on invent_print_reason_hold / invent-mint-from-hold / auto-live-from-invent cousin paths",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/invent-mint-from-hold",
+    "/api/invent-mint-from-invent-print-reason-hold",
+    "/api/auto-live-from-invent",
+    "/api/auto-live-from-invent-print-reason-hold",
+    "/api/fabricate-invent-print-reason-hold-refusal",
+    "/api/fake-live-invent-print-reason-hold",
+    "/api/single-digest-invent-print-reason-hold-live",
+    "/api/hold-timeout-as-invent-mint",
+    "/api/hold-timeout-as-invent-live",
+    "/api/silent-cousin-merge-invent-mint",
+    "/api/cousin-apply-as-invent-mint",
+    "/api/cousin-apply-as-auto-live-from-invent",
+    "/api/invent-hold-123-as-invent-mint",
+    "/api/allowlist-120-as-invent-mint",
+    "/api/print-kit-119-as-invent-mint",
+    "/api/live-cousin-122-as-invent-mint",
+    "/api/timeout-disposition-133-as-invent-mint",
+    "/api/dual-digest-132-as-invent-mint",
+    "/api/print-kit-live-apply-131-as-invent-mint",
+    "/api/live-print-kit-130-as-invent-mint",
+    "/api/surface-allowlist-129-as-invent-mint",
+    "/api/paint-128-as-invent-mint",
+    "/api/mismatch-hold-127-as-invent-mint",
+    "/api/pipeline-allowlist-126-as-invent-mint",
+    "/api/invent-print-reason-apply-125-as-invent-mint",
+    "/api/dual-digest-print-121-as-invent-mint",
+    "/api/flight15/invent-mint-from-hold",
+    "/api/flight15/auto-live-from-invent",
+    "/api/invent-print-reason-hold/invent-mint",
+    "/api/invent-print-reason-hold/auto-live",
+    "/api/invent-print-reason-hold/fabricate-refusal",
+    "/api/invent-print-reason-hold/fake-live",
+    "/api/invent-print-reason-hold/cousin-merge",
+    "/api/invent-print-reason-hold/123-merge",
+    "/api/invent-print-reason-hold/120-merge",
+    "/api/invent-print-reason-hold/119-merge",
+    "/api/invent-print-reason-hold/122-merge",
+    "/api/invent-print-reason-hold/133-merge",
+    "/api/invent-print-reason-hold/132-merge",
+    "/api/merge-invent-mint-cyan-live",
+    "/api/silent-merge-invent-mint-cyan-live",
+    "/api/auto-text-from-invent-mint",
+    "/api/auto-print-from-invent-mint",
+    "/api/invent-refusal-reason-as-invent-mint"
+  ],
+  "scorecard": {
+    "invent_refusal_reason": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "dual_proof_required": 1,
+    "hold_timeout_refusal": 0,
+    "invent_mint_from_hold": 0,
+    "auto_live_from_invent": 0,
+    "silent_cousin_merge": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "invent_print_reason_hold",
+      "invent_mint_from_hold",
+      "auto_live_from_invent",
+      "silent_cousin_merge",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "invent_refusal_reason"
+    ],
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "invent_hold"
+      ],
+      "role": "Invented print_kit refusal-reason Hold (pair \u2014 owns Hold when off-list reason proposed; this brief owns also_refused_by invent_print_reason_hold when Hold Apply attempted as invent-mint / auto-LIVE)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (pair \u2014 membership \u2260 invent-mint)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (pair)"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold"
+      ],
+      "role": "LIVE cousin also_refused_by print_kit (pair \u2014 LIVE cousin Apply \u2260 invent-mint / auto-LIVE from invent)"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "invent_hold_timeout_disposition"
+      ],
+      "role": "Invent-Hold timeout disposition board (overlap \u2014 timeout disposition \u2260 invent-mint)"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "invent_hold_dual_digest"
+      ],
+      "role": "Print invent-Hold dual-digest proof (overlap)"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "print_kit_live_apply"
+      ],
+      "role": "Cousin invent-print / dual-digest LIVE paint as print_kit_live_apply (overlap)"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold"
+      ],
+      "role": "LIVE\u2192print_kit dual-digest proof strip (overlap)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "Named LIVE-Apply surface allow-list (overlap)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "Cousin dual-digest LIVE print_kit also_refused_by paint (overlap)"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "Print also_refused_by dual-digest mismatch Hold (overlap)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named digest-pipeline allow-list (overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "invent_print_reason_apply"
+      ],
+      "role": "Cousin invent-print-reason Apply (overlap)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "dual_digest_live_apply"
+      ],
+      "role": "Print also_refused_by dual-digest (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "When invent-print-reason Hold / dual-digest invent / LIVE cousin Apply is attempted as invent-mint or auto-LIVE from invent, ledger also_refused_by invent_print_reason_hold. invent_mint_from_hold=0. auto_live_from_invent=0. silent_cousin_merge=0. invent_refusal_reason=0. fabricate_refusal=0. fake_live_refusal=0. hold_timeout_refusal=0. merge_apply=false. Never burn outbound.",
+  "invent_print_reason_hold_also_refused_by_example": {
+    "schema": "invent_print_reason_hold_also_refused_by/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "merge_apply": false,
+    "also_refused_by": [
+      "invent_print_reason_hold",
+      "invent_mint_from_hold",
+      "auto_live_from_invent",
+      "silent_cousin_merge",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "invent_refusal_reason"
+    ],
+    "invent_refusal_reason": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "review_private_default": 1,
+    "example_refusal_row": {
+      "row_id": "also_refused_by_invent_print_reason_hold_SYNTHETIC",
+      "trigger": "invent-print-reason Hold Apply (brief-123) attempted as invent-mint / auto-LIVE from invent",
+      "attempted_as": [
+        "invent_mint",
+        "auto_live_from_invent"
+      ],
+      "source_surfaces": [
+        "brief-123 invent-Hold",
+        "brief-132 dual-digest invent",
+        "brief-122 LIVE cousin"
+      ],
+      "proposed_reason_code": "EXAMPLE_OFFLIST_991",
+      "allowlist_member": false,
+      "also_refused_by": "invent_print_reason_hold",
+      "live_paint_authorized": false,
+      "invent_mint_authorized": false,
+      "honesty": "SYNTHETIC \u2014 invent-print-reason Hold Apply EXAMPLE only; never invent-mint; never auto-LIVE from invent; human Apply still required on named LIVE surface with dual proof"
+    },
+    "scorecard": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_reason_hold",
+        "invent_mint_from_hold",
+        "auto_live_from_invent",
+        "silent_cousin_merge",
+        "fabricate_refusal",
+        "fake_live_refusal",
+        "invent_refusal_reason"
+      ],
+      "invent_refusal_reason": 0,
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "invent_mint_from_hold": 0,
+      "auto_live_from_invent": 0,
+      "silent_cousin_merge": 0,
+      "hold_timeout_refusal": 0,
+      "review_private_default": 1,
+      "single_digest_live": 0,
+      "dual_proof_required": 1,
+      "burn_outbound": 0,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "auto_text_print": 0,
+      "silent_merge_apply": 0
+    },
+    "pairs": [
+      "brief-123",
+      "brief-120",
+      "brief-119",
+      "brief-122"
+    ],
+    "cousins_merge_apply_false": [
+      "brief-133",
+      "brief-132",
+      "brief-131",
+      "brief-130",
+      "brief-129",
+      "brief-128",
+      "brief-127",
+      "brief-126",
+      "brief-125",
+      "brief-121"
+    ],
+    "preferred_fold": ":4335",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 invent_print_reason_hold also_refused_by EXAMPLE only; never invent-mint from Hold; never auto-LIVE from invent; invent_refusal_reason=0; fabricate_refusal=0; fake_live_refusal=0; hold_timeout_refusal=0; invent_mint_from_hold=0; auto_live_from_invent=0; silent_cousin_merge=0; merge_apply=false; also_refused_by invent_print_reason_hold",
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "destination": null,
+      "auto_paint": null,
+      "auto_text": null,
+      "auto_mint": null,
+      "auto_live": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false,
+      "timeout_becomes_invent_mint": false,
+      "reason": "awaiting_human_apply_after_invent_print_reason_hold_refusal"
+    },
+    "live_refusal_row_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 invent-print-reason Hold never paints cyan LIVE / invent-mint alone; invent_mint_from_hold=0; auto_live_from_invent=0; invent_refusal_reason=0; fabricate_refusal=0; fake_live_refusal=0; silent_cousin_merge=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 invent-print-reason Hold never paints cyan LIVE / invent-mint alone; invent_mint_from_hold=0; auto_live_from_invent=0; invent_refusal_reason=0; fabricate_refusal=0; fake_live_refusal=0; silent_cousin_merge=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    }
+  }
+}

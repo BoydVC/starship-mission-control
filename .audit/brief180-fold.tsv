@@ -1,0 +1,13 @@
+brief	180
+theme	if-match-cousin-merge-refusal-vs-brief-018-cas-occ-etag-freshness
+pipeline	v1.179.0
+smoke	7898/7898
+api	/api/brief180 200
+pid	2809891
+bak	/workspace/tokenmax/starship-mission-control/server.py.bak-brief180-20261027-171005
+fold	PASS
+ts	20261027-171005
+surfaces	8
+pairs	brief-177+brief-176+brief-174+brief-170+brief-162+brief-154+brief-018
+encode	dual_proof_required=1 fabricate_digest=0 single_digest_live=0 invent_apply_surface=0 review_private_default=1 burn_outbound=0 merge_apply=false
+note	No Boyd outbound; weekly burn only; forge :4330 untouched; 179 not re-folded

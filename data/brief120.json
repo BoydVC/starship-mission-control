@@ -1,0 +1,348 @@
+{
+  "brief_id": "brief-120",
+  "title": "Named print_kit Refusal-Reason Allow-List \u2014 Millersville Named Refusal Reason Codes Under Flight15 also_refused_by Ledger (Still Hold-Gated); Never Invent Reason Codes; fabricate_refusal=0 / allowlist_reasons_only=1 / burn_outbound=0",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-120.md + peer-review-120.json + citations-120.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 324,
+  "citations_passed": true,
+  "pipeline_version": "v1.119.0",
+  "pairs": [
+    "brief-119"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "Named print_kit refusal reason codes only under Flight15 kit print also_refused_by Hold \u2014 never invent reason codes",
+    "fabricate_refusal=0 / allowlist_reasons_only=1 / invent_refusal_reason=0 / fake_live_refusal=0 / off_allowlist_reason=0 / burn_outbound=0",
+    "reuse_stale_reason=0 / hold_timeout_refusal=0 / auto_text_kids=0 / auto_text_flight15=0 / merge_apply=false / review_private_default=1",
+    "Pairs brief-119; cousins brief-119/118/098/091(+117/116/085/088) merge_apply=false",
+    "also_refused_by on overlapping invent-print-refusal / off-allowlist print_kit reason / fabricate-print-refusal surfaces",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/invent-print-refusal-reason",
+    "/api/off-allowlist-print-kit-reason",
+    "/api/print-kit/invent-refusal-reason",
+    "/api/print-kit/off-allowlist-reason",
+    "/api/named-print-kit-refusal-reason/invent",
+    "/api/named-print-kit-refusal-reason/off-allowlist",
+    "/api/invent-named-print-kit-refusal",
+    "/api/reuse-stale-print-kit-reason",
+    "/api/allowlist/extend-print-kit-refusal-reason",
+    "/api/flight15/invent-print-refusal-reason",
+    "/api/flight15/off-allowlist-print-kit-reason",
+    "/api/ledger/invent-print-refusal-reason",
+    "/api/ledger/off-allowlist-print-kit-reason",
+    "/api/fake-live-print-refusal-reason",
+    "/api/fabricate-print-refusal-reason"
+  ],
+  "scorecard": {
+    "fabricate_refusal": 0,
+    "allowlist_reasons_only": 1,
+    "burn_outbound": 0,
+    "invent_refusal_reason": 0,
+    "fake_live_refusal": 0,
+    "off_allowlist_reason": 0,
+    "reuse_stale_reason": 0,
+    "hold_timeout_refusal": 0,
+    "merge_apply": false,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "review_private_default": 1
+  },
+  "cousins": {
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_refusal_reason",
+        "off_allowlist_print_kit_reason",
+        "print_kit"
+      ],
+      "role": "Flight15 kit print also_refused_by (pair \u2014 owns print_kit rows)"
+    },
+    "brief_118": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_refusal_reason",
+        "off_allowlist_print_kit_reason",
+        "invent_refusal_reason"
+      ],
+      "role": "Named refusal-reason allow-list (Flight15 text codes \u2014 \u2260 print_kit codes)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_refusal_reason",
+        "off_allowlist_print_kit_reason",
+        "flight15_text_apply"
+      ],
+      "role": "Flight15 also_refused_by refusal ledger"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_refusal_reason",
+        "off_allowlist_print_kit_reason",
+        "flight15_text"
+      ],
+      "role": "Flight 15 family alert kit (print owner)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_refusal_reason",
+        "off_allowlist_print_kit_reason",
+        "live_refusal_row_paint"
+      ],
+      "role": "refusal dual-digest strip (overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_refusal_reason",
+        "off_allowlist_print_kit_reason",
+        "snack_order"
+      ],
+      "role": "snack also_refused_by (overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_refusal_reason",
+        "off_allowlist_print_kit_reason",
+        "webcast_apply"
+      ],
+      "role": "webcast (overlap)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_refusal_reason",
+        "off_allowlist_print_kit_reason",
+        "clash_apply"
+      ],
+      "role": "clash (overlap)"
+    },
+    "brief_115": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_refusal_reason",
+        "off_allowlist_print_kit_reason",
+        "off_allowlist_refusal"
+      ],
+      "role": "off-allowlist vendor refusal (overlap \u2014 vendor paths stay 115)"
+    },
+    "brief_114": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_refusal_reason",
+        "off_allowlist_print_kit_reason",
+        "live_order_paint"
+      ],
+      "role": "snack cart dual-proof (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Named print_kit refusal reason codes only under Flight15 kit print also_refused_by Hold. Never invent reason codes. allowlist_reasons_only=1. Never burn outbound.",
+  "named_print_kit_refusal_reason_allowlist_example": {
+    "schema": "named_print_kit_refusal_reason_allowlist/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "allowlist_reasons_only": 1,
+    "fabricate_refusal": 0,
+    "burn_outbound": 0,
+    "reasons_allowlist": [
+      "cousin_clash_as_print_kit",
+      "cousin_webcast_as_print_kit",
+      "cousin_snack_as_print_kit",
+      "fabricated_print",
+      "fake_live_print",
+      "hold_timeout_print",
+      "auto_print_kit_attempt",
+      "silent_merge_apply",
+      "burn_outbound_attempt",
+      "off_allowlist_notify"
+    ],
+    "example_row": {
+      "row_id": "refuse_print_kit_from_clash_SYNTHETIC",
+      "reason_code": "cousin_clash_as_print_kit",
+      "on_allowlist": true,
+      "live_paint_authorized": false,
+      "honesty": "SYNTHETIC \u2014 reason code EXAMPLE only; human Apply still required before cyan LIVE; never invent codes"
+    },
+    "scorecard": {
+      "fabricate_refusal": 0,
+      "allowlist_reasons_only": 1,
+      "burn_outbound": 0,
+      "invent_refusal_reason": 0,
+      "fake_live_refusal": 0,
+      "off_allowlist_reason": 0,
+      "reuse_stale_reason": 0,
+      "hold_timeout_refusal": 0,
+      "merge_apply": false,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "review_private_default": 1
+    },
+    "pairs": [
+      "brief-119"
+    ],
+    "cousins_merge_apply_false": [
+      "brief-119",
+      "brief-118",
+      "brief-098",
+      "brief-091",
+      "brief-117",
+      "brief-116",
+      "brief-085",
+      "brief-088"
+    ],
+    "cousins": {
+      "brief-119": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_print_refusal_reason",
+          "off_allowlist_print_kit_reason",
+          "print_kit"
+        ],
+        "role": "Flight15 kit print also_refused_by (pair \u2014 owns print_kit rows)"
+      },
+      "brief-118": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_print_refusal_reason",
+          "off_allowlist_print_kit_reason",
+          "invent_refusal_reason"
+        ],
+        "role": "Named refusal-reason allow-list (Flight15 text codes \u2014 \u2260 print_kit codes)"
+      },
+      "brief-098": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_print_refusal_reason",
+          "off_allowlist_print_kit_reason",
+          "flight15_text_apply"
+        ],
+        "role": "Flight15 also_refused_by refusal ledger"
+      },
+      "brief-091": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_print_refusal_reason",
+          "off_allowlist_print_kit_reason",
+          "flight15_text"
+        ],
+        "role": "Flight 15 family alert kit (print owner)"
+      },
+      "brief-117": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_print_refusal_reason",
+          "off_allowlist_print_kit_reason",
+          "live_refusal_row_paint"
+        ],
+        "role": "refusal dual-digest strip (overlap)"
+      },
+      "brief-116": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_print_refusal_reason",
+          "off_allowlist_print_kit_reason",
+          "snack_order"
+        ],
+        "role": "snack also_refused_by (overlap)"
+      },
+      "brief-085": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_print_refusal_reason",
+          "off_allowlist_print_kit_reason",
+          "webcast_apply"
+        ],
+        "role": "webcast (overlap)"
+      },
+      "brief-088": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_print_refusal_reason",
+          "off_allowlist_print_kit_reason",
+          "clash_apply"
+        ],
+        "role": "clash (overlap)"
+      },
+      "brief-115": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_print_refusal_reason",
+          "off_allowlist_print_kit_reason",
+          "off_allowlist_refusal"
+        ],
+        "role": "off-allowlist vendor refusal (overlap \u2014 vendor paths stay 115)"
+      },
+      "brief-114": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "invent_print_refusal_reason",
+          "off_allowlist_print_kit_reason",
+          "live_order_paint"
+        ],
+        "role": "snack cart dual-proof (overlap)"
+      }
+    },
+    "hold": {
+      "state": "HOLD",
+      "destination": null,
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "created_at": null,
+      "expires_at": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "auto_paint": null,
+      "auto_text": null,
+      "cousin_ack": {
+        "brief_119": false,
+        "brief_118": false,
+        "brief_098": false,
+        "brief_091": false,
+        "brief_117": false,
+        "brief_116": false,
+        "brief_085": false,
+        "brief_088": false,
+        "brief_115": false,
+        "brief_114": false
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "named_print_kit_refusal_reason_allowlist.json",
+      "etag": "EXAMPLE_CAS"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 allow-listed print_kit reason code does not auto-authorize cyan LIVE; invent/off-list refused",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "preferred_fold": ":4335"
+  }
+}

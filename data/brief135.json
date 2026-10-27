@@ -1,0 +1,351 @@
+{
+  "brief_id": "brief-135",
+  "title": "Named Off-List print_kit Reason Digest-Pipeline Allow-List \u2014 Millersville Named Digest Pipelines (on_disk_row_sha256 / apply_ledger_row_digest / cas_store / git_object_id) That May Count Toward Dual Proof Before Cyan LIVE When Off-List print_kit Reason Proposed; single_digest_live=0 / allowlist_pipelines_only=1 / fabricate_digest=0",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-135.md + peer-review-135.json + citations-135.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 337,
+  "citations_passed": true,
+  "pipeline_version": "v1.134.0",
+  "pairs": [
+    "brief-124",
+    "brief-120"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE named off-list print_kit reason digest-pipeline allow-list (on_disk_row_sha256 / apply_ledger_row_digest / cas_store / git_object_id) \u2014 only these may count toward dual proof before cyan LIVE when off-list print_kit reason proposed",
+    "invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / fabricate_digest=0 / single_digest_live=0 / dual_proof_required=1 / fabricate_refusal=0 / fake_live_refusal=0 / burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / mismatch_auto_pick=0 / reuse_stale_digest=0 / hold_timeout_refusal=0",
+    "merge_apply=false / also_refused_by off_list_print_kit_reason_digest_pipeline_allowlist",
+    "Pairs brief-124 + brief-120; cousins brief-134/133/132/131/130/129/128/127/126/125/123/121/119 merge_apply=false",
+    "Prefer 135 on off-list print_kit reason digest-pipeline allow-list paths; keep unique prior ownership (134 invent_print_reason_hold, 133 invent-Hold timeout, 132 invent-Hold dual-digest, 131 print_kit_live_apply, 130 LIVE\u2192print_kit dual-digest, 129 LIVE-Apply surface, 128 LIVE print_kit refusal paint, 127 mismatch Hold, 126 digest-pipeline allow-list, 125 invent-print-reason Apply, 124 off-allowlist dual-digest, 123 invent Hold, 122 LIVE\u2192print_kit, 121 dual-digest print, 120 invent-print allow-list, 119 print_kit)",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/invent-off-list-print-kit-reason-digest-pipeline",
+    "/api/off-allowlist-off-list-print-kit-reason-digest-pipeline",
+    "/api/single-digest-off-list-print-kit-reason-pipeline-live",
+    "/api/fabricate-digest-off-list-print-kit-reason-pipeline",
+    "/api/fabricate-digest-from-off-list-reason-pipeline",
+    "/api/reuse-stale-digest-off-list-print-kit-reason-pipeline",
+    "/api/mismatch-auto-pick-off-list-print-kit-reason-pipeline",
+    "/api/hold-timeout-off-list-print-kit-reason-pipeline-live",
+    "/api/fake-live-off-list-print-kit-reason-pipeline",
+    "/api/fabricate-off-list-print-kit-reason-pipeline-refusal",
+    "/api/cousin-apply-as-off-list-print-kit-reason-digest-pipeline",
+    "/api/silent-merge-cousin-off-list-print-kit-reason-digest-pipeline",
+    "/api/off-list-dual-digest-124-as-pipeline-allowlist",
+    "/api/reason-allowlist-120-as-pipeline-allowlist",
+    "/api/invent-hold-134-as-pipeline-allowlist",
+    "/api/timeout-133-as-pipeline-allowlist",
+    "/api/dual-digest-132-as-pipeline-allowlist",
+    "/api/print-kit-live-apply-131-as-pipeline-allowlist",
+    "/api/live-print-kit-130-as-pipeline-allowlist",
+    "/api/surface-allowlist-129-as-pipeline-allowlist",
+    "/api/paint-128-as-pipeline-allowlist",
+    "/api/mismatch-hold-127-as-pipeline-allowlist",
+    "/api/pipeline-allowlist-126-as-off-list-reason-pipeline",
+    "/api/invent-print-125-as-pipeline-allowlist",
+    "/api/invent-hold-123-as-pipeline-allowlist",
+    "/api/dual-digest-121-as-pipeline-allowlist",
+    "/api/kit-print-119-as-pipeline-allowlist",
+    "/api/allowlist/extend-off-list-print-kit-reason-digest-pipeline",
+    "/api/flight15/invent-off-list-print-kit-reason-digest-pipeline",
+    "/api/flight15/off-allowlist-off-list-print-kit-reason-digest-pipeline",
+    "/api/off-list-print-kit-reason-digest-pipeline/cousin-merge",
+    "/api/off-list-print-kit-reason-digest-pipeline/invent-pipeline",
+    "/api/off-list-print-kit-reason-digest-pipeline/off-allowlist",
+    "/api/off-list-print-kit-reason-digest-pipeline/single-digest-live",
+    "/api/off-list-print-kit-reason-digest-pipeline/fabricate-digest",
+    "/api/off-list-print-kit-reason-digest-pipeline/124-merge",
+    "/api/off-list-print-kit-reason-digest-pipeline/120-merge",
+    "/api/off-list-print-kit-reason-digest-pipeline/126-merge",
+    "/api/off-list-print-kit-reason-digest-pipeline/134-merge",
+    "/api/merge-off-list-reason-pipeline-cyan-live",
+    "/api/silent-merge-off-list-reason-pipeline-cyan-live",
+    "/api/auto-text-from-off-list-reason-pipeline",
+    "/api/auto-print-from-off-list-reason-pipeline"
+  ],
+  "scorecard": {
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "fabricate_digest": 0,
+    "single_digest_live": 0,
+    "dual_proof_required": 1,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "mismatch_auto_pick": 0,
+    "reuse_stale_digest": 0,
+    "hold_timeout_refusal": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "off_list_print_kit_reason_digest_pipeline_allowlist",
+      "invent_pipeline",
+      "off_allowlist_pipeline",
+      "single_digest_live",
+      "fabricate_digest"
+    ],
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_124": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "off_allowlist_reason_dual_digest"
+      ],
+      "role": "Off-list print_kit reason dual-digest (pair \u2014 owns matching dual digests before cyan LIVE when off-list reason proposed; membership \u2260 pipeline allow-list alone)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (pair \u2014 reason-code membership \u2260 pipeline membership)"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "invent_print_reason_hold"
+      ],
+      "role": "Cousin invent-print-reason Hold also_refused_by (overlap)"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "invent_hold_timeout_disposition"
+      ],
+      "role": "Invent-Hold timeout disposition (overlap)"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "invent_hold_dual_digest"
+      ],
+      "role": "Invent-Hold dual-digest (overlap)"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "print_kit_live_apply"
+      ],
+      "role": "print_kit_live_apply paint (overlap)"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist"
+      ],
+      "role": "LIVE\u2192print_kit dual-digest (overlap)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "LIVE-Apply surface allow-list (overlap)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "LIVE print_kit refusal paint (overlap)"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "mismatch Hold (overlap)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named digest-pipeline allow-list (overlap \u2014 print_kit also_refused_by path \u2260 off-list reason path)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "invent_print_reason_apply"
+      ],
+      "role": "invent-print-reason Apply (overlap)"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "invent_hold"
+      ],
+      "role": "invent Hold (overlap)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "dual_digest_live_apply"
+      ],
+      "role": "dual-digest print (overlap)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Only on_disk_row_sha256 / apply_ledger_row_digest / cas_store / git_object_id may count toward dual proof before cyan LIVE when off-list print_kit reason proposed. Never single-digest LIVE. allowlist_pipelines_only=1. fabricate_digest=0. invent_pipeline=0. off_allowlist_pipeline=0. merge_apply=false. Never burn outbound.",
+  "off_list_print_kit_reason_digest_pipeline_allowlist_example": {
+    "schema": "off_list_print_kit_reason_digest_pipeline_allowlist/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "allowlist_pipelines_only": 1,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "dual_proof_required": 1,
+    "pipelines_allowlist": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "example_membership": {
+      "row_id": "off_list_reason_pipeline_membership_SYNTHETIC",
+      "digest_a": {
+        "pipeline": "on_disk_row_sha256",
+        "value": "EXAMPLE_DIGEST_A",
+        "allowlisted": true,
+        "fetched_at": "2026-10-27T10:00:00-04:00"
+      },
+      "digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "value": "EXAMPLE_DIGEST_A",
+        "allowlisted": true,
+        "fetched_at": "2026-10-27T10:00:01-04:00"
+      },
+      "match": true,
+      "live_paint_authorized": false,
+      "honesty": "SYNTHETIC \u2014 both pipelines allow-listed and matching EXAMPLE only; human Apply still required before cyan LIVE when off-list print_kit reason proposed (brief-124 dual-digest + brief-120 reason allow-list)"
+    },
+    "example_off_list_refused": {
+      "pipeline": "vendor_receipt_sha_SYNTHETIC",
+      "allowlisted": false,
+      "counts_toward_dual_proof": false,
+      "honesty": "SYNTHETIC \u2014 off-list pipeline never counts (allowlist_pipelines_only=1)"
+    },
+    "scorecard": {
+      "single_digest_live": 0,
+      "allowlist_pipelines_only": 1,
+      "fabricate_digest": 0,
+      "dual_proof_required": 1,
+      "off_allowlist_pipeline": 0,
+      "invent_pipeline": 0,
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "mismatch_auto_pick": 0,
+      "reuse_stale_digest": 0,
+      "hold_timeout_refusal": 0,
+      "merge_apply": false,
+      "burn_outbound": 0,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "auto_text_print": 0,
+      "review_private_default": 1,
+      "also_refused_by": [
+        "off_list_print_kit_reason_digest_pipeline_allowlist",
+        "invent_pipeline",
+        "off_allowlist_pipeline",
+        "single_digest_live",
+        "fabricate_digest"
+      ],
+      "silent_merge_apply": 0
+    },
+    "pairs": [
+      "brief-124",
+      "brief-120"
+    ],
+    "cousins_merge_apply_false": [
+      "brief-134",
+      "brief-133",
+      "brief-132",
+      "brief-131",
+      "brief-130",
+      "brief-129",
+      "brief-128",
+      "brief-127",
+      "brief-126",
+      "brief-125",
+      "brief-123",
+      "brief-121",
+      "brief-119"
+    ],
+    "preferred_fold": ":4335",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 off_list_print_kit_reason_digest_pipeline_allowlist EXAMPLE only; invent_pipeline=0; off_allowlist_pipeline=0; allowlist_pipelines_only=1; fabricate_digest=0; single_digest_live=0; dual_proof_required=1; merge_apply=false",
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "destination": null,
+      "auto_paint": null,
+      "auto_text": null,
+      "auto_mint": null,
+      "auto_live": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false,
+      "timeout_becomes_invent_pipeline": false,
+      "reason": "awaiting_human_apply_after_off_list_print_kit_reason_digest_pipeline_allowlist"
+    },
+    "live_refusal_row_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 off-list print_kit reason digest-pipeline allow-list membership never paints cyan LIVE alone; invent_pipeline=0; off_allowlist_pipeline=0; single_digest_live=0; fabricate_digest=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 off-list print_kit reason digest-pipeline allow-list membership never paints cyan LIVE alone; invent_pipeline=0; off_allowlist_pipeline=0; single_digest_live=0; fabricate_digest=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    }
+  }
+}

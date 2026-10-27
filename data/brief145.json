@@ -1,0 +1,462 @@
+{
+  "brief_id": "brief-145",
+  "title": "Named mismatch-Hold Apply Surface Allow-List — Millersville Named Apply Surfaces (mismatch_hold_reject_apply / mismatch_hold_refetch_digests_apply / mismatch_hold_attach_matching_digest_apply) That May Attempt disposition Apply (Still merge_apply=false / also_refused_by mismatch_hold_apply; Never Invent Surface; Never Cyan from Membership); invent_apply_surface=0 / allowlist_apply_surfaces_only=1 / mismatch_auto_pick=0 / fabricate_refusal=0 / dual_proof_required=1 / review_private_default=1",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-145.md + peer-review-145.json + citations-145.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 327,
+  "citations_passed": true,
+  "pipeline_version": "v1.144.0",
+  "pairs": [
+    "brief-127",
+    "brief-121"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE Named mismatch-Hold Apply surface allow-list — only mismatch_hold_reject_apply / mismatch_hold_refetch_digests_apply / mismatch_hold_attach_matching_digest_apply may attempt disposition Apply; still merge_apply=false / also_refused_by mismatch_hold_apply; never invent a fourth surface; never cyan LIVE from membership alone; never auto-pick",
+    "invent_apply_surface=0 / allowlist_apply_surfaces_only=1 / invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / mismatch_auto_pick=0 / fabricate_refusal=0 / hold_timeout_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / single_digest_live=0 / fabricate_digest=0 / reuse_stale_digest=0",
+    "merge_apply=false / also_refused_by mismatch_hold_apply / invent_apply_surface / allowlist_apply_surfaces_only",
+    "Pairs brief-127 + brief-121; cousins brief-144/143/142/141/140…128/126/125…119 (+117/116/098/091/085/088) merge_apply=false",
+    "Prefer 145 on mismatch-Hold Apply surface allow-list paths; keep unique prior ownership (144 disposition board, 143 live_print_kit_pipeline_paint, 142 off-list disposition, 141 pipeline-aware mismatch Hold, 127 mismatch Hold open, 121 dual-digest)",
+    "Personal household only — not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/invent-apply-surface-mismatch-hold",
+    "/api/invent-webcast-apply-as-mismatch-hold",
+    "/api/invent-clash-live-apply-as-mismatch-hold",
+    "/api/invent-sms-apply-as-mismatch-hold",
+    "/api/invent-email-apply-as-mismatch-hold",
+    "/api/off-allowlist-apply-surface-as-mismatch-hold",
+    "/api/foreign-apply-surface-as-mismatch-hold",
+    "/api/membership-as-mismatch-hold-apply-success",
+    "/api/allowlist-membership-as-cyan-live",
+    "/api/cyan-live-from-invented-apply-surface",
+    "/api/fabricate-refusal-from-invented-apply-surface",
+    "/api/fabricate-digest-via-attach-matching-surface",
+    "/api/hold-timeout-mismatch-hold-apply-surface",
+    "/api/mismatch-hold-apply-surface-hold-timeout-live",
+    "/api/fake-live-from-invented-apply-surface",
+    "/api/single-digest-after-mismatch-hold-apply-surface-live",
+    "/api/reuse-stale-digest-after-mismatch-hold-apply-surface",
+    "/api/mismatch-auto-pick-mismatch-hold-apply-surface",
+    "/api/cousin-apply-as-mismatch-hold-apply-surface",
+    "/api/silent-merge-cousin-mismatch-hold-apply-surface",
+    "/api/kit-print-as-mismatch-hold-apply-surface",
+    "/api/dual-digest-live-as-mismatch-hold-apply-surface",
+    "/api/snack-also-refused-by-as-mismatch-hold-apply-surface",
+    "/api/kit-print-as-mismatch-hold-apply-surface-apply",
+    "/api/dual-digest-live-as-mismatch-hold-apply-surface-apply",
+    "/api/snack-also-refused-by-as-mismatch-hold-apply-surface-apply",
+    "/api/merge-kit-print-mismatch-hold-apply-surface",
+    "/api/merge-dual-digest-live-mismatch-hold-apply-surface",
+    "/api/merge-snack-also-refused-by-mismatch-hold-apply-surface",
+    "/api/silent-merge-kit-print-mismatch-hold-apply-surface",
+    "/api/silent-merge-dual-digest-live-mismatch-hold-apply-surface",
+    "/api/silent-merge-snack-mismatch-hold-apply-surface",
+    "/api/disposition-board-144-as-mismatch-hold-apply-surface",
+    "/api/live-print-kit-pipeline-paint-143-as-mismatch-hold-apply-surface",
+    "/api/off-list-disposition-142-as-mismatch-hold-apply-surface",
+    "/api/pipeline-aware-mismatch-141-as-mismatch-hold-apply-surface",
+    "/api/mismatch-hold-127-as-apply-surface",
+    "/api/dual-digest-121-as-mismatch-hold-apply-surface",
+    "/api/pipeline-allowlist-126-as-mismatch-hold-apply-surface",
+    "/api/surface-allowlist-138-as-mismatch-hold-apply-surface",
+    "/api/invent-hold-offlist-140-as-mismatch-hold-apply-surface",
+    "/api/dual-digest-proof-139-as-mismatch-hold-apply-surface",
+    "/api/live-off-list-paint-137-as-mismatch-hold-apply-surface",
+    "/api/off-list-mismatch-136-as-mismatch-hold-apply-surface",
+    "/api/off-list-pipeline-135-as-mismatch-hold-apply-surface",
+    "/api/invent-print-125-as-mismatch-hold-apply-surface",
+    "/api/invent-hold-123-as-mismatch-hold-apply-surface",
+    "/api/kit-print-119-as-mismatch-hold-apply-surface",
+    "/api/allowlist-120-as-mismatch-hold-apply-surface",
+    "/api/flight15/invent-apply-surface-mismatch-hold",
+    "/api/flight15/cyan-live-from-invented-apply-surface",
+    "/api/flight15/fabricate-refusal-from-invented-apply-surface",
+    "/api/flight15/hold-timeout-mismatch-hold-apply-surface",
+    "/api/named-mismatch-hold-apply-surface-allowlist/cousin-merge",
+    "/api/named-mismatch-hold-apply-surface-allowlist/invent-surface",
+    "/api/named-mismatch-hold-apply-surface-allowlist/off-allowlist",
+    "/api/named-mismatch-hold-apply-surface-allowlist/cyan-live",
+    "/api/named-mismatch-hold-apply-surface-allowlist/membership-success",
+    "/api/named-mismatch-hold-apply-surface-allowlist/mismatch-auto-pick",
+    "/api/named-mismatch-hold-apply-surface-allowlist/144-merge",
+    "/api/named-mismatch-hold-apply-surface-allowlist/143-merge",
+    "/api/named-mismatch-hold-apply-surface-allowlist/142-merge",
+    "/api/named-mismatch-hold-apply-surface-allowlist/141-merge",
+    "/api/named-mismatch-hold-apply-surface-allowlist/127-merge",
+    "/api/named-mismatch-hold-apply-surface-allowlist/121-merge",
+    "/api/merge-mismatch-hold-apply-surface-cyan-live",
+    "/api/silent-merge-mismatch-hold-apply-surface-cyan-live",
+    "/api/auto-text-from-mismatch-hold-apply-surface",
+    "/api/auto-print-from-mismatch-hold-apply-surface"
+  ],
+  "scorecard": {
+    "invent_apply_surface": 0,
+    "allowlist_apply_surfaces_only": 1,
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "mismatch_auto_pick": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "mismatch_hold_apply",
+      "invent_apply_surface",
+      "allowlist_apply_surfaces_only",
+      "mismatch_auto_pick",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "hold_timeout_refusal",
+      "dual_proof_required"
+    ],
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "Print also_refused_by dual-digest mismatch Hold (pair — owns Hold when A ≠ B; this brief owns Apply surface allow-list only)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply",
+        "print_kit_dual_digest_live"
+      ],
+      "role": "Print also_refused_by dual-digest (pair — owns matching dual digests before cyan LIVE; surface membership never waives dual proof)"
+    },
+    "brief_144": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply",
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "Print mismatch Hold disposition board (cousin — disposition board ≠ Apply surface allow-list membership)"
+    },
+    "brief_143": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply",
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "Cousin also_refused_by live_print_kit_pipeline_paint (cousin — refusal ledger ≠ surface membership)"
+    },
+    "brief_142": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply",
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "Named off-list disposition board (cousin — off-list disposition ≠ Apply surface allow-list)"
+    },
+    "brief_141": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply",
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "Pipeline-aware mismatch Hold (cousin — pipeline-aware Hold ≠ Apply surface allow-list)"
+    },
+    "brief_138": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply",
+        "invent_print_apply_surface"
+      ],
+      "role": "Invent-print Apply surface (cousin — invent Apply surface rail related; merge_apply=false)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named print also_refused_by digest-pipeline allow-list (cousin — pipeline allow-list ≠ Apply surface allow-list)"
+    },
+    "brief_140": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "invent-Hold / off-list → invent-print-reason Apply (cousin overlap)"
+    },
+    "brief_139": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "Invent-print dual-digest proof (cousin overlap)"
+    },
+    "brief_137": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply",
+        "live_off_list_print_kit_reason_paint"
+      ],
+      "role": "LIVE off-list paint (cousin — never cyan from surface membership)"
+    },
+    "brief_136": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "Off-list mismatch Hold (cousin overlap)"
+    },
+    "brief_135": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "Off-list digest-pipeline (cousin overlap)"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "invent-print-reason Hold (cousin overlap)"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "invent-Hold timeout (cousin overlap)"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "invent-Hold dual-digest (cousin overlap)"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "print_kit_live_apply (cousin overlap)"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "LIVE→print_kit dual-digest (cousin overlap)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "LIVE-Apply surface (cousin — related surface allow-list rail; merge_apply=false)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "LIVE print_kit paint (cousin overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "invent-print-reason Apply (cousin overlap)"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "Off-list dual-digest (cousin overlap)"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "invent-Hold (cousin overlap)"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "LIVE cousin (cousin overlap)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (cousin overlap)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (cousin overlap)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "Refusal ledger dual-digest (cousin overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "snack also_refused_by (cousin overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "Flight15 also_refused_by (cousin overlap)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "Flight15 kit / text (cousin overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "webcast LIVE (cousin overlap)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "mismatch_hold_apply"
+      ],
+      "role": "clash LIVE (cousin overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Only mismatch_hold_reject_apply / mismatch_hold_refetch_digests_apply / mismatch_hold_attach_matching_digest_apply may attempt mismatch Hold disposition Apply. Still merge_apply=false / also_refused_by mismatch_hold_apply. Never invent a fourth surface. Never cyan LIVE from membership. Never auto-pick. invent_apply_surface=0. allowlist_apply_surfaces_only=1. invent_pipeline=0. off_allowlist_pipeline=0. allowlist_pipelines_only=1. mismatch_auto_pick=0. fabricate_refusal=0. hold_timeout_refusal=0. dual_proof_required=1. fake_live_refusal=0. review_private_default=1. Never burn outbound.",
+  "named_mismatch_hold_apply_surface_allowlist_example": {
+    "schema": "named_mismatch_hold_apply_surface_allowlist/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "invent_apply_surface": 0,
+    "allowlist_apply_surfaces_only": 1,
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "burn_outbound": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "mismatch_hold_apply",
+      "invent_apply_surface",
+      "allowlist_apply_surfaces_only",
+      "mismatch_auto_pick",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "hold_timeout_refusal",
+      "dual_proof_required"
+    ],
+    "mismatch_auto_pick": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "review_private_default": 1,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "allowlisted_apply_surfaces": [
+      "mismatch_hold_reject_apply",
+      "mismatch_hold_refetch_digests_apply",
+      "mismatch_hold_attach_matching_digest_apply"
+    ],
+    "example_surface_attempt": {
+      "surface": "mismatch_hold_reject_apply",
+      "hold_id": "hold_mismatch_print_kit_f15_EXAMPLE",
+      "disposition_target": "reject",
+      "allowed_dispositions": [
+        "reject",
+        "re-fetch digests",
+        "attach-matching-digest"
+      ],
+      "attempt_ok": true,
+      "apply_satisfied": false,
+      "also_refused_by": "mismatch_hold_apply",
+      "cyan_live": false,
+      "auto_pick": false,
+      "live_paint_authorized": false,
+      "invented": false,
+      "review": "review_private",
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — named surface may attempt disposition Apply; still merge_apply=false / also_refused_by mismatch_hold_apply; never invent surface; never cyan LIVE from membership (pairs brief-127 + brief-121)"
+    },
+    "example_off_list_surface": {
+      "surface": "webcast_apply",
+      "in_allow_list": false,
+      "attempt_ok": false,
+      "apply_satisfied": false,
+      "invented": true,
+      "cyan_live": false,
+      "live_paint_authorized": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — off-list / invented Apply surface refused; invent_apply_surface=0; allowlist_apply_surfaces_only=1; never count as disposition Apply"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "status": "EXAMPLE",
+      "live_badge": false,
+      "refusal_id": null
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "reason": "mismatch_hold_apply",
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false
+    },
+    "pairs": [
+      "brief-127",
+      "brief-121"
+    ],
+    "preferred_fold": ":4335"
+  }
+}

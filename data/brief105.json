@@ -1,0 +1,186 @@
+{
+  "brief_id": "brief-105",
+  "title": "Webcast Stream Dual-Proof Strip \u2014 Millersville Second Independent Stream Source Before Cyan LIVE Stream Paint; Never Fabricate LIVE Stream / Dual Proof Required",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-105.md + peer-review-105.json + citations-105.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 302,
+  "citations_passed": true,
+  "pipeline_version": "v1.104.0",
+  "pairs": [
+    "brief-094",
+    "brief-052",
+    "brief-085"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "Never fabricate LIVE stream without this-session dual independent proofs; missing proof => EXAMPLE/SYNTHETIC",
+    "dual_proof_required=1 \u2014 second independent stream publisher mandatory before cyan LIVE stream paint",
+    "Never fake LIVE stream from fixture/EXAMPLE/VOD REPLAY; never single-source LIVE",
+    "Never auto-start DVR; never auto-text kids/DVR; Hold timeout never starts DVR; burn_outbound=0",
+    "Cousins brief-094 + brief-052 + brief-085 (+096/098) merge_apply=false \u2014 DVR/watch-party/mirror/Flight15 Apply \u2260 LIVE stream paint",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_strip",
+    "start_dvr",
+    "text_kids",
+    "text_dvr",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/fabricate-stream",
+    "/api/fake-live-stream",
+    "/api/live-stream-paint",
+    "/api/reuse-stale-stream",
+    "/api/single-source-stream",
+    "/api/stream/fabricate",
+    "/api/stream/fake-live",
+    "/api/stream/live-paint",
+    "/api/stream/single-source",
+    "/api/webcast/fabricate-stream",
+    "/api/dual-proof-stream/skip",
+    "/api/dual-proof-stream/fabricate",
+    "/api/hold-timeout-dvr",
+    "/api/auto-start-dvr",
+    "/api/burn-outbound",
+    "/api/auto-text-kids"
+  ],
+  "scorecard": {
+    "fabricate_stream": 0,
+    "dual_proof_required": 1,
+    "fake_live_stream": 0,
+    "single_source_live": 0,
+    "auto_start_dvr": 0,
+    "auto_text_kids": 0,
+    "auto_text_dvr": 0,
+    "hold_timeout_dvr": 0,
+    "reuse_stale_stream": 0,
+    "auto_switch_mirror": 0,
+    "fabricate_official": 0,
+    "auto_post_stream": 0,
+    "burn_outbound": 0
+  },
+  "cousins": {
+    "brief_094": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_stream_paint",
+        "start_dvr"
+      ],
+      "role": "webcast DVR + Chelsea catch-up"
+    },
+    "brief_052": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_stream_paint",
+        "watch_party_text"
+      ],
+      "role": "livestream watch-party"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_stream_paint",
+        "official_label"
+      ],
+      "role": "webcast mirror OFFICIAL/UNOFFICIAL/REPLAY"
+    },
+    "brief_096": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_stream_paint",
+        "live_t0_paint"
+      ],
+      "role": "Flight15 T-0 dual-proof (overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_stream_paint",
+        "flight15_text"
+      ],
+      "role": "Flight15 cousin ledger (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Two independent stream proofs before cyan LIVE. Never fabricate LIVE stream. DVR Apply \u2260 mirror Apply \u2260 watch-party Apply \u2260 LIVE paint. Never auto-start DVR. Never auto-text kids.",
+  "webcast_stream_dual_proof_example": {
+    "schema": "webcast_stream_dual_proof/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 stream null until dual_proof; live_paint false; proofs_example never this-session LIVE",
+    "stream": {
+      "label": "Starship webcast",
+      "status": "EXAMPLE",
+      "live": false,
+      "live_paint": false,
+      "live_badge": false,
+      "proof": null,
+      "url": null
+    },
+    "proofs": {
+      "source_a": null,
+      "source_b": null,
+      "independent": false,
+      "dual_ok": false
+    },
+    "proofs_example": [
+      {
+        "id": "ex-proof-a",
+        "publisher": "spacex.com",
+        "url": "https://www.spacex.com/launches/",
+        "body_sha256": "EXAMPLE_DIGEST_A",
+        "fetched_at": "2026-10-27T07:55:00-04:00",
+        "honesty": "SYNTHETIC/EXAMPLE"
+      },
+      {
+        "id": "ex-proof-b",
+        "publisher": "nasaspaceflight_youtube",
+        "url": "https://www.youtube.com/@NASASpaceflight",
+        "body_sha256": "EXAMPLE_DIGEST_B",
+        "fetched_at": "2026-10-27T07:55:05-04:00",
+        "honesty": "SYNTHETIC/EXAMPLE"
+      }
+    ],
+    "live_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE only \u2014 dual proofs not this-session"
+    },
+    "holds": {
+      "stream": {
+        "state": "HOLD",
+        "destination": null,
+        "default": "review_private",
+        "options": [
+          "review_private",
+          "export_strip",
+          "start_dvr",
+          "text_kids",
+          "text_dvr",
+          "post_public",
+          "defer",
+          "reject"
+        ],
+        "auto_text": null,
+        "auto_dvr": null,
+        "auto_post": null,
+        "cousin_ack": {
+          "brief_094": false,
+          "brief_052": false,
+          "brief_085": false,
+          "brief_096": false,
+          "brief_098": false
+        }
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "webcast_stream_dual_proof.json"
+    }
+  }
+}

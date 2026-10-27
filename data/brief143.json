@@ -1,0 +1,422 @@
+{
+  "brief_id": "brief-143",
+  "title": "Cousin also_refused_by Off-List Pipeline / Single-Digest LIVE print_kit also_refused_by Paint Apply — Millersville Refusal Ledger When Off-List Pipeline / Single-Digest LIVE print_kit also_refused_by Paint Attempted as Allow-Listed Dual-Digest LIVE; invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / fabricate_refusal=0 / dual_proof_required=1 / single_digest_live=0 / review_private_default=1",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-143.md + peer-review-143.json + citations-143.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 328,
+  "citations_passed": true,
+  "pipeline_version": "v1.142.0",
+  "pairs": [
+    "brief-126",
+    "brief-121",
+    "brief-119",
+    "brief-117"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE Cousin also_refused_by live_print_kit_pipeline_paint ledger — when off-list pipeline / single-digest LIVE print_kit also_refused_by paint Apply attempted as allow-listed dual-digest LIVE; never invent pipeline; never count off-allowlist as dual-proof; never single-digest cyan LIVE; never cyan from this refusal path alone",
+    "invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / fabricate_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / single_digest_live=0 / fabricate_digest=0 / reuse_stale_digest=0",
+    "merge_apply=false / also_refused_by live_print_kit_pipeline_paint / invent_pipeline / off_allowlist_pipeline / single_digest_live",
+    "Pairs brief-126 + brief-121 + brief-119 + brief-117; cousins brief-142/141/140/139/138/137/136/135/134/133/132/131/130/129/128/127/125/124/123/122/120 (+116/098/091/085/088) merge_apply=false",
+    "Prefer 143 on off-list/single-digest LIVE print_kit paint paths with also_refused_by overlaps; keep unique prior ownership (142 off-list disposition, 141 pipeline-aware mismatch Hold, 126 allow-list membership, 121 dual-digest match, 119 kit print, 117 refusal ledger dual-digest, 137 LIVE off-list paint, etc.)",
+    "Personal household only — not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/off-list-pipeline-as-allowlisted-dual-digest-live-paint",
+    "/api/single-digest-live-print-kit-pipeline-paint",
+    "/api/invent-pipeline-live-print-kit-pipeline-paint",
+    "/api/off-allowlist-pipeline-as-cyan-live-paint",
+    "/api/off-allowlist-pipeline-as-dual-proof-paint",
+    "/api/cyan-live-from-live-print-kit-pipeline-paint",
+    "/api/fabricate-refusal-from-live-print-kit-pipeline-paint",
+    "/api/fabricate-digest-via-live-print-kit-pipeline-paint",
+    "/api/fake-live-from-live-print-kit-pipeline-paint",
+    "/api/single-digest-after-live-print-kit-pipeline-paint-live",
+    "/api/reuse-stale-digest-after-live-print-kit-pipeline-paint",
+    "/api/cousin-apply-as-live-print-kit-pipeline-paint",
+    "/api/silent-merge-cousin-live-print-kit-pipeline-paint",
+    "/api/kit-print-as-live-print-kit-pipeline-paint",
+    "/api/dual-digest-live-as-live-print-kit-pipeline-paint",
+    "/api/snack-also-refused-by-as-live-print-kit-pipeline-paint",
+    "/api/kit-print-as-live-print-kit-pipeline-paint-apply",
+    "/api/dual-digest-live-as-live-print-kit-pipeline-paint-apply",
+    "/api/snack-also-refused-by-as-live-print-kit-pipeline-paint-apply",
+    "/api/merge-kit-print-live-print-kit-pipeline-paint",
+    "/api/merge-dual-digest-live-live-print-kit-pipeline-paint",
+    "/api/merge-snack-also-refused-by-live-print-kit-pipeline-paint",
+    "/api/silent-merge-kit-print-live-print-kit-pipeline-paint",
+    "/api/silent-merge-dual-digest-live-live-print-kit-pipeline-paint",
+    "/api/silent-merge-snack-live-print-kit-pipeline-paint",
+    "/api/pipeline-allowlist-126-as-live-print-kit-pipeline-paint",
+    "/api/dual-digest-121-as-live-print-kit-pipeline-paint",
+    "/api/kit-print-119-as-live-print-kit-pipeline-paint",
+    "/api/refusal-ledger-117-as-live-print-kit-pipeline-paint",
+    "/api/off-list-disposition-142-as-live-print-kit-pipeline-paint",
+    "/api/pipeline-aware-mismatch-141-as-live-print-kit-pipeline-paint",
+    "/api/invent-hold-offlist-140-as-live-print-kit-pipeline-paint",
+    "/api/dual-digest-proof-139-as-live-print-kit-pipeline-paint",
+    "/api/surface-allowlist-138-as-live-print-kit-pipeline-paint",
+    "/api/live-off-list-paint-137-as-live-print-kit-pipeline-paint",
+    "/api/off-list-mismatch-136-as-live-print-kit-pipeline-paint",
+    "/api/off-list-pipeline-135-as-live-print-kit-pipeline-paint",
+    "/api/invent-print-125-as-live-print-kit-pipeline-paint",
+    "/api/invent-hold-123-as-live-print-kit-pipeline-paint",
+    "/api/allowlist-120-as-live-print-kit-pipeline-paint",
+    "/api/mismatch-hold-127-as-live-print-kit-pipeline-paint",
+    "/api/flight15/off-list-pipeline-as-allowlisted-dual-digest-live-paint",
+    "/api/flight15/single-digest-live-print-kit-pipeline-paint",
+    "/api/flight15/invent-pipeline-live-print-kit-pipeline-paint",
+    "/api/flight15/fabricate-refusal-from-live-print-kit-pipeline-paint",
+    "/api/live-print-kit-pipeline-paint/cousin-merge",
+    "/api/live-print-kit-pipeline-paint/invent-pipeline",
+    "/api/live-print-kit-pipeline-paint/off-allowlist",
+    "/api/live-print-kit-pipeline-paint/cyan-live",
+    "/api/live-print-kit-pipeline-paint/single-digest",
+    "/api/live-print-kit-pipeline-paint/126-merge",
+    "/api/live-print-kit-pipeline-paint/121-merge",
+    "/api/live-print-kit-pipeline-paint/119-merge",
+    "/api/live-print-kit-pipeline-paint/117-merge",
+    "/api/live-print-kit-pipeline-paint/142-merge",
+    "/api/live-print-kit-pipeline-paint/141-merge",
+    "/api/merge-live-print-kit-pipeline-paint-cyan-live",
+    "/api/silent-merge-live-print-kit-pipeline-paint-cyan-live",
+    "/api/auto-text-from-live-print-kit-pipeline-paint",
+    "/api/auto-print-from-live-print-kit-pipeline-paint"
+  ],
+  "scorecard": {
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "fabricate_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "live_print_kit_pipeline_paint",
+      "invent_pipeline",
+      "off_allowlist_pipeline",
+      "allowlist_pipelines_only",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "single_digest_live"
+    ],
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named print also_refused_by digest-pipeline allow-list (pair — owns allow-list membership; this brief ledgers also_refused_by when off-list / single-digest paint attempted as allow-listed dual-digest LIVE)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint",
+        "print_kit_dual_digest_live"
+      ],
+      "role": "Print also_refused_by dual-digest (pair — owns matching dual digests; dual-digest Apply ≠ off-list / single-digest paint authority)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (pair — print Apply ≠ allow-listed dual-digest LIVE from off-list / single-digest)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint",
+        "refusal_ledger_dual_digest"
+      ],
+      "role": "Refusal ledger dual-digest (pair — dual-digest strip ≠ off-list pipeline paint as LIVE)"
+    },
+    "brief_142": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint",
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "Named off-list disposition board (cousin — disposition reject/route ≠ allow-listed dual-digest LIVE)"
+    },
+    "brief_141": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint",
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "Pipeline-aware mismatch Hold (cousin — allow-listed A ≠ B Hold ≠ LIVE from off-list / single-digest)"
+    },
+    "brief_140": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint",
+        "invent_print_reason_apply"
+      ],
+      "role": "invent-Hold / off-list → invent-print-reason Apply (cousin overlap)"
+    },
+    "brief_139": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "Invent-print dual-digest proof (cousin overlap)"
+    },
+    "brief_138": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "Invent-print Apply surface (cousin overlap)"
+    },
+    "brief_137": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint",
+        "live_off_list_print_kit_reason_paint"
+      ],
+      "role": "LIVE off-list paint (cousin — never cyan from this refusal path alone)"
+    },
+    "brief_136": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint",
+        "off_list_print_kit_reason_dual_digest_mismatch_hold"
+      ],
+      "role": "Off-list mismatch Hold (cousin overlap)"
+    },
+    "brief_135": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Off-list digest-pipeline (cousin — related off-list rail; merge_apply=false)"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "invent-print-reason Hold (cousin overlap)"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "invent-Hold timeout (cousin overlap)"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "invent-Hold dual-digest (cousin overlap)"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "print_kit_live_apply (cousin overlap)"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "LIVE→print_kit dual-digest (cousin overlap)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "LIVE-Apply surface (cousin overlap)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "LIVE print_kit paint (cousin overlap)"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "mismatch Hold (cousin overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "invent-print-reason Apply (cousin overlap)"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "Off-list dual-digest (cousin overlap)"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "invent-Hold (cousin overlap)"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "LIVE cousin (cousin overlap)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (cousin overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "snack also_refused_by (cousin overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "Flight15 also_refused_by (cousin overlap)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "Flight15 kit / text (cousin overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "webcast LIVE (cousin overlap)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "clash LIVE (cousin overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Off-list pipeline / single-digest LIVE print_kit also_refused_by paint Apply attempted as allow-listed dual-digest LIVE ⇒ ledger also_refused_by=live_print_kit_pipeline_paint; never cyan LIVE from this path alone; never invent pipeline; never single-digest LIVE. invent_pipeline=0. off_allowlist_pipeline=0. allowlist_pipelines_only=1. fabricate_refusal=0. dual_proof_required=1. fake_live_refusal=0. single_digest_live=0. review_private_default=1. merge_apply=false. also_refused_by live_print_kit_pipeline_paint. Never burn outbound.",
+  "live_print_kit_pipeline_paint_also_refused_by_example": {
+    "schema": "live_print_kit_pipeline_paint_also_refused_by/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "merge_apply": false,
+    "also_refused_by": [
+      "live_print_kit_pipeline_paint",
+      "invent_pipeline",
+      "off_allowlist_pipeline",
+      "allowlist_pipelines_only",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "single_digest_live"
+    ],
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "dual_proof_required": 1,
+    "single_digest_live": 0,
+    "review_private_default": 1,
+    "allow_list": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "example_refusal_row": {
+      "row_id": "also_refused_by_live_print_kit_pipeline_paint_SYNTHETIC",
+      "trigger": "off-list pipeline Apply / single-digest LIVE print_kit also_refused_by paint Apply attempted as allow-listed dual-digest LIVE",
+      "attempted_as": [
+        "allow_listed_dual_digest_live",
+        "cyan_live_print_kit_also_refused_by"
+      ],
+      "source_surfaces": [
+        "off-list pipeline (∉ brief-126)",
+        "single-digest LIVE paint",
+        "brief-119 print Apply",
+        "brief-121 dual-digest Apply"
+      ],
+      "proposed_pipeline": "vendor_receipt_sha_SYNTHETIC",
+      "in_allow_list": false,
+      "digest_count": 1,
+      "also_refused_by": "live_print_kit_pipeline_paint",
+      "live_paint_authorized": false,
+      "invented": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — off-list / single-digest EXAMPLE only; never off-list as allow-listed dual-digest LIVE; never single-digest cyan LIVE; human Apply still required on allow-listed matching dual digests (pairs brief-126 + brief-121)"
+    },
+    "example_single_digest_refusal": {
+      "proposed_pipeline": "on_disk_row_sha256",
+      "in_allow_list": true,
+      "digest_count": 1,
+      "dual_proof": false,
+      "live_paint_authorized": false,
+      "also_refused_by": "live_print_kit_pipeline_paint",
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — single allow-listed digest alone never paints cyan LIVE; dual_proof_required=1; single_digest_live=0"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "status": "EXAMPLE",
+      "live_badge": false,
+      "refusal_id": null
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "reason": "live_print_kit_pipeline_paint",
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false
+    },
+    "preferred_fold": ":4335"
+  }
+}

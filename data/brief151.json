@@ -1,0 +1,414 @@
+{
+  "brief_id": "brief-151",
+  "title": "Allow-Listed live_print_kit_refusal_paint Off-List Disposition CAS / review_private Before Disposition Apply — Millersville CAS + review_private Gate on Named Off-List Disposition reject / route-to-allowlist-extension Apply (reject_apply / route_to_allowlist_extension_apply only; Never Cyan LIVE; Never Invent Apply Surface); invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / dual_proof_required=1 / fabricate_digest=0 / single_digest_live=0 / fabricate_refusal=0 / fake_live_refusal=0 / burn_outbound=0 / review_private_default=1 / invent_apply_surface=0 / merge_apply=false; pairs brief-150 + brief-149 + brief-148",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-151.md + peer-review-151.json + citations-151.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 328,
+  "citations_passed": true,
+  "pipeline_version": "v1.150.0",
+  "pairs": [
+    "brief-150",
+    "brief-149",
+    "brief-148"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE Allow-listed live_print_kit_refusal_paint off-list disposition CAS / review_private before disposition Apply — brief-150 disposition Apply closes only after CAS + review_private ⇒ reject_apply / route_to_allowlist_extension_apply only; invent_pipeline=0; off_allowlist_pipeline=0; allowlist_pipelines_only=1; invent_apply_surface=0; never cyan LIVE; still dual_proof_required=1 / merge_apply=false / also_refused_by live_print_kit_refusal_paint",
+    "invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / invent_apply_surface=0 / fabricate_refusal=0 / hold_timeout_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / fabricate_digest=0 / reuse_stale_digest=0 / single_digest_live=0 / burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / silent_merge_apply=0",
+    "merge_apply=false / also_refused_by live_print_kit_refusal_paint / disposition_apply_surfaces=reject_apply|route_to_allowlist_extension_apply / digest_pipelines=on_disk_row_sha256|apply_ledger_row_digest|cas_store|git_object_id",
+    "Pairs brief-150 + brief-149 + brief-148; cousins brief-147/146/145/144/143/142/141/140…129/127/126/125…120/119 (+117/116/098/091/085/088) merge_apply=false",
+    "Prefer 151 on live_print_kit_refusal_paint off-list disposition CAS / review_private before disposition Apply paths; keep unique prior ownership (150 off-list disposition board, 149 digest-pipeline allow-list, 148 dual-proof strip, 147 Apply surface allow-list, 146 mismatch_auto_pick_or_fabricate, 145 Apply surface allow-list, 144 disposition board, 143 live_print_kit_pipeline_paint, 142 off-list disposition, 141 pipeline-aware mismatch Hold, 127 mismatch Hold open, 121 dual-digest)",
+    "Personal household only — not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/skip-cas-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/skip-review-private-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/invent-apply-surface-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/invent-pipeline-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/off-allowlist-pipeline-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/cyan-live-from-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/auto-mint-allowlist-extension-from-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/fabricate-refusal-from-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/fabricate-digest-via-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/hold-timeout-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private-hold-timeout-live",
+    "/api/fake-live-from-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/single-digest-after-live-print-kit-refusal-paint-off-list-disposition-cas-review-private-live",
+    "/api/reuse-stale-digest-after-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/cas-lost-update-bypass-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/close-disposition-without-cas-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/close-disposition-without-review-private-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/cousin-apply-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/silent-merge-cousin-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/disposition-board-150-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/digest-pipeline-allowlist-149-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/dual-proof-148-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/pipeline-allowlist-126-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/apply-surface-147-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/mismatch-auto-pick-or-fabricate-146-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/apply-surface-145-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/disposition-board-144-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/live-print-kit-pipeline-paint-143-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/off-list-disposition-142-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/pipeline-aware-mismatch-141-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/mismatch-hold-127-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/dual-digest-121-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/kit-print-119-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/surface-allowlist-138-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/invent-hold-offlist-140-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/dual-digest-proof-139-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/live-off-list-paint-137-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/off-list-mismatch-136-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/off-list-pipeline-135-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/invent-print-125-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/invent-hold-123-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/allowlist-120-as-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/skip-cas",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/skip-review-private",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/invent-apply-surface",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/invent-pipeline",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/off-allowlist-pipeline",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/cyan-live",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/auto-mint",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/fabricate-refusal",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/fake-live-refusal",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/single-digest",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/fabricate-digest",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/reuse-stale-digest",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/hold-timeout",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/cas-lost-update",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/cousin-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/150-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/149-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/148-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/147-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/146-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/145-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/144-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/143-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/142-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/141-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/128-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/127-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/126-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/121-merge",
+    "/api/live-print-kit-refusal-paint-off-list-disposition-cas-review-private/119-merge",
+    "/api/flight15/skip-cas-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/flight15/invent-apply-surface-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/flight15/invent-pipeline-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/flight15/cyan-live-from-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/flight15/hold-timeout-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/merge-live-print-kit-refusal-paint-off-list-disposition-cas-review-private-cyan-live",
+    "/api/silent-merge-live-print-kit-refusal-paint-off-list-disposition-cas-review-private-cyan-live",
+    "/api/auto-text-from-live-print-kit-refusal-paint-off-list-disposition-cas-review-private",
+    "/api/auto-print-from-live-print-kit-refusal-paint-off-list-disposition-cas-review-private"
+  ],
+  "scorecard": {
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "invent_apply_surface": 0,
+    "allowlist_apply_surfaces_only": 1,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "silent_merge_apply": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "live_print_kit_refusal_paint",
+      "live_print_kit_refusal_paint_off_list_digest_pipeline_disposition",
+      "live_print_kit_refusal_paint_off_list_disposition_cas_review_private",
+      "invent_pipeline",
+      "off_allowlist_pipeline",
+      "allowlist_pipelines_only",
+      "invent_apply_surface",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "hold_timeout_refusal",
+      "dual_proof_required",
+      "single_digest_live",
+      "fabricate_digest",
+      "review_private_default"
+    ],
+    "digest_pipelines": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "disposition_apply_surfaces": [
+      "reject_apply",
+      "route_to_allowlist_extension_apply"
+    ]
+  },
+  "cousins": {
+    "brief_150": {
+      "merge_apply": false,
+      "role": "Named off-list digest-pipeline disposition board for live_print_kit_refusal_paint dual-proof (pair)"
+    },
+    "brief_149": {
+      "merge_apply": false,
+      "role": "Named digest-pipeline allow-list for live_print_kit_refusal_paint dual-proof (pair)"
+    },
+    "brief_148": {
+      "merge_apply": false,
+      "role": "Dual-digest LIVE print_kit also_refused_by paint dual-proof strip (pair)"
+    },
+    "brief_147": {
+      "merge_apply": false,
+      "role": "Named live_print_kit_refusal_paint Apply surface allow-list"
+    },
+    "brief_146": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by mismatch_auto_pick_or_fabricate"
+    },
+    "brief_145": {
+      "merge_apply": false,
+      "role": "Named mismatch-Hold Apply surface allow-list"
+    },
+    "brief_144": {
+      "merge_apply": false,
+      "role": "Print mismatch Hold disposition board"
+    },
+    "brief_143": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by live_print_kit_pipeline_paint"
+    },
+    "brief_142": {
+      "merge_apply": false,
+      "role": "Named off-list disposition board (generic)"
+    },
+    "brief_141": {
+      "merge_apply": false,
+      "role": "pipeline-aware mismatch Hold"
+    },
+    "brief_140": {
+      "merge_apply": false,
+      "role": "invent-print Apply cousin"
+    },
+    "brief_139": {
+      "merge_apply": false,
+      "role": "invent-print dual-digest"
+    },
+    "brief_138": {
+      "merge_apply": false,
+      "role": "invent Apply surface"
+    },
+    "brief_137": {
+      "merge_apply": false,
+      "role": "LIVE off-list paint"
+    },
+    "brief_136": {
+      "merge_apply": false,
+      "role": "Off-list mismatch Hold"
+    },
+    "brief_135": {
+      "merge_apply": false,
+      "role": "off-list digest-pipeline"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "role": "invent-print-reason Hold also_refused_by"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "role": "invent-Hold timeout"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "role": "invent-Hold dual-digest"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "role": "invent-print LIVE paint"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "role": "LIVE→print_kit dual-digest"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "role": "LIVE-Apply surface"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by live_print_kit_refusal_paint"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "role": "Print also_refused_by dual-digest mismatch Hold"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "role": "Named print also_refused_by digest-pipeline allow-list"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "role": "invent-print-reason Apply cousin"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "role": "off-list print_kit reason dual-digest"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "role": "invent-Hold print_kit reason"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "role": "LIVE cousin"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "role": "Print also_refused_by dual-digest"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "role": "Named print_kit refusal-reason allow-list"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "role": "Flight15 kit print also_refused_by"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "role": "Refusal ledger dual-digest"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "role": "snack also_refused_by"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "role": "also_refused_by cousin"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "role": "Flight15 kit"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "role": "webcast cousin"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "role": "clash cousin"
+    }
+  },
+  "live_print_kit_refusal_paint_off_list_disposition_cas_review_private_gate_example": {
+    "schema": "live_print_kit_refusal_paint_off_list_disposition_cas_review_private_gate/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "also_refused_by": "live_print_kit_refusal_paint",
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "invent_apply_surface": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "dual_proof_required": 1,
+    "merge_apply": false,
+    "allow_list": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "digest_pipelines": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "disposition_apply_surfaces": [
+      "reject_apply",
+      "route_to_allowlist_extension_apply"
+    ],
+    "example_cas_reject_apply": {
+      "proposed_pipeline": "vendor_receipt_sha_SYNTHETIC",
+      "disposition": "reject",
+      "apply_surface": "reject_apply",
+      "cas": {
+        "etag": "W/\"disp-42\"",
+        "if_match": "W/\"disp-42\"",
+        "result": "ok"
+      },
+      "hold": {
+        "kind": "review_private",
+        "reason": "disposition_apply_cas",
+        "opened_at": "2026-10-27T13:50:00-04:00",
+        "state": "HOLD"
+      },
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "invented": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — CAS ok + review_private before reject_apply; never cyan LIVE; never invent pipeline (pairs brief-150 + brief-149 + brief-148)"
+    },
+    "example_cas_route_apply": {
+      "proposed_pipeline": "email_body_etag_SYNTHETIC",
+      "disposition": "route-to-allowlist-extension",
+      "apply_surface": "route_to_allowlist_extension_apply",
+      "cas": {
+        "etag": "W/\"disp-43\"",
+        "if_match": "W/\"disp-43\"",
+        "result": "ok"
+      },
+      "extension_apply_required": true,
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — CAS + review_private before route_to_allowlist_extension_apply; still requires human Apply on brief-149 allow-list; never auto-mint; never cyan LIVE"
+    },
+    "example_cas_lost_update_refused": {
+      "apply_surface": "reject_apply",
+      "cas": {
+        "etag": "W/\"disp-42\"",
+        "if_match": "W/\"stale\"",
+        "result": "conflict"
+      },
+      "apply_closed": false,
+      "live_paint_authorized": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — CAS conflict ⇒ disposition Apply refused; reopen review_private (brief-018)"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "status": "EXAMPLE",
+      "live_badge": false,
+      "refusal_id": null
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "reason": "live_print_kit_refusal_paint_off_list_disposition_cas_review_private",
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false,
+      "timeout_becomes_auto_mint": false,
+      "cas_required": true
+    },
+    "preferred_fold": ":4335"
+  }
+}

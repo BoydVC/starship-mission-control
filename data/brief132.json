@@ -1,0 +1,347 @@
+{
+  "brief_id": "brief-132",
+  "title": "Print invent-Hold Dual-Digest Proof Strip \u2014 Millersville Second Independent Ledger Digest Before invent-Hold Disposition When Off-List print_kit Reason Proposed; fabricate_refusal=0 / dual_proof_required=1 / invent_refusal_reason=0",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-132.md + peer-review-132.json + citations-132.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 314,
+  "citations_passed": true,
+  "pipeline_version": "v1.131.0",
+  "pairs": [
+    "brief-123",
+    "brief-120",
+    "brief-121"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE dual ledger digests before invent-Hold disposition when off-list print_kit reason proposed \u2014 never invent-Hold disposition / cyan LIVE from one digest / fixture / invent-Hold Apply alone",
+    "fabricate_refusal=0 / dual_proof_required=1 / invent_refusal_reason=0 / fake_live_refusal=0 / single_digest_live=0 / mismatch_auto_pick=0 / burn_outbound=0",
+    "fabricate_digest=0 / reuse_stale_digest=0 / hold_timeout_refusal=0 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / merge_apply=false / also_refused_by invent_hold_dual_digest / review_private_default=1",
+    "Pairs brief-123 + brief-120 + brief-121; cousins brief-123/120/121(+131/130/129/128/127/126/125/122/119) merge_apply=false",
+    "also_refused_by on overlapping invent-Hold dual-digest / invent disposition paths; prefer 132 on invent-Hold dual-digest proof strip paths",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/single-digest-invent-hold-disposition",
+    "/api/single-digest-invent-hold-dual-digest",
+    "/api/invent-hold-dual-digest/single-digest",
+    "/api/invent-hold-dual-digest/fabricate-refusal",
+    "/api/invent-hold-dual-digest/fake-live-refusal",
+    "/api/invent-hold-dual-digest/mismatch-auto-pick",
+    "/api/invent-hold-dual-digest/fabricate-digest",
+    "/api/invent-hold-dual-digest/reuse-stale-digest",
+    "/api/invent-hold-dual-digest/hold-timeout",
+    "/api/invent-hold-apply-as-cyan-live-from-invent",
+    "/api/invent-hold-123-as-cyan-live-from-invent",
+    "/api/allowlist-120-as-invent-hold-dual-digest-disposition",
+    "/api/dual-digest-121-as-invent-hold-disposition",
+    "/api/fabricate-invent-hold-dual-digest-refusal",
+    "/api/fake-live-invent-hold-dual-digest",
+    "/api/mismatch-auto-pick-invent-hold-dual-digest",
+    "/api/fabricate-digest-invent-hold-dual-digest",
+    "/api/reuse-stale-digest-invent-hold-dual-digest",
+    "/api/hold-timeout-invent-hold-dual-digest",
+    "/api/cousin-apply-as-invent-hold-dual-digest",
+    "/api/silent-merge-cousin-invent-hold-dual-digest",
+    "/api/surface-allowlist-as-invent-hold-dual-digest",
+    "/api/paint-as-invent-hold-dual-digest",
+    "/api/mismatch-hold-as-invent-hold-dual-digest",
+    "/api/pipeline-allowlist-as-invent-hold-dual-digest",
+    "/api/invent-print-as-invent-hold-dual-digest",
+    "/api/live-print-kit-dual-digest-as-invent-hold",
+    "/api/print-kit-live-apply-as-invent-hold-dual-digest",
+    "/api/flight15/invent-hold-as-cyan-live-from-invent",
+    "/api/flight15/single-digest-invent-hold",
+    "/api/invent-hold-dual-digest/cousin-merge",
+    "/api/invent-hold-dual-digest/123-merge",
+    "/api/invent-hold-dual-digest/120-merge",
+    "/api/invent-hold-dual-digest/121-merge",
+    "/api/invent-hold-dual-digest/131-merge",
+    "/api/invent-hold-dual-digest/130-merge",
+    "/api/merge-invent-hold-cyan-live-from-invent",
+    "/api/silent-merge-invent-hold-cyan-live-from-invent",
+    "/api/auto-text-from-single-digest-invent-hold",
+    "/api/auto-print-from-single-digest-invent-hold",
+    "/api/invent-refusal-reason-as-invent-hold-dual-digest"
+  ],
+  "scorecard": {
+    "fabricate_refusal": 0,
+    "dual_proof_required": 1,
+    "invent_refusal_reason": 0,
+    "fake_live_refusal": 0,
+    "single_digest_live": 0,
+    "mismatch_auto_pick": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "hold_timeout_refusal": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "invent_hold_dual_digest",
+      "invent_hold",
+      "single_digest_live",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "invent_refusal_reason"
+    ],
+    "burn_outbound": 0,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "review_private_default": 1,
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "invent_hold"
+      ],
+      "role": "Invented print_kit refusal-reason Hold (pair \u2014 owns Hold when off-list reason proposed; this brief gates invent-Hold disposition after dual digests)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (pair \u2014 membership \u2260 invent-Hold dual-digest disposition)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "dual_digest_live_apply"
+      ],
+      "role": "Print also_refused_by dual-digest (pair \u2014 owns dual digests for print_kit also_refused_by rows generally; this brief specializes to invent-Hold disposition)"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "print_kit_live_apply"
+      ],
+      "role": "Cousin also_refused_by invent-print / dual-digest LIVE paint as print_kit_live_apply (overlap)"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "live_apply_print_kit_also_refused_by_dual_digest"
+      ],
+      "role": "LIVE\u2192print_kit dual-digest proof strip (overlap \u2014 LIVE\u2192print_kit path \u2260 invent path)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "Named LIVE-Apply surface allow-list (overlap)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "Cousin also_refused_by dual-digest LIVE print_kit also_refused_by paint (overlap)"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "Print also_refused_by dual-digest mismatch Hold (overlap)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named digest-pipeline allow-list (overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "invent_print_reason_apply"
+      ],
+      "role": "Cousin also_refused_by invent-print-reason Apply (overlap)"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "print_kit"
+      ],
+      "role": "LIVE cousin also_refused_by print_kit (overlap)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Two independent matching ledger digests before invent-Hold disposition when off-list print_kit reason proposed. Never invent. Never fabricate LIVE from invent. dual_proof_required=1. invent_refusal_reason=0. fabricate_refusal=0. merge_apply=false. also_refused_by invent_hold_dual_digest. Never burn outbound.",
+  "print_invent_hold_dual_digest_example": {
+    "schema": "print_invent_hold_dual_digest/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "dual_proof_required": 1,
+    "fabricate_refusal": 0,
+    "invent_refusal_reason": 0,
+    "fake_live_refusal": 0,
+    "pipelines_allowlist": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "also_refused_by": [
+      "invent_hold_dual_digest",
+      "invent_hold",
+      "single_digest_live",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "invent_refusal_reason"
+    ],
+    "example_proof": {
+      "row_id": "invent_hold_offlist_reason_SYNTHETIC",
+      "trigger": "off-list print_kit reason proposed \u2192 invent-Hold (brief-123)",
+      "proposed_reason_code": "EXAMPLE_OFFLIST_991",
+      "allowlist_member": false,
+      "digest_a": {
+        "pipeline": "on_disk_row_sha256",
+        "value": "EXAMPLE_DIGEST_A",
+        "fetched_at": "2026-10-27T11:30:00-04:00",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "honesty": "SYNTHETIC"
+      },
+      "digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "value": "EXAMPLE_DIGEST_A",
+        "fetched_at": "2026-10-27T11:30:01-04:00",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "honesty": "SYNTHETIC"
+      },
+      "match": true,
+      "invent_hold_disposition_eligible": false,
+      "live_paint_authorized": false,
+      "honesty": "SYNTHETIC \u2014 matching digests EXAMPLE only; never invent reason; never fabricate LIVE from invent; human Apply still required"
+    },
+    "digests": [
+      {
+        "pipeline": "on_disk_row_sha256",
+        "value": "EXAMPLE_DIGEST_A",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "honesty": "SYNTHETIC"
+      },
+      {
+        "pipeline": "apply_ledger_row_digest",
+        "value": "EXAMPLE_DIGEST_A",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "honesty": "SYNTHETIC"
+      }
+    ],
+    "scorecard": {
+      "fabricate_refusal": 0,
+      "dual_proof_required": 1,
+      "invent_refusal_reason": 0,
+      "fake_live_refusal": 0,
+      "single_digest_live": 0,
+      "mismatch_auto_pick": 0,
+      "fabricate_digest": 0,
+      "reuse_stale_digest": 0,
+      "hold_timeout_refusal": 0,
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_dual_digest",
+        "invent_hold",
+        "single_digest_live",
+        "fabricate_refusal",
+        "fake_live_refusal",
+        "invent_refusal_reason"
+      ],
+      "burn_outbound": 0,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "auto_text_print": 0,
+      "review_private_default": 1,
+      "silent_merge_apply": 0
+    },
+    "pairs": [
+      "brief-123",
+      "brief-120",
+      "brief-121"
+    ],
+    "cousins_merge_apply_false": [
+      "brief-123",
+      "brief-120",
+      "brief-121",
+      "brief-131",
+      "brief-130",
+      "brief-129",
+      "brief-128",
+      "brief-127",
+      "brief-126",
+      "brief-125",
+      "brief-122",
+      "brief-119"
+    ],
+    "preferred_fold": ":4335",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 invent-Hold dual ledger digests EXAMPLE only; never invent-Hold disposition / cyan LIVE without this-session dual independent digests + Hold\u2192Apply; invent_refusal_reason=0; fabricate_refusal=0; dual_proof_required=1; fake_live_refusal=0; single_digest_live=0; merge_apply=false; also_refused_by invent_hold_dual_digest",
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "destination": null,
+      "auto_paint": null,
+      "auto_text": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "reason": "awaiting_matching_dual_digests_and_human_apply_for_invent_hold"
+    },
+    "live_refusal_row_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 invent-Hold dual digests never paint cyan LIVE invent disposition alone; fabricate_refusal=0; dual_proof_required=1; invent_refusal_reason=0; fake_live_refusal=0; single_digest_live=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 invent-Hold dual digests never paint cyan LIVE invent disposition alone; fabricate_refusal=0; dual_proof_required=1; invent_refusal_reason=0; fake_live_refusal=0; single_digest_live=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    }
+  }
+}

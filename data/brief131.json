@@ -1,0 +1,272 @@
+{
+  "brief_id": "brief-131",
+  "title": "Cousin also_refused_by invent-print / dual-digest LIVE paint as clash/webcast/snack LIVE→print_kit also_refused_by — Millersville refusal ledger when invent-print-reason / dual-digest LIVE print_kit also_refused_by paint Apply attempted as clash/webcast/snack LIVE→print_kit also_refused_by Apply; merge_apply=false; also_refused_by print_kit_live_apply; fabricate_refusal=0 / dual_proof_required=1 / fake_live_refusal=0",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-131.md + peer-review-131.json + citations-131.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 314,
+  "citations_passed": true,
+  "pipeline_version": "v1.130.0",
+  "pairs": [
+    "brief-122",
+    "brief-120",
+    "brief-121",
+    "brief-119"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE refusal ledger when invent-print-reason / dual-digest LIVE paint Apply attempted as clash/webcast/snack LIVE→print_kit also_refused_by Apply — never silent-merge invent-print or paint into print_kit_live_apply",
+    "fabricate_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / single_digest_live=0 / invent_print_reason_as_print_kit_live=0 / dual_digest_live_paint_as_print_kit_live=0 / burn_outbound=0",
+    "merge_apply=false / also_refused_by print_kit_live_apply / invent_refusal_reason=0 / hold_timeout_refusal=0 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / review_private_default=1 / silent_merge_apply=0",
+    "Pairs brief-122 + brief-120 + brief-121 + brief-119; cousins brief-122/120/121/119(+130/129/128/127/126/125/123) merge_apply=false",
+    "also_refused_by on overlapping invent-print / dual-digest LIVE paint→print_kit_live_apply cousin merge paths; prefer 131 on print_kit_live_apply cousin paths",
+    "Personal household only — not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/invent-print-reason-as-print-kit-live-apply",
+    "/api/invent-print-reason-as-print-kit-live",
+    "/api/dual-digest-live-paint-as-print-kit-live-apply",
+    "/api/dual-digest-live-paint-as-print-kit-live",
+    "/api/live-print-kit-refusal-paint-as-print-kit-live-apply",
+    "/api/invent-hold-as-print-kit-live-apply",
+    "/api/clash-invent-print-as-print-kit-live",
+    "/api/webcast-invent-print-as-print-kit-live",
+    "/api/snack-invent-print-as-print-kit-live",
+    "/api/clash-dual-digest-paint-as-print-kit-live",
+    "/api/webcast-dual-digest-paint-as-print-kit-live",
+    "/api/snack-dual-digest-paint-as-print-kit-live",
+    "/api/merge-invent-print-print-kit-live-apply",
+    "/api/merge-dual-digest-live-paint-print-kit-live-apply",
+    "/api/silent-merge-invent-print-print-kit-live-apply",
+    "/api/silent-merge-dual-digest-live-paint-print-kit-live-apply",
+    "/api/cousin-apply-as-print-kit-live-apply-invent-paint",
+    "/api/silent-merge-cousin-print-kit-live-apply-invent-paint",
+    "/api/fabricate-print-kit-live-apply-from-invent-print",
+    "/api/fabricate-print-kit-live-apply-from-dual-digest-paint",
+    "/api/fake-live-print-kit-live-apply-from-invent-print",
+    "/api/fake-live-print-kit-live-apply-from-dual-digest-paint",
+    "/api/single-digest-invent-print-print-kit-live",
+    "/api/single-digest-dual-digest-paint-print-kit-live",
+    "/api/hold-timeout-invent-print-print-kit-live-apply",
+    "/api/hold-timeout-dual-digest-paint-print-kit-live-apply",
+    "/api/flight15/invent-print-as-print-kit-live-apply",
+    "/api/flight15/dual-digest-live-paint-as-print-kit-live-apply",
+    "/api/print-kit-live-apply/invent-print-merge",
+    "/api/print-kit-live-apply/dual-digest-live-paint-merge",
+    "/api/print-kit-live-apply/125-merge",
+    "/api/print-kit-live-apply/128-merge",
+    "/api/print-kit-live-apply/123-merge",
+    "/api/print-kit-live-apply/130-merge",
+    "/api/print-kit-live-apply/cousin-merge",
+    "/api/auto-text-from-invent-print-print-kit-live",
+    "/api/auto-print-from-invent-print-print-kit-live"
+  ],
+  "scorecard": {
+    "fabricate_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "single_digest_live": 0,
+    "invent_print_reason_as_print_kit_live": 0,
+    "dual_digest_live_paint_as_print_kit_live": 0,
+    "invent_refusal_reason": 0,
+    "hold_timeout_refusal": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "print_kit_live_apply",
+      "invent_print_reason_as_print_kit_live",
+      "dual_digest_live_paint_as_print_kit_live",
+      "single_digest_live",
+      "fabricate_refusal",
+      "fake_live_refusal"
+    ],
+    "burn_outbound": 0,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "review_private_default": 1,
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": ["print_kit_live_apply", "print_kit"],
+      "role": "LIVE cousin also_refused_by print_kit (pair — owns LIVE→print_kit also_refused_by path; invent-print/paint ≠ that Apply)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": ["print_kit_live_apply"],
+      "role": "Named print_kit refusal-reason allow-list (pair — invent path ≠ print_kit_live_apply)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": ["print_kit_live_apply", "dual_digest_live_apply"],
+      "role": "Print also_refused_by dual-digest (pair — dual-digest ≠ print_kit_live_apply merge)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": ["print_kit_live_apply", "kit_print_apply"],
+      "role": "Flight15 kit print also_refused_by (pair — print_kit rows; print Apply ≠ invent-print/paint→print_kit_live)"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "also_refused_by": ["print_kit_live_apply", "live_apply_print_kit_also_refused_by_dual_digest"],
+      "role": "LIVE→print_kit dual-digest proof strip (overlap — dual-digest proof ≠ invent-print/paint→print_kit_live merge)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": ["print_kit_live_apply", "live_apply_surface_allowlist"],
+      "role": "Named LIVE-Apply surface allow-list (overlap)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": ["print_kit_live_apply", "live_print_kit_refusal_paint"],
+      "role": "Cousin also_refused_by dual-digest LIVE print_kit also_refused_by paint (overlap — paint ≠ print_kit_live_apply)"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": ["print_kit_live_apply", "dual_digest_mismatch_hold"],
+      "role": "Print also_refused_by dual-digest mismatch Hold (overlap)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": ["print_kit_live_apply", "digest_pipeline_allowlist"],
+      "role": "Named digest-pipeline allow-list (overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": ["print_kit_live_apply", "invent_print_reason_apply"],
+      "role": "Cousin also_refused_by invent-print-reason Apply (overlap — invent-print ≠ print_kit_live_apply)"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": ["print_kit_live_apply", "invent_hold"],
+      "role": "Invented print_kit refusal-reason Hold (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Invent-print-reason / dual-digest LIVE paint Apply never silent-satisfies print_kit_live_apply (clash/webcast/snack LIVE→print_kit also_refused_by). merge_apply=false. also_refused_by print_kit_live_apply. fabricate_refusal=0. dual_proof_required=1. fake_live_refusal=0. Never burn outbound.",
+  "invent_print_dual_digest_live_paint_as_print_kit_live_also_refused_by_example": {
+    "schema": "invent_print_dual_digest_live_paint_as_print_kit_live_also_refused_by/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "dual_proof_required": 1,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "invent_print_reason_as_print_kit_live": 0,
+    "dual_digest_live_paint_as_print_kit_live": 0,
+    "also_refused_by": [
+      "print_kit_live_apply",
+      "invent_print_reason_as_print_kit_live",
+      "dual_digest_live_paint_as_print_kit_live",
+      "single_digest_live",
+      "fabricate_refusal",
+      "fake_live_refusal"
+    ],
+    "example_refusal": {
+      "attempted": "brief-125.invent_print_reason_apply",
+      "target": "print_kit_live_apply",
+      "result": "REFUSED",
+      "reason": "merge_apply=false; also_refused_by print_kit_live_apply; invent_print_reason_as_print_kit_live=0",
+      "status": "EXAMPLE",
+      "live_badge": false,
+      "honesty": "SYNTHETIC"
+    },
+    "example_paint_refusal": {
+      "attempted": "brief-128.live_print_kit_refusal_paint",
+      "target": "print_kit_live_apply",
+      "result": "REFUSED",
+      "reason": "merge_apply=false; also_refused_by print_kit_live_apply; dual_digest_live_paint_as_print_kit_live=0",
+      "status": "EXAMPLE",
+      "live_badge": false,
+      "honesty": "SYNTHETIC"
+    },
+    "scorecard": {
+      "fabricate_refusal": 0,
+      "dual_proof_required": 1,
+      "fake_live_refusal": 0,
+      "single_digest_live": 0,
+      "invent_print_reason_as_print_kit_live": 0,
+      "dual_digest_live_paint_as_print_kit_live": 0,
+      "hold_timeout_refusal": 0,
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit_live_apply",
+        "invent_print_reason_as_print_kit_live",
+        "dual_digest_live_paint_as_print_kit_live",
+        "single_digest_live",
+        "fabricate_refusal",
+        "fake_live_refusal"
+      ],
+      "burn_outbound": 0,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "auto_text_print": 0,
+      "review_private_default": 1,
+      "silent_merge_apply": 0
+    },
+    "pairs": [
+      "brief-122",
+      "brief-120",
+      "brief-121",
+      "brief-119"
+    ],
+    "cousins_merge_apply_false": [
+      "brief-122",
+      "brief-120",
+      "brief-121",
+      "brief-119",
+      "brief-130",
+      "brief-129",
+      "brief-128",
+      "brief-127",
+      "brief-126",
+      "brief-125",
+      "brief-123"
+    ],
+    "preferred_fold": ":4335",
+    "honesty": "EXAMPLE/SYNTHETIC — invent-print / dual-digest LIVE paint→print_kit_live_apply refusal ledger EXAMPLE only; never cyan LIVE from invent-print or paint alone; fabricate_refusal=0; dual_proof_required=1; fake_live_refusal=0; merge_apply=false; also_refused_by print_kit_live_apply",
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "destination": null,
+      "auto_paint": null,
+      "auto_text": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "reason": "awaiting_human_disposition_after_invent_paint_print_kit_live_refuse"
+    },
+    "live_refusal_row_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE — invent-print / dual-digest LIVE paint never paints cyan LIVE print_kit_live_apply alone; fabricate_refusal=0; dual_proof_required=1; fake_live_refusal=0; single_digest_live=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE — invent-print / dual-digest LIVE paint never paints cyan LIVE print_kit_live_apply alone; fabricate_refusal=0; dual_proof_required=1; fake_live_refusal=0; single_digest_live=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    }
+  }
+}

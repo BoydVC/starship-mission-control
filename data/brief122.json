@@ -1,0 +1,321 @@
+{
+  "brief_id": "brief-122",
+  "title": "Cousin also_refused_by print_kit when Clash / Webcast / Snack LIVE Apply \u2014 Millersville Refusal Ledger When Clash / Webcast / Snack LIVE Apply Attempted as print_kit also_refused_by Apply; merge_apply=false; also_refused_by print_kit",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-122.md + peer-review-122.json + citations-122.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 318,
+  "citations_passed": true,
+  "pipeline_version": "v1.121.0",
+  "pairs": [
+    "brief-119",
+    "brief-088",
+    "brief-085",
+    "brief-097"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "EXAMPLE refusal ledger when clash/webcast/snack LIVE Apply attempted as print_kit also_refused_by Apply \u2014 never silent-merge LIVE cousin Apply into print_kit also_refused_by",
+    "merge_apply=false / also_refused_by print_kit / auto_print_kit_refusal=0 / burn_outbound=0",
+    "clash_live_as_print_kit_refusal=0 / webcast_live_as_print_kit_refusal=0 / snack_live_as_print_kit_refusal=0 / fabricate_refusal=0 / fake_live_refusal=0",
+    "silent_merge_apply=0 / fabricate_print=0 / fake_live_print=0 / hold_timeout_refusal=0 / auto_text_kids=0 / auto_text_print=0 / review_private_default=1",
+    "Pairs brief-119 + brief-088 + brief-085 + brief-097; cousins brief-119/088/085/097(+121/120/116/098/091) merge_apply=false",
+    "also_refused_by on overlapping LIVE\u2192print_kit also_refused_by merge paths",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/clash-live-as-print-kit-refusal",
+    "/api/webcast-live-as-print-kit-refusal",
+    "/api/snack-live-as-print-kit-refusal",
+    "/api/merge-clash-live-print-kit",
+    "/api/merge-webcast-live-print-kit",
+    "/api/merge-snack-live-print-kit",
+    "/api/clash-live-as-print-kit-also-refused-by",
+    "/api/webcast-live-as-print-kit-also-refused-by",
+    "/api/snack-live-as-print-kit-also-refused-by",
+    "/api/flight15/clash-live-as-print-kit-refusal",
+    "/api/flight15/webcast-live-as-print-kit-refusal",
+    "/api/flight15/snack-live-as-print-kit-refusal",
+    "/api/print-kit/clash-live-merge",
+    "/api/print-kit/webcast-live-merge",
+    "/api/print-kit/snack-live-merge",
+    "/api/silent-merge-clash-live-print-kit",
+    "/api/silent-merge-webcast-live-print-kit",
+    "/api/silent-merge-snack-live-print-kit",
+    "/api/fabricate-refusal-from-clash-live",
+    "/api/fabricate-refusal-from-webcast-live",
+    "/api/fabricate-refusal-from-snack-live",
+    "/api/auto-print-kit-refusal",
+    "/api/hold-timeout-print-kit-refusal",
+    "/api/fake-live-refusal-from-cousin-live",
+    "/api/silent-merge-live-print-kit"
+  ],
+  "scorecard": {
+    "merge_apply": false,
+    "also_refused_by": [
+      "print_kit",
+      "print_kit_also_refused_by_apply"
+    ],
+    "auto_print_kit_refusal": 0,
+    "burn_outbound": 0,
+    "clash_live_as_print_kit_refusal": 0,
+    "webcast_live_as_print_kit_refusal": 0,
+    "snack_live_as_print_kit_refusal": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "silent_merge_apply": 0,
+    "fabricate_print": 0,
+    "fake_live_print": 0,
+    "hold_timeout_refusal": 0,
+    "auto_text_kids": 0,
+    "auto_text_print": 0,
+    "review_private_default": 1
+  },
+  "cousins": {
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "print_kit_also_refused_by_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (pair \u2014 owns print_kit also_refused_by rows; non-LIVE Apply\u2192kit print)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "clash_live_apply"
+      ],
+      "role": "clash / clash LIVE (pair)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "webcast_live_apply"
+      ],
+      "role": "webcast / webcast LIVE (pair)"
+    },
+    "brief_097": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "snack_live_apply"
+      ],
+      "role": "Flight 15 snack Hold allow-list / snack LIVE (pair)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "print also_refused_by dual-digest (overlap)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "invent_print_refusal_reason"
+      ],
+      "role": "named print_kit refusal-reason allow-list (overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "snack_order"
+      ],
+      "role": "snack also_refused_by (overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "flight15_text_apply"
+      ],
+      "role": "Flight15 also_refused_by (overlap)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit"
+      ],
+      "role": "Flight 15 family alert kit (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Clash / webcast / snack LIVE Apply \u2260 print_kit also_refused_by Apply. merge_apply=false. also_refused_by print_kit. Never fabricate LIVE refusal. Never burn outbound.",
+  "print_kit_live_apply_also_refused_by_example": {
+    "schema": "print_kit_live_apply_also_refused_by/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 refusals_example are SYNTHETIC; never invent cyan LIVE refusal from clash/webcast/snack LIVE Apply; never silent-merge LIVE\u2192print_kit also_refused_by",
+    "scorecard": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_kit",
+        "print_kit_also_refused_by_apply"
+      ],
+      "auto_print_kit_refusal": 0,
+      "burn_outbound": 0,
+      "clash_live_as_print_kit_refusal": 0,
+      "webcast_live_as_print_kit_refusal": 0,
+      "snack_live_as_print_kit_refusal": 0,
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "silent_merge_apply": 0,
+      "fabricate_print": 0,
+      "fake_live_print": 0,
+      "hold_timeout_refusal": 0,
+      "auto_text_kids": 0,
+      "auto_text_print": 0,
+      "review_private_default": 1
+    },
+    "cousins": {
+      "brief-119": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit"
+        ],
+        "role": "Flight15 kit print also_refused_by (pair owner)"
+      },
+      "brief-088": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "clash_live_apply"
+        ],
+        "role": "clash / clash LIVE"
+      },
+      "brief-085": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "webcast_live_apply"
+        ],
+        "role": "webcast / webcast LIVE"
+      },
+      "brief-097": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "snack_live_apply"
+        ],
+        "role": "Flight 15 snack Hold allow-list / snack LIVE"
+      },
+      "brief-121": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "live_print_kit_refusal_paint"
+        ],
+        "role": "print also_refused_by dual-digest (overlap)"
+      },
+      "brief-120": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit"
+        ],
+        "role": "named print_kit refusal-reason allow-list (overlap)"
+      },
+      "brief-116": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "snack_order"
+        ],
+        "role": "snack also_refused_by (overlap)"
+      },
+      "brief-098": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit",
+          "flight15_text_apply"
+        ],
+        "role": "Flight15 also_refused_by (overlap)"
+      },
+      "brief-091": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "print_kit"
+        ],
+        "role": "Flight 15 family alert kit (overlap)"
+      }
+    },
+    "refusals_example": [
+      {
+        "id": "ex-refusal-001",
+        "attempted": "brief-088.clash_live_apply",
+        "target": "print_kit_also_refused_by_apply",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; also_refused_by print_kit; clash_live_as_print_kit_refusal=0",
+        "honesty": "SYNTHETIC/EXAMPLE",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "ts": "2026-10-27T10:28:10-04:00"
+      },
+      {
+        "id": "ex-refusal-002",
+        "attempted": "brief-085.webcast_live_apply",
+        "target": "print_kit_also_refused_by_apply",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; also_refused_by print_kit; webcast_live_as_print_kit_refusal=0",
+        "honesty": "SYNTHETIC/EXAMPLE",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "ts": "2026-10-27T10:28:11-04:00"
+      },
+      {
+        "id": "ex-refusal-003",
+        "attempted": "brief-097.snack_live_apply",
+        "target": "print_kit_also_refused_by_apply",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; also_refused_by print_kit; snack_live_as_print_kit_refusal=0; fabricate_refusal=0",
+        "honesty": "SYNTHETIC/EXAMPLE",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "ts": "2026-10-27T10:28:12-04:00"
+      }
+    ],
+    "live_refusal_paint": {
+      "allowed": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "refusal_id": null,
+      "honesty": "SYNTHETIC \u2014 never cyan LIVE refusal from LIVE cousin Apply"
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "destination": null,
+      "auto_paint": null,
+      "auto_text": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false
+    },
+    "cas": {
+      "version": 1,
+      "path": "print_kit_live_apply_also_refused_by.json"
+    }
+  }
+}

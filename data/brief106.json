@@ -1,0 +1,187 @@
+{
+  "brief_id": "brief-106",
+  "title": "DVR Hold Destination Ledger \u2014 Millersville Named DVR Destination Allow-List Under start_dvr Hold; Never Auto-Start DVR",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-106.md + peer-review-106.json + citations-106.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 314,
+  "citations_passed": true,
+  "pipeline_version": "v1.105.0",
+  "pairs": [
+    "brief-094"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "Named allow-list destinations under start_dvr Hold only; never auto-start DVR",
+    "allowlist_only=1 \u2014 off-list host/path refused (off_allowlist_dvr=0)",
+    "Never fabricate destination rows / fake LIVE DVR / fabricate LIVE stream",
+    "Hold timeout never starts DVR; never auto-text kids/DVR; burn_outbound=0",
+    "Cousins brief-094 (+105/085/052) merge_apply=false \u2014 DVR/LIVE paint/mirror/watch-party Apply \u2260 destination-ledger Apply",
+    "Personal household only \u2014 not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_strip",
+    "start_dvr",
+    "text_kids",
+    "text_dvr",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/auto-start-dvr",
+    "/api/dvr/auto-start",
+    "/api/off-allowlist-dvr",
+    "/api/dvr/off-allowlist",
+    "/api/fake-live-dvr",
+    "/api/dvr/fake-live",
+    "/api/hold-timeout-dvr",
+    "/api/fabricate-destination",
+    "/api/dvr/fabricate-destination",
+    "/api/allowlist/dvr-bypass",
+    "/api/destination-ledger/fabricate",
+    "/api/destination-ledger/auto-start",
+    "/api/destination/off-allowlist",
+    "/api/dvr/allowlist-bypass",
+    "/api/burn-outbound",
+    "/api/auto-text-kids",
+    "/api/fabricate-stream"
+  ],
+  "scorecard": {
+    "auto_start_dvr": 0,
+    "allowlist_only": 1,
+    "burn_outbound": 0,
+    "fabricate_stream": 0,
+    "fake_live_dvr": 0,
+    "hold_timeout_dvr": 0,
+    "fabricate_destination": 0,
+    "off_allowlist_dvr": 0,
+    "auto_text_kids": 0,
+    "auto_text_dvr": 0,
+    "auto_schedule_catchup": 0,
+    "fabricate_official": 0
+  },
+  "cousins": {
+    "brief_094": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "destination_ledger_apply",
+        "start_dvr"
+      ],
+      "role": "webcast DVR + Chelsea catch-up"
+    },
+    "brief_105": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "destination_ledger_apply",
+        "live_stream_paint"
+      ],
+      "role": "webcast stream dual-proof (overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "destination_ledger_apply",
+        "start_dvr"
+      ],
+      "role": "webcast mirror OFFICIAL/UNOFFICIAL/REPLAY"
+    },
+    "brief_052": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "destination_ledger_apply"
+      ],
+      "role": "livestream watch-party (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Named allow-list destinations under start_dvr Hold. Never auto-start DVR. DVR Apply \u2260 destination ledger Apply \u2260 LIVE paint. Never auto-text kids.",
+  "dvr_hold_destination_ledger_example": {
+    "schema": "dvr_hold_destination_ledger/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "status": "EXAMPLE",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 live_dvr null; allowlist rows EXAMPLE only; allowlisted=true \u2260 start_dvr auth",
+    "live_dvr": null,
+    "allowlist_destinations": [
+      {
+        "destination_id": "spacex_official",
+        "kind": "official_stream",
+        "host_or_path": "https://www.spacex.com/",
+        "allowlisted": true,
+        "label": "EXAMPLE SpaceX official stream",
+        "fetched_at": null
+      },
+      {
+        "destination_id": "spacex_youtube",
+        "kind": "youtube",
+        "host_or_path": "https://www.youtube.com/@SpaceX",
+        "allowlisted": true,
+        "label": "EXAMPLE SpaceX YouTube",
+        "fetched_at": null
+      },
+      {
+        "destination_id": "nsf_youtube",
+        "kind": "nsf",
+        "host_or_path": "https://www.youtube.com/@NASASpaceflight",
+        "allowlisted": true,
+        "label": "EXAMPLE NSF YouTube",
+        "fetched_at": null
+      },
+      {
+        "destination_id": "nasa_tv",
+        "kind": "nasa_tv",
+        "host_or_path": "https://www.nasa.gov/nasatv/",
+        "allowlisted": true,
+        "label": "EXAMPLE NASA TV",
+        "fetched_at": null
+      },
+      {
+        "destination_id": "local_dvr_box",
+        "kind": "local_dvr",
+        "host_or_path": "/workspace/tokenmax/starship-dvr",
+        "allowlisted": true,
+        "label": "EXAMPLE local DVR path",
+        "fetched_at": null
+      },
+      {
+        "destination_id": "starship_labeled_mirror",
+        "kind": "labeled_mirror",
+        "host_or_path": "starship:4335/dvr-mirror",
+        "allowlisted": true,
+        "label": "EXAMPLE Starship labeled mirror",
+        "fetched_at": null
+      }
+    ],
+    "hold": {
+      "state": "HOLD",
+      "action": null,
+      "default": "review_private",
+      "destination_id": null,
+      "options": [
+        "review_private",
+        "export_strip",
+        "start_dvr",
+        "text_kids",
+        "text_dvr",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "auto_start": null,
+      "auto_text": null,
+      "cousin_ack": {
+        "brief_094": false,
+        "brief_105": false,
+        "brief_085": false,
+        "brief_052": false
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "dvr_hold_destination_ledger.json"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "brief_id": "brief-082",
+  "title": "SpaceX Pad-Cam Honesty Board — Millersville Starbase/Starship Public Pad-Cam Honesty Strip (LIVE vs REPLAY vs UNOFFICIAL) with Trip HOLD",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-082.md + peer-review-082.json + citations-082.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 245,
+  "citations_passed": true,
+  "pairs": [
+    "brief-026 Mission Control",
+    "brief-055 Starbase timeline",
+    "brief-052 livestream watch-party",
+    "brief-049 launch window"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD (watching Starbase / Boca Chica public feeds)",
+  "place": "Millersville, MD",
+  "constraints": [
+    "Never fabricate LIVE pad-cam without this-session dual_proof fetch; missing proof => EMPTY/EXAMPLE/SYNTHETIC",
+    "Never force REPLAY/UNOFFICIAL to cyan LIVE; never sell delayed feed as LIVE",
+    "Never auto-text pad-cam alerts or kids; never auto-post pad-cam; never auto-book trip",
+    "Trip Hold default review_private / trip_hold; book_trip never default; Hold timeout never texts",
+    "Cousins brief-052 + brief-055 merge_apply=false — ON_AIR ≠ pad-cam LIVE ≠ timeline T-0",
+    "Pairs Mission Control brief-026 + brief-049 — separate Apply",
+    "Personal household only — not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_strip",
+    "text_padcam",
+    "text_kids",
+    "post_x",
+    "defer",
+    "reject"
+  ],
+  "trip_hold_destinations": [
+    "review_private",
+    "trip_hold",
+    "book_trip",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/fabricate-padcam",
+    "/api/auto-text-padcam",
+    "/api/force-padcam-live",
+    "/api/fabricate-replay-as-live",
+    "/api/auto-book-trip",
+    "/api/auto-text-kids",
+    "/api/fake-live-padcam",
+    "/api/hold-timeout-text",
+    "/api/burn-outbound",
+    "/api/auto-post-padcam",
+    "/api/padcam/auto-text",
+    "/api/padcam/fabricate",
+    "/api/padcam/force-live",
+    "/api/padcam/auto-post",
+    "/api/padcam/fake-live"
+  ],
+  "scorecard": {
+    "fabricate_padcam": 0,
+    "auto_text_padcam": 0,
+    "force_padcam_live": 0,
+    "fabricate_replay_as_live": 0,
+    "auto_book_trip": 0,
+    "auto_text_kids": 0,
+    "fake_live_padcam": 0,
+    "hold_timeout_text": 0,
+    "burn_outbound": 0,
+    "auto_post_padcam": 0
+  },
+  "cousins": {
+    "brief_052": {"merge_apply": false, "role": "livestream watch-party"},
+    "brief_055": {"merge_apply": false, "role": "Starbase public timeline"},
+    "brief_026": {"merge_apply": false, "role": "Mission Control"},
+    "brief_049": {"merge_apply": false, "role": "launch window"}
+  },
+  "merge_apply": false,
+  "padcam_honesty_example": {
+    "schema": "spacex-padcam-honesty/v1",
+    "tz": "America/New_York",
+    "place": "Millersville, MD",
+    "honesty_board": "EXAMPLE/SYNTHETIC",
+    "dual_proof": false,
+    "window": {"kind": "Starbase/Starship pad-cam watch", "status": "EXAMPLE"},
+    "feeds": [
+      {"id": "EX-SPACEX-YT", "source": "SpaceX YouTube (EXAMPLE)", "label": "EMPTY", "status": "EXAMPLE", "proof": null, "live_badge": false},
+      {"id": "EX-NSF", "source": "NSF cam (EXAMPLE)", "label": "EMPTY", "status": "EXAMPLE", "proof": null, "live_badge": false},
+      {"id": "EX-REPLAY", "source": "Yesterday replay (EXAMPLE)", "label": "REPLAY", "status": "EXAMPLE", "proof": null, "live_badge": false}
+    ],
+    "honesty": {
+      "label": "EMPTY",
+      "status": "EXAMPLE",
+      "proof": null,
+      "live_badge": false
+    },
+    "trip_hold": {
+      "destination": null,
+      "state": "HOLD",
+      "default": "review_private",
+      "options": ["review_private", "trip_hold", "book_trip", "defer", "reject"],
+      "auto_book": null,
+      "digest_sha256": null,
+      "expires_at": null,
+      "cousin_ack": {"brief_052": false, "brief_055": false}
+    },
+    "notify_hold": {
+      "destination": null,
+      "state": "HOLD",
+      "default": "review_private",
+      "options": ["review_private", "export_strip", "text_padcam", "text_kids", "post_x", "defer", "reject"],
+      "auto_text": null,
+      "auto_post": null,
+      "digest_sha256": null,
+      "expires_at": null
+    }
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "service": "starship-mission-control",
+  "version": "1.0.0",
+  "generated_at": "2026-10-26T21:39:28-04:00",
+  "generated_at_label": "2026-10-26 21:39 America/New_York (EDT)",
+  "disclaimer": "Public-source burn desk. LIVE = fetched this session. SYNTHETIC = local framing / Boyd notes / illustrative UI copy. Not official SpaceX telemetry.",
+  "launches": [
+    {
+      "id": "starlink-15-16",
+      "name": "Starlink Group 15-16",
+      "vehicle": "Falcon 9 Block 5",
+      "site": "SLC-4E, Vandenberg SFB",
+      "landing": "Droneship (OCISLY)",
+      "net_utc": "2026-10-27T05:46:00Z",
+      "net_et": "2026-10-27 01:46 America/New_York",
+      "status": "GO (tracker)",
+      "kind": "countdown",
+      "tag": "LIVE",
+      "source": "NextLiftoff",
+      "source_url": "https://nextliftoff.com/next/falcon-9",
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    },
+    {
+      "id": "starlink-15-18",
+      "name": "Starlink Group 15-18",
+      "vehicle": "Falcon 9 Block 5",
+      "site": "SLC-4E, Vandenberg SFB",
+      "landing": "Droneship",
+      "net_utc": "2026-10-30T04:02:00Z",
+      "net_et": "2026-10-30 00:02 America/New_York",
+      "status": "Window listed",
+      "kind": "countdown",
+      "tag": "LIVE",
+      "source": "SpaceX Launches + NextLiftoff",
+      "source_url": "https://www.spacex.com/launches",
+      "fetched_at": "2026-10-26 21:39 America/New_York",
+      "note": "SpaceX lists window Oct 30 00:02–04:02 ET; NextLiftoff cites 04:02 UTC."
+    },
+    {
+      "id": "ussf-432",
+      "name": "USSF-432",
+      "vehicle": "Falcon 9",
+      "site": "SLC-4E, Vandenberg SFB",
+      "landing": "Droneship",
+      "net_utc": "2026-11-02T01:56:00Z",
+      "net_et": "2026-11-01 21:56 America/New_York",
+      "status": "Window listed",
+      "kind": "countdown",
+      "tag": "LIVE",
+      "source": "SpaceX Launches",
+      "source_url": "https://www.spacex.com/launches",
+      "fetched_at": "2026-10-26 21:39 America/New_York",
+      "note": "SpaceX window Nov 1 20:56 ET – Nov 2 00:56 ET."
+    },
+    {
+      "id": "starlink-15-21",
+      "name": "Starlink Group 15-21",
+      "vehicle": "Falcon 9",
+      "site": "SLC-4E, Vandenberg SFB",
+      "landing": "Droneship",
+      "net_utc": "2026-11-05T05:14:00Z",
+      "net_et": "2026-11-05 00:14 America/New_York",
+      "status": "Window listed",
+      "kind": "countdown",
+      "tag": "LIVE",
+      "source": "SpaceX Launches + NextLiftoff",
+      "source_url": "https://www.spacex.com/launches",
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    },
+    {
+      "id": "starship-flight-15",
+      "name": "Starship Flight 15",
+      "vehicle": "Starship / Super Heavy (V3)",
+      "site": "Pad 2, Starbase TX",
+      "landing": "Tower catch attempt (booster + ship) — planned",
+      "net_utc": "2026-11-08T18:00:00Z",
+      "net_et": "2026-11-08 NET America/New_York",
+      "status": "NET Nov 8 (unofficial)",
+      "kind": "starship",
+      "tag": "LIVE",
+      "source": "NASASpaceFlight + TSN (CADENA / aviation planning)",
+      "source_url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+      "fetched_at": "2026-10-26 21:39 America/New_York",
+      "note": "SpaceX has not announced an official launch date. NET Nov 8 from CADENA slides per NSF. Dual catch is Musk's stated plan; FAA licence for Flight 15 not announced as of fetch."
+    },
+    {
+      "id": "starship-flight-16",
+      "name": "Starship Flight 16",
+      "vehicle": "Starship / Super Heavy",
+      "site": "Possible LC-39A, Kennedy (first East Coast) — planning",
+      "landing": "TBD",
+      "net_utc": "2026-12-10T18:00:00Z",
+      "net_et": "2026-12 NET America/New_York",
+      "status": "December target (planning)",
+      "kind": "starship",
+      "tag": "LIVE",
+      "source": "NASASpaceFlight",
+      "source_url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+      "fetched_at": "2026-10-26 21:39 America/New_York",
+      "note": "Linked to bringing LC-39A online before year-end; subject to Flight 15 outcome."
+    }
+  ],
+  "starlink": {
+    "tag": "LIVE",
+    "fetched_at": "2026-10-26 21:39 America/New_York",
+    "primary_source": "KeepTrack",
+    "primary_url": "https://keeptrack.space/starlink-satellite-count",
+    "metrics": [
+      {
+        "id": "in_orbit",
+        "label": "In orbit",
+        "value": 11166,
+        "display": "11,166",
+        "tag": "LIVE",
+        "source": "KeepTrack (updated Oct 26, 2026)",
+        "source_url": "https://keeptrack.space/starlink-satellite-count"
+      },
+      {
+        "id": "working",
+        "label": "Working",
+        "value": 11151,
+        "display": "11,151",
+        "tag": "LIVE",
+        "source": "KeepTrack",
+        "source_url": "https://keeptrack.space/starlink-satellite-count"
+      },
+      {
+        "id": "launched",
+        "label": "Launched (all-time)",
+        "value": 13042,
+        "display": "13,042",
+        "tag": "LIVE",
+        "source": "KeepTrack",
+        "source_url": "https://keeptrack.space/starlink-satellite-count"
+      },
+      {
+        "id": "reentered",
+        "label": "Reentered / deorbited",
+        "value": 1876,
+        "display": "~1,876",
+        "tag": "LIVE",
+        "source": "KeepTrack (launched − in orbit ≈ 1,876)",
+        "source_url": "https://keeptrack.space/starlink-satellite-count"
+      },
+      {
+        "id": "markets",
+        "label": "Active markets",
+        "value": 174,
+        "display": "174",
+        "tag": "LIVE",
+        "source": "Gwynne Shotwell Q3 call via Spaceflight Now",
+        "source_url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/"
+      },
+      {
+        "id": "customers_q3_add",
+        "label": "Customers added (Q3)",
+        "value": 1600000,
+        "display": "+1.6M",
+        "tag": "LIVE",
+        "source": "Shotwell Q3 call via Spaceflight Now",
+        "source_url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/"
+      },
+      {
+        "id": "connectivity_revenue_q3",
+        "label": "Connectivity revenue (Q3)",
+        "value": 5200000000,
+        "display": "$5.2B",
+        "tag": "LIVE",
+        "source": "SEC filing via Spaceflight Now",
+        "source_url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/"
+      },
+      {
+        "id": "v3_from_flight14",
+        "label": "Starlink V3 via Flight 14",
+        "value": 26,
+        "display": "26",
+        "tag": "LIVE",
+        "source": "SEC filing via Spaceflight Now",
+        "source_url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/"
+      }
+    ],
+    "shells": [
+      {"inclination": "53°", "satellites": 5085, "median_alt_km": 463, "tag": "LIVE", "source": "SatellitesTonight / CelesTrak GP 23 Oct 2026", "source_url": "https://www.satellitestonight.com/starlink-satellites/in-orbit-now/"},
+      {"inclination": "43°", "satellites": 3612, "median_alt_km": 483, "tag": "LIVE", "source": "SatellitesTonight", "source_url": "https://www.satellitestonight.com/starlink-satellites/in-orbit-now/"},
+      {"inclination": "97.6° polar", "satellites": 1522, "median_alt_km": 466, "tag": "LIVE", "source": "SatellitesTonight", "source_url": "https://www.satellitestonight.com/starlink-satellites/in-orbit-now/"},
+      {"inclination": "70°", "satellites": 897, "median_alt_km": 475, "tag": "LIVE", "source": "SatellitesTonight", "source_url": "https://www.satellitestonight.com/starlink-satellites/in-orbit-now/"}
+    ],
+    "recent_mission": {
+      "name": "Starlink Group 15-15",
+      "liftoff": "2026-10-23 18:48 America/New_York (3:48 p.m. PDT)",
+      "site": "SLC-4E Vandenberg",
+      "booster": "B1063 (36th flight)",
+      "landing": "ASOG droneship — 229th landing on vessel; 673rd Falcon landing to date",
+      "payload": "27 satellites",
+      "tag": "LIVE",
+      "source": "Spaceflight Now",
+      "source_url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    }
+  },
+  "milestones": [
+    {
+      "id": "b22-static-fire",
+      "title": "Flight 15 booster full-duration 33-engine static fire",
+      "when": "2026-10-25 (Sunday)",
+      "detail": "SpaceX posted full-duration 33-engine static fire for Super Heavy preparing for Flight 15. Observers ID Booster 22 on Pad 2.",
+      "tag": "LIVE",
+      "source": "TSN / SpaceX X post",
+      "source_url": "https://tsnmedia.org/spacex-starship-flight-15-static-fire/",
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    },
+    {
+      "id": "flight-14-orbital",
+      "title": "Starship Flight 14 — first orbital Starship + 26 V3 Starlinks",
+      "when": "2026-09-28",
+      "detail": "SpaceX described Flight 14 as first orbital Starship flight, carrying 26 Starlink Version 3 satellites.",
+      "tag": "LIVE",
+      "source": "TSN + Spaceflight Now / SEC",
+      "source_url": "https://tsnmedia.org/spacex-starship-flight-15-static-fire/",
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    },
+    {
+      "id": "dual-catch-intent",
+      "title": "Flight 15 dual catch intent (booster + ship)",
+      "when": "Stated on Q3 call / NSF reporting",
+      "detail": "Musk: attempt to catch both booster and ship; more likely than not. Shotwell: expect FAA licence to include tower catches for both stages. Licence not announced at fetch time.",
+      "tag": "LIVE",
+      "source": "NASASpaceFlight + TSN",
+      "source_url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    }
+  ],
+  "themes": [
+    {
+      "id": "grok-enterprise",
+      "title": "Grok Bot enterprise wide deploy",
+      "body": "Musk (Q3 call): Grok Bot in early deployment with trusted customers; expects wide enterprise deployment within a few weeks. Usage grows per user over time; may consume most superintelligence compute.",
+      "tag": "LIVE",
+      "source": "Markets Insider / TheFly (Q3 call quotes)",
+      "source_url": "https://markets.businessinsider.com/news/stocks/spacex-says-usage-of-grok-growing-over-time-per-user-1036646313",
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    },
+    {
+      "id": "starlink-v3-starship",
+      "title": "V3 Starlink rides Starship capacity",
+      "body": "CFO Bret Johnsen: through end of 2026 and 2027, deploy V3 broadband in meaningful volume; each Starship launch ramping toward >20× downlink capacity vs current Falcon 9 Starlink batches. Mobile V2 on Starship starting 2027.",
+      "tag": "LIVE",
+      "source": "Spaceflight Now (earnings / SEC)",
+      "source_url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    },
+    {
+      "id": "lc39a-starship",
+      "title": "East Coast Starship via LC-39A",
+      "body": "Flight 16 planning tied to first Starship launch from Kennedy LC-39A before year-end 2026, after Flight 15. Vehicles would barge via You'll Thank Me Later.",
+      "tag": "LIVE",
+      "source": "NASASpaceFlight",
+      "source_url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    },
+    {
+      "id": "faa-peis",
+      "title": "FAA PEIS: Starbase cadence ambition",
+      "body": "FAA programmatic EIS process underway that could eventually allow up to 456 Starship launches / 912 landings per year from Starbase (vs current 25/50). Phase 1 would raise to 100 launches. Early scoping — not approved.",
+      "tag": "LIVE",
+      "source": "NASASpaceFlight",
+      "source_url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    },
+    {
+      "id": "raptor3-thrust",
+      "title": "Raptor 3 / V3 booster facts (reported)",
+      "body": "V3 Super Heavy: three larger grid fins, built-in hot-staging, all-33 start. Reported Raptor 3: 250 tf thrust, 1,525 kg. Static fire validates engines, not ship heat shield or catch timing.",
+      "tag": "LIVE",
+      "source": "TSN citing Spaceflight News",
+      "source_url": "https://tsnmedia.org/spacex-starship-flight-15-static-fire/",
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    },
+    {
+      "id": "why-wall",
+      "title": "Why this wall exists (local)",
+      "body": "Boyd tracks SpaceX/Elon/Starlink/xAI heavily. This remaster is a TokenMax burn-night ops wall: one glance for next T-minus, fleet size, and theme cards — not a trading terminal.",
+      "tag": "SYNTHETIC",
+      "source": "Local product framing",
+      "source_url": null,
+      "fetched_at": "2026-10-26 21:39 America/New_York"
+    }
+  ],
+  "why_boyd_cares": [
+    {
+      "id": "spacex-bookmark-cluster",
+      "title": "Standing SpaceX / Elon overweight",
+      "body": "Jim · Interests burn snapshot (Oct 20–26) flagged standing overweight on Tesla/SPCX narratives plus Starlink geopolitics. This wall keeps launch NET and fleet counts one glance away during burn nights.",
+      "tag": "SYNTHETIC",
+      "source": "Local interest notes (Jim snapshot + household context)"
+    },
+    {
+      "id": "starlink-connectivity",
+      "title": "Starlink as infrastructure story",
+      "body": "LIVE Q3: +1.6M customers, 174 markets, $5.2B connectivity revenue. Fleet >11k working sats. Useful when Boyd talks capacity, V3, or direct-to-cell without opening five tabs.",
+      "tag": "SYNTHETIC",
+      "source": "Local synthesis over LIVE metrics"
+    },
+    {
+      "id": "grok-bot-meta",
+      "title": "Grok Bot is the tool doing the burn",
+      "body": "Musk's Q3 line — Grok Bot may use most superintelligence compute — is meta for TokenMax week: this dashboard itself is a Grok Bot weekly burn artifact on :4335.",
+      "tag": "SYNTHETIC",
+      "source": "Local meta note"
+    },
+    {
+      "id": "flight-15-watch",
+      "title": "Flight 15 dual-catch watch window",
+      "body": "NET early November dual catch (if licensed) is the highest-drama public Starship milestone left in 2026. Wall countdown keeps the unofficial NET visible without pretending SpaceX published a clock.",
+      "tag": "SYNTHETIC",
+      "source": "Local watch rationale"
+    },
+    {
+      "id": "not-advice",
+      "title": "Not investment advice",
+      "body": "Wall displays public launch/status facts and household interest framing. No buy/sell recommendations. LIVE badges mark session-fetched public sources only.",
+      "tag": "SYNTHETIC",
+      "source": "Local disclaimer"
+    }
+  ],
+  "live_fact_ids": [
+    "starlink.in_orbit",
+    "starlink.working",
+    "starlink.launched",
+    "starlink.markets",
+    "starlink.customers_q3_add",
+    "starlink.connectivity_revenue_q3",
+    "starlink.v3_from_flight14",
+    "launch.starlink-15-16",
+    "launch.starship-flight-15",
+    "milestone.b22-static-fire",
+    "theme.grok-enterprise",
+    "starlink.recent_mission",
+    "starlink.shells",
+    "theme.lc39a-starship",
+    "theme.faa-peis"
+  ]
+}

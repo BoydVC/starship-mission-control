@@ -1,0 +1,200 @@
+{
+  "brief_id": "brief-107",
+  "title": "Cousin also_refused_by DVR Apply — Millersville Refusal Ledger When Webcast Mirror / Clash Apply Attempted as DVR/Catch-Up/Text; merge_apply=false; also_refused_by DVR Apply",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-107.md + peer-review-107.json + citations-107.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 306,
+  "citations_passed": true,
+  "pipeline_version": "v1.106.0",
+  "pairs": [
+    "brief-094",
+    "brief-085",
+    "brief-058",
+    "brief-088"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": [
+    "merge_apply=false — webcast mirror Apply / clash Apply never satisfy DVR/catch-up/text Apply",
+    "also_refused_by dvr_apply — ledger refusal when cousin Apply presented as DVR/catch-up/text",
+    "Never auto-start DVR; never fabricate LIVE stream; never auto-text Char/Vic; burn_outbound=0",
+    "Never silent_merge_apply; never fabricate_refusal / fake_live_refusal rows painted cyan",
+    "Cousins brief-094 + brief-085 + brief-058/088 (+105/106) merge_apply=false",
+    "Personal household only — not KPD; America/New_York; Millersville"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "start_dvr",
+    "text_kids",
+    "text_dvr",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/webcast-as-dvr",
+    "/api/clash-as-dvr",
+    "/api/merge-apply",
+    "/api/silent-merge-apply",
+    "/api/auto-merge-apply",
+    "/api/fabricate-refusal",
+    "/api/fake-live-refusal",
+    "/api/merge-webcast-dvr",
+    "/api/merge-clash-dvr",
+    "/api/cousin-merge-dvr",
+    "/api/dvr/merge-apply",
+    "/api/dvr/silent-merge",
+    "/api/cousin-merge-apply",
+    "/api/ledger/fabricate-refusal",
+    "/api/ledger/fake-live",
+    "/api/also-refused-by/clear",
+    "/api/also-refused-by/none"
+  ],
+  "scorecard": {
+    "merge_apply": false,
+    "also_refused_by": [
+      "dvr_apply",
+      "catchup_text_apply",
+      "start_dvr_apply"
+    ],
+    "auto_start_dvr": 0,
+    "fabricate_stream": 0,
+    "burn_outbound": 0,
+    "auto_text_kids": 0,
+    "webcast_as_dvr": 0,
+    "clash_as_dvr": 0,
+    "silent_merge_apply": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "hold_timeout_dvr": 0,
+    "fake_live_dvr": 0,
+    "auto_text_dvr": 0,
+    "auto_schedule_catchup": 0
+  },
+  "cousins": {
+    "brief_094": {
+      "merge_apply": false,
+      "also_refused_by": ["dvr_apply"],
+      "role": "webcast DVR + Chelsea catch-up Hold"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": ["dvr_apply", "catchup_text_apply"],
+      "role": "webcast mirror OFFICIAL/UNOFFICIAL/REPLAY"
+    },
+    "brief_058": {
+      "merge_apply": false,
+      "also_refused_by": ["dvr_apply", "catchup_text_apply"],
+      "role": "SpaceX×Chelsea clash"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": ["dvr_apply", "catchup_text_apply"],
+      "role": "SpaceX×Ravens clash"
+    },
+    "brief_105": {
+      "merge_apply": false,
+      "also_refused_by": ["dvr_apply", "live_stream_paint"],
+      "role": "webcast stream dual-proof (overlap)"
+    },
+    "brief_106": {
+      "merge_apply": false,
+      "also_refused_by": ["dvr_apply", "destination_ledger_apply"],
+      "role": "DVR Hold destination ledger (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Webcast/clash Apply ≠ DVR/catch-up/text Apply. merge_apply=false. also_refused_by DVR Apply. Never auto-start DVR. Never auto-text kids.",
+  "dvr_also_refused_by_example": {
+    "schema": "dvr_also_refused_by/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "honesty": "EXAMPLE/SYNTHETIC — no LIVE refusal history; webcast mirror / clash Apply ≠ DVR/catch-up/text; merge_apply=false; also_refused_by dvr_apply",
+    "scorecard": {
+      "merge_apply": false,
+      "also_refused_by": ["dvr_apply", "catchup_text_apply", "start_dvr_apply"],
+      "auto_start_dvr": 0,
+      "fabricate_stream": 0,
+      "burn_outbound": 0,
+      "auto_text_kids": 0,
+      "webcast_as_dvr": 0,
+      "clash_as_dvr": 0,
+      "silent_merge_apply": 0,
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "hold_timeout_dvr": 0,
+      "fake_live_dvr": 0,
+      "auto_text_dvr": 0,
+      "auto_schedule_catchup": 0
+    },
+    "cousins": {
+      "brief-094": {"merge_apply": false, "also_refused_by": ["dvr_apply"], "role": "webcast DVR + Chelsea catch-up Hold"},
+      "brief-085": {"merge_apply": false, "also_refused_by": ["dvr_apply", "catchup_text_apply"], "role": "webcast mirror OFFICIAL/UNOFFICIAL/REPLAY"},
+      "brief-058": {"merge_apply": false, "also_refused_by": ["dvr_apply", "catchup_text_apply"], "role": "SpaceX×Chelsea clash"},
+      "brief-088": {"merge_apply": false, "also_refused_by": ["dvr_apply", "catchup_text_apply"], "role": "SpaceX×Ravens clash"},
+      "brief-105": {"merge_apply": false, "also_refused_by": ["dvr_apply", "live_stream_paint"], "role": "webcast stream dual-proof (overlap)"},
+      "brief-106": {"merge_apply": false, "also_refused_by": ["dvr_apply", "destination_ledger_apply"], "role": "DVR Hold destination ledger (overlap)"}
+    },
+    "ledger": [
+      {
+        "id": "EXAMPLE-refuse-001",
+        "attempted_apply": "brief-085.webcast_official",
+        "target_apply": "dvr_apply",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; also_refused_by dvr_apply; webcast_as_dvr=0",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "at": null
+      },
+      {
+        "id": "EXAMPLE-refuse-002",
+        "attempted_apply": "brief-058.clash",
+        "target_apply": "dvr_apply",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; clash_as_dvr=0; also_refused_by dvr_apply",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "at": null
+      },
+      {
+        "id": "EXAMPLE-refuse-003",
+        "attempted_apply": "brief-088.clash",
+        "target_apply": "catchup_text_apply",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; clash_as_dvr=0; also_refused_by catchup_text_apply",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "at": null
+      }
+    ],
+    "hold": {
+      "state": "HOLD",
+      "attempted_from": null,
+      "destination": null,
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "start_dvr",
+        "text_kids",
+        "text_dvr",
+        "defer",
+        "reject"
+      ],
+      "created_at": null,
+      "expires_at": null,
+      "review_private": true,
+      "cousin_ack": {
+        "brief_094": false,
+        "brief_085": false,
+        "brief_058": false,
+        "brief_088": false,
+        "brief_105": false,
+        "brief_106": false
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "dvr_also_refused_by.json"
+    }
+  }
+}

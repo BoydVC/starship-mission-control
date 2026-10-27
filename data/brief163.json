@@ -1,0 +1,1258 @@
+{
+  "brief_id": "brief-163",
+  "title": "Allow-List-Extension Membership Dual-Digest Proof Strip before Off-List Disposition Close under live_print_kit_refusal_paint",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-163.md",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 327,
+  "citations_passed": true,
+  "pipeline_version": "v1.162.0",
+  "pairs": [
+    "brief-162",
+    "brief-161",
+    "brief-160",
+    "brief-159",
+    "brief-158",
+    "brief-157",
+    "brief-155"
+  ],
+  "timezone": "America/New_York",
+  "home": "Millersville, MD",
+  "place": "Millersville, MD",
+  "constraints": {
+    "not_kpd": true,
+    "no_boyd_outbound": true,
+    "no_cloud_agents": true,
+    "port_only": 4335
+  },
+  "notify_hold_destinations": [
+    "review_private"
+  ],
+  "refused_endpoints": [
+    "/api/cyan-from-also-refused-by-honesty-alone-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/cyan-from-also-refused-by-honesty-alone",
+    "/api/single-digest-cyan-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/single-digest-cyan-as-live",
+    "/api/fabricate-refusal-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/fabricate-refusal-as-live",
+    "/api/fake-live-refusal-pack-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/fake-live-refusal-pack",
+    "/api/skip-dual-digest-strip-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-dual-digest-strip-before-cyan",
+    "/api/dual-digest-membership-before-extension-close-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/dual-digest-membership-before-extension-close",
+    "/api/unnamed-cyan-row-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/unnamed-cyan-row-surface",
+    "/api/vendor-cart-refusal-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/vendor-cart-refusal-surface",
+    "/api/flight15/cyan-from-also-refused-by-honesty-alone-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/single-digest-cyan-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/fabricate-refusal-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/fake-live-refusal-pack-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/skip-dual-digest-strip-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/dual-digest-membership-before-extension-close-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-cyan-from-also-refused-by-honesty-alone-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-single-digest-cyan-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-from-also-refused-by-alone-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/cyan-from-also-refused-by-alone",
+    "/api/single-digest-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/single-digest-cyan",
+    "/api/fabricate-live-refusal-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/fabricate-live-refusal",
+    "/api/fake-live-refusal-row-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/fake-live-refusal-row",
+    "/api/cyan-without-second-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/cyan-without-second-digest",
+    "/api/also-refused-by-without-dual-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/also-refused-by-without-dual-digest",
+    "/api/invent-refusal-digest-as-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/invent-refusal-digest-as-cyan",
+    "/api/reuse-stale-digest-as-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/reuse-stale-digest-as-cyan",
+    "/api/mismatch-auto-pick-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/mismatch-auto-pick-cyan",
+    "/api/flight15/cyan-from-also-refused-by-alone-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/single-digest-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/fabricate-live-refusal-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/fake-live-refusal-row-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/cyan-without-second-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/also-refused-by-without-dual-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/invent-refusal-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/skip-ext-membership-as-dual-proof-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/invent-ext-membership-digest-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/invent-pipeline-as-ext-membership-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-from-allowlist-ext-apply-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/auto-mint-allowlist-without-dual-proof-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/unnamed-refusal-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/force-cyan-on-skip-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/sixth-refusal-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/invent-refusal-surface",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-ext-membership-as-dual-proof-live",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/invent-ext-membership-digest-as-live",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/invent-pipeline-as-ext-membership",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/cyan-from-allowlist-ext-apply",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/auto-mint-allowlist-without-dual-proof",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/unnamed-refusal-surface",
+    "/api/skip-extension-membership-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/single-digest-extension-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/invent-pipeline-via-extension-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/auto-mint-allowlist-without-extension-proof-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/extend-allowlist-without-dual-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-skip-extension-membership-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/stale-if-match-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cas-conflict-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/force-apply-on-stale-etag-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/lost-update-without-reopen-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/skip-if-match-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/skip-membership-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/single-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/fabricate-membership-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/reuse-stale-membership-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/mismatch-auto-pick-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/skip-cas-etag-membership-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/skip-review-private-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/invent-apply-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/invent-pipeline-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/off-allowlist-pipeline-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/auto-mint-allowlist-extension-from-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/fabricate-refusal-from-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/fabricate-digest-via-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/hold-timeout-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip-hold-timeout-live",
+    "/api/fake-live-from-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/close-disposition-without-membership-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cousin-apply-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/silent-merge-cousin-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-strip-157-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/if-match-lost-update-154-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/membership-152-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cas-review-private-151-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/disposition-board-150-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/digest-pipeline-allowlist-149-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/box-desktop-018-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/dual-proof-148-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/pipeline-allowlist-126-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/apply-surface-147-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/mismatch-auto-pick-or-fabricate-146-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/apply-surface-145-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/disposition-board-144-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-pipeline-paint-143-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/off-list-disposition-142-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/pipeline-aware-mismatch-141-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/mismatch-hold-127-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/dual-digest-121-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/kit-print-119-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/surface-allowlist-138-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/invent-hold-offlist-140-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/dual-digest-proof-139-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-off-list-paint-137-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/off-list-mismatch-136-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/off-list-pipeline-135-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/invent-print-125-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/invent-hold-123-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/allowlist-120-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-membership",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/single-digest",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/fabricate-digest",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/reuse-stale-digest",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/mismatch-auto-pick",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-cas-etag",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-review-private",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/invent-apply-surface",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/invent-pipeline",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/off-allowlist-pipeline",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/cyan-live",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/auto-mint",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/fabricate-refusal",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/fake-live-refusal",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/hold-timeout",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/cousin-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/154-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/153-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/018-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/152-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/151-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/150-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/149-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/148-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/147-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/146-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/145-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/144-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/143-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/142-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/141-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/128-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/127-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/126-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/121-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/119-merge",
+    "/api/flight15/skip-membership-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/single-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/invent-apply-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/fabricate-membership-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/hold-timeout-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/merge-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip-cyan-live",
+    "/api/silent-merge-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip-cyan-live",
+    "/api/auto-text-from-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/auto-print-from-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/stale-if-match",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/cas-conflict",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/force-apply",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/lost-update",
+    "/api/flight15/stale-if-match-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/cas-conflict-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/force-apply-on-stale-etag-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-extension-membership",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/single-digest-extension",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/invent-pipeline-via-extension",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/auto-mint-without-proof",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/extend-without-dual-digest",
+    "/api/flight15/skip-extension-membership-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/invent-pipeline-via-extension-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/extend-allowlist-without-dual-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cousin-skip-membership-153-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/invent-refusal-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/skip-ext-membership-as-dual-proof-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/invent-ext-membership-digest-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/invent-pipeline-as-ext-membership-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/cyan-from-allowlist-ext-apply-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/flight15/auto-mint-allowlist-without-dual-proof-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-invent-refusal-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/allowlist-ext-membership-155-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-cyan-from-also-refused-by-alone-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/refusal-surface-156-as-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/skip-review-private-after-named-surface-fire-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-review-private-after-named-surface-fire",
+    "/api/flight15/skip-review-private-after-named-surface-fire-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-skip-review-private-after-named-surface-fire-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/skip-cas-before-cyan-paint-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-cas-before-cyan-paint",
+    "/api/flight15/skip-cas-before-cyan-paint-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-skip-cas-before-cyan-paint-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/force-apply-past-stale-412-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/force-apply-past-stale-412",
+    "/api/flight15/force-apply-past-stale-412-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-force-apply-past-stale-412-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/force-cyan-on-named-surface-fire-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/force-cyan-on-named-surface-fire",
+    "/api/flight15/force-cyan-on-named-surface-fire-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-force-cyan-on-named-surface-fire-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-without-cas-after-named-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/cyan-without-cas-after-named-surface",
+    "/api/flight15/cyan-without-cas-after-named-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-cyan-without-cas-after-named-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-without-review-private-after-named-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/cyan-without-review-private-after-named-surface",
+    "/api/flight15/cyan-without-review-private-after-named-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-cyan-without-review-private-after-named-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/skip-cas-etag-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-cas-etag-before-cyan",
+    "/api/flight15/skip-cas-etag-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-skip-cas-etag-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/force-apply-past-412-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/force-apply-past-412",
+    "/api/flight15/force-apply-past-412-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-force-apply-past-412-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/reopen-required-after-412-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/reopen-required-after-412",
+    "/api/flight15/reopen-required-after-412-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-reopen-required-after-412-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/named-surface-allowlist-158-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/named-surface-allowlist-158-as-live",
+    "/api/flight15/named-surface-allowlist-158-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-named-surface-allowlist-158-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/dual-digest-membership-before-extension-close-after-named-fire-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/dual-digest-membership-before-extension-close-after-named-fire",
+    "/api/flight15/dual-digest-membership-before-extension-close-after-named-fire-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-dual-digest-membership-before-extension-close-after-named-fire-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/unnamed-cas-cyan-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/unnamed-cas-cyan-surface",
+    "/api/flight15/unnamed-cas-cyan-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-unnamed-cas-cyan-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-row-158-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/158-merge",
+    "/api/cyan-live-from-dual-digest-membership-before-extension-close-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-skip-dual-digest-strip-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-fabricate-refusal-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-fake-live-refusal-pack-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/mismatch-auto-pick-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/mismatch-auto-pick-as-live",
+    "/api/flight15/mismatch-auto-pick-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-mismatch-auto-pick-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/skip-cas-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-cas-before-cyan",
+    "/api/flight15/skip-cas-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-skip-cas-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/skip-review-private-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-review-private-before-cyan",
+    "/api/flight15/skip-review-private-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-skip-review-private-before-cyan-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/disposition-board-161-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/disposition-board-161-as-live",
+    "/api/flight15/disposition-board-161-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-disposition-board-161-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/unnamed-attempt-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/unnamed-attempt-surface",
+    "/api/flight15/unnamed-attempt-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-unnamed-attempt-surface-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-row-159-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/159-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/160-attempt",
+    "/api/skip-membership-strip-before-extension-close-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/skip-membership-strip-before-extension-close",
+    "/api/flight15/skip-membership-strip-before-extension-close-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-skip-membership-strip-before-extension-close-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/reuse-stale-membership-digest-as-proof-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/reuse-stale-membership-digest-as-proof",
+    "/api/flight15/reuse-stale-membership-digest-as-proof-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-reuse-stale-membership-digest-as-proof-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/single-digest-extension-close-refused-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/single-digest-extension-close-refused",
+    "/api/flight15/single-digest-extension-close-refused-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-single-digest-extension-close-refused-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/close-route-to-allowlist-extension-without-proof-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/close-route-to-allowlist-extension-without-proof",
+    "/api/flight15/close-route-to-allowlist-extension-without-proof-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-close-route-to-allowlist-extension-without-proof-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/mismatch-auto-pick-membership-as-close-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/mismatch-auto-pick-membership-as-close",
+    "/api/flight15/mismatch-auto-pick-membership-as-close-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-mismatch-auto-pick-membership-as-close-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/fabricate-membership-digest-refused-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/fabricate-membership-digest-refused",
+    "/api/flight15/fabricate-membership-digest-refused-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-fabricate-membership-digest-refused-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/invent-pipeline-as-membership-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/invent-pipeline-as-membership-digest",
+    "/api/flight15/invent-pipeline-as-membership-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-invent-pipeline-as-membership-digest-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/lost-update-ledger-162-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/lost-update-ledger-162-as-live",
+    "/api/flight15/lost-update-ledger-162-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/cyan-live-from-lost-update-ledger-162-as-live-live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/160-merge",
+    "/api/live-print-kit-refusal-paint-allowlist-extension-membership-dual-digest-proof-strip/161-disposition"
+  ],
+  "scorecard": {
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "invent_apply_surface": 0,
+    "allowlist_apply_surfaces_only": 1,
+    "mismatch_auto_pick": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "silent_merge_apply": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "live_print_kit_refusal_paint",
+      "live_print_kit_refusal_paint_allowlist_extension_membership_dual_digest_proof_strip",
+      "invent_pipeline",
+      "off_allowlist_pipeline",
+      "allowlist_pipelines_only",
+      "invent_apply_surface",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "hold_timeout_refusal",
+      "dual_proof_required",
+      "single_digest_live",
+      "fabricate_digest",
+      "reuse_stale_digest",
+      "mismatch_auto_pick",
+      "review_private_default"
+    ],
+    "digest_pipelines": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "disposition_apply_surfaces": [
+      "reject_apply",
+      "route_to_allowlist_extension_apply"
+    ],
+    "refusal_surface_allow_list": [
+      "cyan_from_also_refused_by_honesty_alone",
+      "single_digest_cyan_as_live",
+      "fabricate_refusal_as_live",
+      "fake_live_refusal_pack",
+      "skip_dual_digest_strip_before_cyan"
+    ],
+    "brief_156_refusal_surface_allow_list": [
+      "skip_ext_membership_as_dual_proof_live",
+      "invent_ext_membership_digest_as_live",
+      "invent_pipeline_as_ext_membership",
+      "cyan_from_allowlist_ext_apply",
+      "auto_mint_allowlist_without_dual_proof"
+    ],
+    "named_cyan_row_refusal_surface_allow_list": [
+      "cyan_from_also_refused_by_honesty_alone",
+      "single_digest_cyan_as_live",
+      "fabricate_refusal_as_live",
+      "fake_live_refusal_pack",
+      "skip_dual_digest_strip_before_cyan"
+    ],
+    "cousin_also_refused_by_attempt_surfaces": [
+      "dual_digest_membership_before_extension_close",
+      "cyan_from_also_refused_by_honesty_alone",
+      "skip_dual_digest_strip_before_cyan",
+      "fabricate_refusal_as_live",
+      "fake_live_refusal_pack",
+      "mismatch_auto_pick_as_live",
+      "skip_cas_before_cyan",
+      "skip_review_private_before_cyan"
+    ],
+    "off_list_disposition_board_surfaces": [
+      "reject_off_list_refusal_surface",
+      "route_to_allowlist_extension",
+      "invent_sixth_refusal_surface",
+      "cyan_from_off_list_surface_as_live",
+      "off_list_surface_as_allowlist_member",
+      "skip_disposition_board_before_cyan",
+      "auto_apply_off_list_disposition",
+      "fabricate_off_list_surface_as_live"
+    ],
+    "off_list_disposition_actions": [
+      "reject",
+      "route_to_allowlist_extension"
+    ],
+    "lost_update_ledger_surfaces": [
+      "stale_if_match_refuses_cyan_paint",
+      "cas_conflict_reopens_review_private",
+      "force_apply_after_lost_update_refused",
+      "etag_mismatch_after_named_surface_fire",
+      "etag_mismatch_after_cousin_attempt",
+      "etag_mismatch_after_off_list_disposition",
+      "skip_cas_ledger_before_cyan",
+      "fabricate_etag_to_force_cyan"
+    ],
+    "membership_strip_surfaces": [
+      "dual_digest_membership_before_extension_close",
+      "single_digest_extension_close_refused",
+      "fabricate_membership_digest_refused",
+      "close_route_to_allowlist_extension_without_proof",
+      "skip_membership_strip_before_extension_close",
+      "reuse_stale_membership_digest_as_proof",
+      "mismatch_auto_pick_membership_as_close",
+      "invent_pipeline_as_membership_digest"
+    ]
+  },
+  "cousins": {
+    "brief_152": {
+      "merge_apply": false,
+      "role": "Disposition Apply CAS dual-digest membership proof (overlap)"
+    },
+    "brief_151": {
+      "merge_apply": false,
+      "role": "Off-list disposition CAS / review_private (overlap)"
+    },
+    "brief_150": {
+      "merge_apply": false,
+      "role": "Off-list digest-pipeline disposition board (pair)"
+    },
+    "brief_149": {
+      "merge_apply": false,
+      "role": "Named digest-pipeline allow-list (overlap)"
+    },
+    "brief_154": {
+      "merge_apply": false,
+      "role": "If-Match / etag lost-update ledger (overlap)"
+    },
+    "brief_153": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by skip-membership (overlap)"
+    },
+    "brief_148": {
+      "merge_apply": false,
+      "role": "Dual-digest LIVE print_kit refusal paint (overlap)"
+    },
+    "brief_018": {
+      "merge_apply": false,
+      "role": "Box-desktop CAS / OCC (overlap)"
+    },
+    "brief_147": {
+      "merge_apply": false,
+      "role": "Named live_print_kit_refusal_paint Apply surface allow-list"
+    },
+    "brief_146": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by mismatch_auto_pick_or_fabricate"
+    },
+    "brief_145": {
+      "merge_apply": false,
+      "role": "Named mismatch-Hold Apply surface allow-list"
+    },
+    "brief_144": {
+      "merge_apply": false,
+      "role": "Print mismatch Hold disposition board"
+    },
+    "brief_143": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by live_print_kit_pipeline_paint"
+    },
+    "brief_142": {
+      "merge_apply": false,
+      "role": "Named off-list disposition board (generic)"
+    },
+    "brief_141": {
+      "merge_apply": false,
+      "role": "pipeline-aware mismatch Hold"
+    },
+    "brief_140": {
+      "merge_apply": false,
+      "role": "invent-print Apply cousin"
+    },
+    "brief_139": {
+      "merge_apply": false,
+      "role": "invent-print dual-digest"
+    },
+    "brief_138": {
+      "merge_apply": false,
+      "role": "invent Apply surface"
+    },
+    "brief_137": {
+      "merge_apply": false,
+      "role": "LIVE off-list paint"
+    },
+    "brief_136": {
+      "merge_apply": false,
+      "role": "Off-list mismatch Hold"
+    },
+    "brief_135": {
+      "merge_apply": false,
+      "role": "off-list digest-pipeline"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "role": "invent-print-reason Hold also_refused_by"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "role": "invent-Hold timeout"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "role": "invent-Hold dual-digest"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "role": "invent-print LIVE paint"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "role": "LIVE→print_kit dual-digest"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "role": "LIVE-Apply surface"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by live_print_kit_refusal_paint"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "role": "Print also_refused_by dual-digest mismatch Hold"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "role": "Named print also_refused_by digest-pipeline allow-list"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "role": "invent-print-reason Apply cousin"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "role": "off-list print_kit reason dual-digest"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "role": "invent-Hold print_kit reason"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "role": "LIVE cousin"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "role": "Dual-digest LIVE print_kit also_refused_by (overlap)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "role": "Named print_kit refusal-reason allow-list"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "role": "Flight15 kit print also_refused_by"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "role": "Refusal ledger dual-digest"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "role": "snack also_refused_by"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "role": "also_refused_by cousin"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "role": "Flight15 kit"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "role": "webcast cousin"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "role": "clash cousin"
+    },
+    "brief_155": {
+      "merge_apply": false,
+      "role": "Allow-list-extension membership dual-digest proof strip (overlap)"
+    },
+    "brief_156": {
+      "merge_apply": false,
+      "role": "Named allow-list-extension membership refusal-surface allow-list (pair)"
+    },
+    "brief_157": {
+      "merge_apply": false,
+      "role": "Allow-list-extension membership also_refused_by dual-digest proof strip before cyan (pair)"
+    },
+    "brief_158": {
+      "merge_apply": false,
+      "role": "Named also_refused_by cyan-row dual-digest strip refusal-surface allow-list (pair)"
+    },
+    "brief_159": {
+      "merge_apply": false,
+      "role": "CAS / review_private before cyan after named-surface fire (pair)"
+    },
+    "brief_017": {
+      "merge_apply": false,
+      "role": "Send-on-behalf Hold/Apply (burn_outbound)"
+    },
+    "brief_160": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by attempt ledger (pair)"
+    },
+    "brief_161": {
+      "merge_apply": false,
+      "role": "Named off-list cyan-row refusal-surface disposition board"
+    },
+    "brief_162": {
+      "merge_apply": false,
+      "role": "If-Match / etag lost-update ledger for cyan refusal-row paint"
+    }
+  },
+  "live_print_kit_refusal_paint_allowlist_extension_membership_dual_digest_proof_strip_example": {
+    "schema": "live_print_kit_refusal_paint_allowlist_extension_membership_dual_digest_proof_strip/v1",
+    "timezone": "America/New_York",
+    "place": "Millersville, MD",
+    "also_refused_by": "live_print_kit_refusal_paint",
+    "merge_apply": false,
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "dual_proof_required": 1,
+    "fabricate_digest": 0,
+    "single_digest_live": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "invent_apply_surface": 0,
+    "reuse_stale_digest": 0,
+    "mismatch_auto_pick": 0,
+    "digest_pipelines": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "allow_list": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "disposition_apply_surfaces": [
+      "reject_apply",
+      "route_to_allowlist_extension_apply"
+    ],
+    "named_cyan_row_refusal_surface_allow_list": [
+      "cyan_from_also_refused_by_honesty_alone",
+      "single_digest_cyan_as_live",
+      "fabricate_refusal_as_live",
+      "fake_live_refusal_pack",
+      "skip_dual_digest_strip_before_cyan"
+    ],
+    "refusal_surface_allow_list": [
+      "skip_membership_strip_before_extension_close",
+      "reuse_stale_membership_digest_as_proof",
+      "dual_digest_membership_before_extension_close",
+      "single_digest_extension_close_refused",
+      "close_route_to_allowlist_extension_without_proof",
+      "mismatch_auto_pick_membership_as_close",
+      "fabricate_membership_digest_refused",
+      "invent_pipeline_as_membership_digest"
+    ],
+    "brief_157_strip": "also_refused_by_dual_digest_before_cyan",
+    "example_honesty_only_named_surface": {
+      "surface": "cyan_from_also_refused_by_honesty_alone",
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "cyan_paint_authorized": false,
+      "disposition": "reject",
+      "honesty": "SYNTHETIC — also_refused_by honesty alone never cyan LIVE (pairs brief-158)"
+    },
+    "example_invent_sixth_surface_refused": {
+      "surface": "invent_sixth_refusal_surface",
+      "invent_apply_surface": 0,
+      "disposition": "reject",
+      "cyan_paint_authorized": false
+    },
+    "example_single_digest_cyan_refused": {
+      "surface": "single_digest_cyan_as_live",
+      "digest_a": "on_disk_row_sha256:EXAMPLE",
+      "digest_b": null,
+      "cyan_paint_authorized": false,
+      "single_digest_live": 0,
+      "honesty": "SYNTHETIC — single digest never paints cyan LIVE"
+    },
+    "example_fabricate_refusal_refused": {
+      "surface": "fabricate_refusal_as_live",
+      "cyan_row": "invented_LIVE_refusal_SYNTHETIC",
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — invent / fixture cyan refused"
+    },
+    "example_skip_strip_refused": {
+      "surface": "skip_disposition_board_before_cyan",
+      "review_private_default": 1,
+      "dual_proof_required": 1,
+      "cyan_paint_authorized": false
+    },
+    "example_fake_live_pack_refused": {
+      "surface": "fabricate_off_list_surface_as_live",
+      "pack": "EXAMPLE",
+      "fake_live_refusal": 0,
+      "fabricate_refusal": 0,
+      "cyan_paint_authorized": false
+    },
+    "example_also_refused_by_honesty_only": {
+      "surface": "skip_ext_membership_as_dual_proof_live",
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "digest_a": "on_disk_row_sha256:EXAMPLE",
+      "digest_b": null,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — also_refused_by honesty caption OK; cyan refused without second independent ledger digest (pairs brief-156 + brief-155 + brief-121)"
+    },
+    "example_dual_digest_cyan_authorized_hold": {
+      "surface": "skip_ext_membership_as_dual_proof_live",
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "digest_a": "on_disk_row_sha256:EXAMPLE_A",
+      "digest_b": "apply_ledger_row_digest:EXAMPLE_B",
+      "digests_match": true,
+      "cyan_paint_authorized": false,
+      "review_private": true,
+      "honesty": "SYNTHETIC — dual digests match; cyan still behind review_private Hold + human Apply; never auto-cyan"
+    },
+    "example_mismatch_auto_pick_refused": {
+      "surface": "mismatch_auto_pick_membership_as_close",
+      "mismatch_auto_pick": 0,
+      "extension_close_authorized": false,
+      "honesty": "SYNTHETIC — mismatch auto-pick membership close refused"
+    },
+    "example_stale_digest_refused": {
+      "digest_b_source": "prior_session_cas_etag_SYNTHETIC",
+      "reuse_stale_digest": 0,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — stale digest reuse refused"
+    },
+    "example_membership_reject_apply": {
+      "apply_surface": "reject_apply",
+      "digests_match": true,
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "cas": {
+        "etag": "W/\"disp-42\"",
+        "if_match": "W/\"disp-42\"",
+        "result": "ok"
+      },
+      "membership_digest_a": {
+        "pipeline": "cas_store",
+        "proves": [
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "membership_digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "proves": [
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "disposition": "reject",
+      "proposed_pipeline": "vendor_receipt_sha_SYNTHETIC",
+      "honesty": "SYNTHETIC/EXAMPLE"
+    },
+    "example_membership_route_apply": {
+      "apply_surface": "route_to_allowlist_extension_apply",
+      "digests_match": true,
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "cas": {
+        "etag": "W/\"disp-42\"",
+        "if_match": "W/\"disp-42\"",
+        "result": "ok"
+      },
+      "membership_digest_a": {
+        "pipeline": "cas_store",
+        "proves": [
+          "apply_surface:route_to_allowlist_extension_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "membership_digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "proves": [
+          "apply_surface:route_to_allowlist_extension_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "disposition": "route-to-allowlist-extension",
+      "proposed_pipeline": "email_body_etag_SYNTHETIC",
+      "honesty": "SYNTHETIC/EXAMPLE",
+      "extension_apply_required": true
+    },
+    "example_membership_mismatch_refused": {
+      "apply_surface": "route_to_allowlist_extension_apply",
+      "digests_match": false,
+      "apply_closed": false,
+      "live_paint_authorized": false,
+      "status": "EXAMPLE",
+      "membership_digest_a": {
+        "pipeline": "cas_store",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "membership_digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      }
+    },
+    "example_extension_membership_proof": {
+      "apply_surface": "route_to_allowlist_extension_apply",
+      "digests_match": true,
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "target_allowlist": "brief-149",
+      "membership_digest_a": {
+        "pipeline": "cas_store",
+        "proves": [
+          "apply_surface:route_to_allowlist_extension_apply",
+          "target_allowlist:brief-149"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "membership_digest_b": {
+        "pipeline": "on_disk_row_sha256",
+        "proves": [
+          "apply_surface:route_to_allowlist_extension_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "human_apply_required": true,
+      "allowlist_extend_authorized": false,
+      "invent_pipeline": 0
+    },
+    "example_skip_membership_surface": {
+      "surface": "skip_ext_membership_as_dual_proof_live",
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "live_paint_authorized": false,
+      "honesty": "SYNTHETIC — named surface may paint also_refused_by with honesty caption; never cyan LIVE from skip-membership alone (pairs brief-155 + brief-152)"
+    },
+    "example_invented_surface_refused": {
+      "surface": "skip_and_force_live_apply_SYNTHETIC",
+      "allowlisted": false,
+      "apply_closed": false,
+      "honesty": "SYNTHETIC — invented refusal surface refused (invent_apply_surface=0); never paint also_refused_by from unnamed surface"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "live_badge": false,
+      "status": "EXAMPLE"
+    },
+    "hold": {
+      "state": "HOLD",
+      "reason": "live_print_kit_refusal_paint_allowlist_extension_membership_dual_digest_proof_strip",
+      "timeout_becomes_live": false,
+      "timeout_becomes_refusal": false,
+      "default": "review_private"
+    },
+    "preferred_fold": ":4335",
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "hold_timeout_refusal": 0,
+    "pipeline_allow_list": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "brief_158_named_surface_fire": true,
+    "cas_required_before_cyan": true,
+    "review_private_required_before_cyan": true,
+    "example_named_surface_fire_honesty_ok_cyan_cas_gated": {
+      "surface": "cyan_from_also_refused_by_honesty_alone",
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "digest_a": "on_disk_row_sha256:EXAMPLE",
+      "digest_b": "apply_ledger_row_digest:EXAMPLE",
+      "cas_etag": "W/\"EXAMPLE-etag\"",
+      "review_private_hold_open": true,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — also_refused_by honesty caption OK after brief-158 named-surface fire; cyan refused until CAS + review_private + dual digests + human Apply (pairs brief-158 + brief-157 + brief-154 + brief-151)"
+    },
+    "example_skip_review_private_refused": {
+      "surface": "cyan_from_also_refused_by_honesty_alone",
+      "review_private_hold_open": false,
+      "cyan_paint_authorized": false,
+      "review_private_default": 1,
+      "honesty": "SYNTHETIC — skip review_private after named-surface fire refused"
+    },
+    "example_skip_cas_refused": {
+      "surface": "single_digest_cyan_as_live",
+      "cas_etag": null,
+      "if_match": null,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — skip CAS / If-Match before cyan refused (pairs brief-154 + brief-018)"
+    },
+    "example_stale_if_match_412_refused": {
+      "surface": "fabricate_refusal_as_live",
+      "if_match": "W/\"STALE-etag\"",
+      "http_status": 412,
+      "force_apply": false,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — stale If-Match 412; never force Apply; reopen review_private"
+    },
+    "cousin_also_refused_by_attempt_surfaces": [
+      "dual_digest_membership_before_extension_close",
+      "cyan_from_also_refused_by_honesty_alone",
+      "skip_dual_digest_strip_before_cyan",
+      "fabricate_refusal_as_live",
+      "fake_live_refusal_pack",
+      "mismatch_auto_pick_as_live",
+      "skip_cas_before_cyan",
+      "skip_review_private_before_cyan"
+    ],
+    "example_invent_sixth_surface_also_refused": {
+      "surface": "dual_digest_membership_before_extension_close",
+      "proposed": "vendor_cart_refusal_surface_SYNTHETIC",
+      "invent_apply_surface": 0,
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — invent sixth surface refused; also_refused_by live_print_kit_refusal_paint (pairs brief-159 + brief-158)"
+    },
+    "example_cyan_from_honesty_also_refused": {
+      "surface": "cyan_from_also_refused_by_honesty_alone",
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "digest_a": "on_disk_row_sha256:EXAMPLE",
+      "digest_b": null,
+      "cyan_paint_authorized": false,
+      "dual_proof_required": 1,
+      "honesty": "SYNTHETIC — cyan from honesty alone refused; also_refused_by honesty caption OK"
+    },
+    "example_skip_strip_also_refused": {
+      "surface": "skip_dual_digest_strip_before_cyan",
+      "brief_157_strip_bypassed": true,
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "dual_proof_required": 1,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — skip brief-157 dual-digest strip refused"
+    },
+    "example_fabricate_refusal_also_refused": {
+      "surface": "fabricate_refusal_as_live",
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — fabricate LIVE refusal refused"
+    },
+    "example_fake_live_pack_also_refused": {
+      "surface": "fake_live_refusal_pack",
+      "pack": "EXAMPLE_fixture_pack",
+      "fake_live_refusal": 0,
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — fixture pack cyan refused"
+    },
+    "example_mismatch_auto_pick_also_refused": {
+      "surface": "mismatch_auto_pick_as_live",
+      "digest_a": "on_disk_row_sha256:EXAMPLE_A",
+      "digest_b": "apply_ledger_row_digest:EXAMPLE_B_MISMATCH",
+      "mismatch_auto_pick": 0,
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — mismatch auto-pick refused; reopen review_private"
+    },
+    "example_skip_cas_also_refused": {
+      "surface": "skip_cas_before_cyan",
+      "cas_etag": null,
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — skip CAS before cyan refused (pairs brief-159 + brief-154)"
+    },
+    "example_skip_review_private_also_refused": {
+      "surface": "skip_review_private_before_cyan",
+      "review_private_hold_open": false,
+      "review_private_default": 1,
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — skip review_private before cyan refused"
+    },
+    "brief_158_allow_list": [
+      "cyan_from_also_refused_by_honesty_alone",
+      "single_digest_cyan_as_live",
+      "fabricate_refusal_as_live",
+      "fake_live_refusal_pack",
+      "skip_dual_digest_strip_before_cyan"
+    ],
+    "off_list_disposition_actions": [
+      "reject",
+      "route_to_allowlist_extension"
+    ],
+    "off_list_disposition_board_surfaces": [
+      "reject_off_list_refusal_surface",
+      "route_to_allowlist_extension",
+      "invent_sixth_refusal_surface",
+      "cyan_from_off_list_surface_as_live",
+      "off_list_surface_as_allowlist_member",
+      "skip_disposition_board_before_cyan",
+      "auto_apply_off_list_disposition",
+      "fabricate_off_list_surface_as_live"
+    ],
+    "example_reject_off_list": {
+      "proposed_surface": "vendor_cart_refusal_surface_SYNTHETIC",
+      "in_brief_158_allow_list": false,
+      "disposition": "reject",
+      "invent_apply_surface": 0,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — off-list reject (cousin brief-161)"
+    },
+    "example_reuse_stale_membership_digest_as_proof": {
+      "surface": "reuse_stale_membership_digest_as_proof",
+      "cas_result": "conflict",
+      "force_apply": false,
+      "reopen_review_private": true,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — CAS conflict reopens review_private; never force Apply"
+    },
+    "example_invent_sixth_refused": {
+      "surface": "invent_sixth_refusal_surface",
+      "invent_apply_surface": 0,
+      "disposition": "reject",
+      "cyan_paint_authorized": false
+    },
+    "example_cyan_from_off_list_refused": {
+      "surface": "cyan_from_off_list_surface_as_live",
+      "fake_live_refusal": 0,
+      "dual_proof_required": 1,
+      "cyan_paint_authorized": false
+    },
+    "example_off_list_as_member_refused": {
+      "surface": "close_route_to_allowlist_extension_without_proof",
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — off-list promoted to allow-list member refused"
+    },
+    "example_skip_board_refused": {
+      "surface": "skip_disposition_board_before_cyan",
+      "review_private_default": 1,
+      "cyan_paint_authorized": false
+    },
+    "example_auto_apply_disposition_refused": {
+      "surface": "auto_apply_off_list_disposition",
+      "review_private_default": 1,
+      "cyan_paint_authorized": false
+    },
+    "example_fabricate_off_list_refused": {
+      "surface": "invent_pipeline_as_membership_digest",
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — fabricate off-list LIVE refused"
+    },
+    "lost_update_ledger_surfaces": [
+      "stale_if_match_refuses_cyan_paint",
+      "cas_conflict_reopens_review_private",
+      "force_apply_after_lost_update_refused",
+      "etag_mismatch_after_named_surface_fire",
+      "etag_mismatch_after_cousin_attempt",
+      "etag_mismatch_after_off_list_disposition",
+      "skip_cas_ledger_before_cyan",
+      "fabricate_etag_to_force_cyan"
+    ],
+    "trigger_paths": [
+      "brief_158_named_surface_fire",
+      "brief_160_cousin_attempt",
+      "brief_161_off_list_disposition"
+    ],
+    "on_cas_conflict_or_stale_if_match": {
+      "cyan_paint_authorized": false,
+      "reopen_review_private": true,
+      "force_apply": false
+    },
+    "example_stale_if_match_refuses_cyan": {
+      "surface": "stale_if_match_refuses_cyan_paint",
+      "if_match": "etag-stale-SYNTHETIC",
+      "current_etag": "etag-live-SYNTHETIC",
+      "cyan_paint_authorized": false,
+      "reopen_review_private": true
+    },
+    "example_fabricate_membership_digest_refused": {
+      "surface": "fabricate_membership_digest_refused",
+      "fabricate_digest": 0,
+      "extension_close_authorized": false,
+      "honesty": "SYNTHETIC — fabricate membership digest refused"
+    },
+    "example_dual_digest_membership_before_extension_close": {
+      "surface": "dual_digest_membership_before_extension_close",
+      "trigger": "brief_158_named_surface_fire",
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — etag mismatch after brief-158 named-surface fire"
+    },
+    "example_single_digest_extension_close_refused": {
+      "surface": "single_digest_extension_close_refused",
+      "trigger": "brief_160_cousin_attempt",
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — etag mismatch after brief-160 cousin attempt"
+    },
+    "example_close_route_to_allowlist_extension_without_proof": {
+      "surface": "close_route_to_allowlist_extension_without_proof",
+      "trigger": "brief_161_off_list_disposition",
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — etag mismatch after brief-161 off-list disposition"
+    },
+    "example_skip_cas_ledger_refused": {
+      "surface": "mismatch_auto_pick_membership_as_close",
+      "review_private_default": 1,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — skip CAS ledger before cyan refused"
+    },
+    "example_fabricate_etag_refused": {
+      "surface": "invent_pipeline_as_membership_digest",
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — fabricate etag to force cyan refused"
+    },
+    "example_route_to_allowlist_extension": {
+      "proposed_surface": "vendor_cart_refusal_surface_SYNTHETIC",
+      "in_brief_158_allow_list": false,
+      "disposition": "route_to_allowlist_extension",
+      "review_private_hold_open": true,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — route to allowlist extension (cousin brief-161)"
+    },
+    "membership_strip_surfaces": [
+      "dual_digest_membership_before_extension_close",
+      "single_digest_extension_close_refused",
+      "fabricate_membership_digest_refused",
+      "close_route_to_allowlist_extension_without_proof",
+      "skip_membership_strip_before_extension_close",
+      "reuse_stale_membership_digest_as_proof",
+      "mismatch_auto_pick_membership_as_close",
+      "invent_pipeline_as_membership_digest"
+    ],
+    "close_target": "route_to_allowlist_extension",
+    "close_source_disposition": "brief_161_off_list_disposition",
+    "example_dual_digest_membership_before_close": {
+      "surface": "dual_digest_membership_before_extension_close",
+      "digest_a": "on_disk_row_sha256:SYNTHETIC_A",
+      "digest_b": "apply_ledger_row_digest:SYNTHETIC_B",
+      "extension_close_authorized": true,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — dual-digest membership proof present before extension close (pairs brief-162 + brief-161 + brief-157 + brief-155)"
+    },
+    "example_single_digest_close_refused": {
+      "surface": "single_digest_extension_close_refused",
+      "digest_a": "on_disk_row_sha256:SYNTHETIC_A",
+      "digest_b": null,
+      "single_digest_live": 0,
+      "extension_close_authorized": false,
+      "honesty": "SYNTHETIC — single digest extension close refused"
+    },
+    "example_close_without_proof_refused": {
+      "surface": "close_route_to_allowlist_extension_without_proof",
+      "dual_proof_required": 1,
+      "extension_close_authorized": false,
+      "honesty": "SYNTHETIC — close without membership proof refused"
+    },
+    "example_skip_membership_strip_refused": {
+      "surface": "skip_membership_strip_before_extension_close",
+      "review_private_default": 1,
+      "extension_close_authorized": false,
+      "honesty": "SYNTHETIC — skip membership strip refused"
+    },
+    "example_reuse_stale_membership_refused": {
+      "surface": "reuse_stale_membership_digest_as_proof",
+      "reuse_stale_digest": 0,
+      "extension_close_authorized": false,
+      "honesty": "SYNTHETIC — stale membership digest reuse refused"
+    },
+    "example_invent_pipeline_as_membership_refused": {
+      "surface": "invent_pipeline_as_membership_digest",
+      "invent_pipeline": 0,
+      "off_allowlist_pipeline": 0,
+      "allowlist_pipelines_only": 1,
+      "extension_close_authorized": false,
+      "honesty": "SYNTHETIC — invent pipeline as membership digest refused"
+    },
+    "example_cas_conflict_reopens_review_private": {
+      "surface": "cas_conflict_reopens_review_private",
+      "cas_result": "conflict",
+      "force_apply": false,
+      "reopen_review_private": true,
+      "cyan_paint_authorized": false
+    },
+    "example_force_apply_after_lost_update_refused": {
+      "surface": "force_apply_after_lost_update_refused",
+      "force_apply": false,
+      "review_private_default": 1,
+      "cyan_paint_authorized": false
+    }
+  }
+}

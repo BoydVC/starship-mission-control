@@ -1,0 +1,10 @@
+brief	173
+smoke	6554/6554
+api	200
+pid	2593287
+bak	server.py.bak-brief173-20261027-163727
+audit	.audit/brief173-fold.tsv
+theme	cas-etag-vs-membership-freshness-ordering
+pipeline	v1.172.0
+ts	20261027-163727
+fold	PASS

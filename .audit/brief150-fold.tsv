@@ -1,0 +1,10 @@
+ts	phase	decision	why	evidence	result
+2026-10-27T14:30:32-04:00	start	brief-150 fold into Starship Mission Control :4335	weekly burn fold; Named off-list digest-pipeline disposition board for live_print_kit_refusal_paint dual-proof; pairs brief-149+148+126	agent-brief-forge/out/brief-150.md	open
+2026-10-27T14:30:32-04:00	backup	copied server.py → server.py.bak-brief150-20261027-142929 before edits	PORT-only fold; restore path if smoke fails	server.py.bak-brief150-20261027-142929	ok
+2026-10-27T14:30:32-04:00	artifact	wrote data/brief150.json with EXAMPLE off-list disposition + route-to-extension + scorecard zeros	brief data model §4; invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / disposition reject|route-to-allowlist-extension; never cyan LIVE	data/brief150.json	ok
+2026-10-27T14:30:32-04:00	server	patched server.py with BRIEF150 REFUSED150 payload refuse routes health	prefer brief-150 refuse on live_print_kit_refusal_paint off-list disposition paths; also_refused_by on 149/148/142 overlaps	server.py	ok
+2026-10-27T14:30:32-04:00	ui-smoke	added brief150 UI panel JS loader README fold note smoke section	mirror brief-149/142 fold surface	static/index.html static/app.js README.md smoke_test.sh	ok
+2026-10-27T14:30:32-04:00	restart	PORT-only ./run.sh restart on :4335; other demos :4330/:4747/:4309 untouched	PID 1935411 listening	data/server.pid	ok
+2026-10-27T14:30:32-04:00	verify	GET /api/brief150 200 live_check.ok=true; /api/brief149 and /api/brief148 still 200 live_ok	gates invent_pipeline=0 off_allowlist_pipeline=0 allowlist_pipelines_only=1 dual_proof_required=1 fabricate_*=0 single_digest_live=0 fake_live_refusal=0 burn_outbound=0 merge_apply=false review_private_default=1	/tmp/smc-b150-live.json	ok
+2026-10-27T14:30:32-04:00	smoke	smoke_test.sh 2819/2819 PASS	prefer 150 on off-list disposition paths; 149/148/142 keep unique ownership with 150 in also_refused_by	/tmp/smoke-brief150.log	ok
+2026-10-27T14:30:32-04:00	done	brief-150 folded LIVE; brief-151 not started; no Boyd outbound	serialized folds only	.audit/brief150-fold.tsv	closed
