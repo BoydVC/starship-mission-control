@@ -1,0 +1,47 @@
+{
+  "brief_id": "brief-061",
+  "title": "SpaceX Webcast Snack Plan — Hometown Starship/Starlink Snack + Seating Hold Board",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-061.md",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 629,
+  "citations_passed": true,
+  "pairs": [
+    "brief-026",
+    "brief-052",
+    "brief-055",
+    "brief-058"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD (Anne Arundel)",
+  "constraints": [
+    "Never paint LIVE stream status without this-session provider fetch proof (SpaceX/NSF/NASA Live/YouTube Live) stamped America/New_York; else SYNTHETIC/STREAM_UNKNOWN",
+    "Snack plan = HOLD list, never a paid cart: never auto-order DoorDash/Instacart/Uber Eats/Grubhub; never auto-charge a card",
+    "Seating = household layout HOLD (Kid B/Kid A/Parent B/Parent A + grandparents); never auto-assign seats, never fabricate seating",
+    "Never auto-text kids; HOLD timeout never converts to an order (hold_timeout_order=0)",
+    "Separate Apply surface from Mission Control telemetry Apply and watch-party notify Apply",
+    "Personal household only — not KPD; burn_outbound=0"
+  ],
+  "refused_endpoints": [
+    "/api/fabricate-stream",
+    "/api/auto-order-snacks",
+    "/api/auto-order-doordash",
+    "/api/auto-order-instacart",
+    "/api/auto-charge-card",
+    "/api/auto-assign-seats",
+    "/api/auto-text-kids"
+  ],
+  "scorecard": {
+    "fabricate_stream": 0,
+    "auto_order_snacks": 0,
+    "auto_order_doordash": 0,
+    "auto_order_instacart": 0,
+    "auto_order_ubereats": 0,
+    "auto_charge_card": 0,
+    "fabricate_seating": 0,
+    "auto_assign_seats": 0,
+    "auto_text_kids": 0,
+    "fake_live_stream_board": 0,
+    "hold_timeout_order": 0,
+    "burn_outbound": 0
+  }
+}

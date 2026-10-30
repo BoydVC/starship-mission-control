@@ -1,0 +1,882 @@
+{
+  "brief_id": "brief-159",
+  "title": "CAS / review_private before Cyan Refusal-Row Paint after Named Cyan-Row Refusal-Surface Fire under live_print_kit_refusal_paint",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-159.md",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 331,
+  "citations_passed": true,
+  "pipeline_version": "v1.158.0",
+  "pairs": [
+    "brief-158",
+    "brief-157",
+    "brief-156",
+    "brief-154",
+    "brief-151"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": {
+    "not_kpd": true,
+    "no_parenta_outbound": true,
+    "no_cloud_agents": true,
+    "port_only": 4335
+  },
+  "notify_hold_destinations": [
+    "review_private"
+  ],
+  "refused_endpoints": [
+    "/api/cyan-from-also-refused-by-honesty-alone-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/cyan-from-also-refused-by-honesty-alone",
+    "/api/single-digest-cyan-as-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/single-digest-cyan-as-live",
+    "/api/fabricate-refusal-as-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/fabricate-refusal-as-live",
+    "/api/fake-live-refusal-pack-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/fake-live-refusal-pack",
+    "/api/skip-dual-digest-strip-before-cyan-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/skip-dual-digest-strip-before-cyan",
+    "/api/invent-sixth-refusal-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/invent-sixth-refusal-surface",
+    "/api/unnamed-cyan-row-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/unnamed-cyan-row-surface",
+    "/api/vendor-cart-refusal-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/vendor-cart-refusal-surface",
+    "/api/flight15/cyan-from-also-refused-by-honesty-alone-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/single-digest-cyan-as-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/fabricate-refusal-as-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/fake-live-refusal-pack-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/skip-dual-digest-strip-before-cyan-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/invent-sixth-refusal-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-cyan-from-also-refused-by-honesty-alone-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-single-digest-cyan-as-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-from-also-refused-by-alone-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/cyan-from-also-refused-by-alone",
+    "/api/single-digest-cyan-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/single-digest-cyan",
+    "/api/fabricate-live-refusal-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/fabricate-live-refusal",
+    "/api/fake-live-refusal-row-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/fake-live-refusal-row",
+    "/api/cyan-without-second-digest-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/cyan-without-second-digest",
+    "/api/also-refused-by-without-dual-digest-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/also-refused-by-without-dual-digest",
+    "/api/invent-refusal-digest-as-cyan-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/invent-refusal-digest-as-cyan",
+    "/api/reuse-stale-digest-as-cyan-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/reuse-stale-digest-as-cyan",
+    "/api/mismatch-auto-pick-cyan-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/mismatch-auto-pick-cyan",
+    "/api/flight15/cyan-from-also-refused-by-alone-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/single-digest-cyan-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/fabricate-live-refusal-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/fake-live-refusal-row-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/cyan-without-second-digest-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/also-refused-by-without-dual-digest-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/invent-refusal-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/skip-ext-membership-as-dual-proof-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/invent-ext-membership-digest-as-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/invent-pipeline-as-ext-membership-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-from-allowlist-ext-apply-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/auto-mint-allowlist-without-dual-proof-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/unnamed-refusal-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/force-cyan-on-skip-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/sixth-refusal-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/invent-refusal-surface",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/skip-ext-membership-as-dual-proof-live",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/invent-ext-membership-digest-as-live",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/invent-pipeline-as-ext-membership",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/cyan-from-allowlist-ext-apply",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/auto-mint-allowlist-without-dual-proof",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/unnamed-refusal-surface",
+    "/api/skip-extension-membership-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/single-digest-extension-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/invent-pipeline-via-extension-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/auto-mint-allowlist-without-extension-proof-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/extend-allowlist-without-dual-digest-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-skip-extension-membership-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/stale-if-match-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cas-conflict-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/force-apply-on-stale-etag-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/lost-update-without-reopen-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/skip-if-match-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/skip-membership-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/single-digest-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/fabricate-membership-digest-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/reuse-stale-membership-digest-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/mismatch-auto-pick-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/skip-cas-etag-membership-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/skip-review-private-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/invent-apply-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/invent-pipeline-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/off-allowlist-pipeline-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/auto-mint-allowlist-extension-from-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/fabricate-refusal-from-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/fabricate-digest-via-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/hold-timeout-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire-hold-timeout-live",
+    "/api/fake-live-from-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/close-disposition-without-membership-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cousin-apply-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/silent-merge-cousin-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-strip-157-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/if-match-lost-update-154-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/membership-152-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cas-review-private-151-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/disposition-board-150-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/digest-pipeline-allowlist-149-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/box-desktop-018-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/dual-proof-148-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/pipeline-allowlist-126-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/apply-surface-147-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/mismatch-auto-pick-or-fabricate-146-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/apply-surface-145-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/disposition-board-144-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-pipeline-paint-143-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/off-list-disposition-142-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/pipeline-aware-mismatch-141-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/mismatch-hold-127-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/dual-digest-121-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/kit-print-119-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/surface-allowlist-138-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/invent-hold-offlist-140-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/dual-digest-proof-139-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-off-list-paint-137-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/off-list-mismatch-136-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/off-list-pipeline-135-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/invent-print-125-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/invent-hold-123-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/allowlist-120-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/skip-membership",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/single-digest",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/fabricate-digest",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/reuse-stale-digest",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/mismatch-auto-pick",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/skip-cas-etag",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/skip-review-private",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/invent-apply-surface",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/invent-pipeline",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/off-allowlist-pipeline",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/cyan-live",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/auto-mint",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/fabricate-refusal",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/fake-live-refusal",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/hold-timeout",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/cousin-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/154-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/153-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/018-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/152-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/151-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/150-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/149-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/148-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/147-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/146-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/145-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/144-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/143-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/142-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/141-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/128-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/127-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/126-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/121-merge",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/119-merge",
+    "/api/flight15/skip-membership-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/single-digest-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/invent-apply-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/fabricate-membership-digest-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/hold-timeout-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/merge-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire-cyan-live",
+    "/api/silent-merge-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire-cyan-live",
+    "/api/auto-text-from-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/auto-print-from-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/stale-if-match",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/cas-conflict",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/force-apply",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/lost-update",
+    "/api/flight15/stale-if-match-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/cas-conflict-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/force-apply-on-stale-etag-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/skip-extension-membership",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/single-digest-extension",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/invent-pipeline-via-extension",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/auto-mint-without-proof",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/extend-without-dual-digest",
+    "/api/flight15/skip-extension-membership-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/invent-pipeline-via-extension-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/extend-allowlist-without-dual-digest-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cousin-skip-membership-153-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/invent-refusal-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/skip-ext-membership-as-dual-proof-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/invent-ext-membership-digest-as-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/invent-pipeline-as-ext-membership-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/cyan-from-allowlist-ext-apply-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/flight15/auto-mint-allowlist-without-dual-proof-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-invent-refusal-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/allowlist-ext-membership-155-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-cyan-from-also-refused-by-alone-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/refusal-surface-156-as-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/skip-review-private-after-named-surface-fire-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/skip-review-private-after-named-surface-fire",
+    "/api/flight15/skip-review-private-after-named-surface-fire-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-skip-review-private-after-named-surface-fire-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/skip-cas-before-cyan-paint-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/skip-cas-before-cyan-paint",
+    "/api/flight15/skip-cas-before-cyan-paint-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-skip-cas-before-cyan-paint-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/force-apply-past-stale-412-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/force-apply-past-stale-412",
+    "/api/flight15/force-apply-past-stale-412-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-force-apply-past-stale-412-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/force-cyan-on-named-surface-fire-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/force-cyan-on-named-surface-fire",
+    "/api/flight15/force-cyan-on-named-surface-fire-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-force-cyan-on-named-surface-fire-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-without-cas-after-named-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/cyan-without-cas-after-named-surface",
+    "/api/flight15/cyan-without-cas-after-named-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-cyan-without-cas-after-named-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-without-review-private-after-named-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/cyan-without-review-private-after-named-surface",
+    "/api/flight15/cyan-without-review-private-after-named-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-cyan-without-review-private-after-named-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/skip-cas-etag-before-cyan-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/skip-cas-etag-before-cyan",
+    "/api/flight15/skip-cas-etag-before-cyan-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-skip-cas-etag-before-cyan-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/force-apply-past-412-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/force-apply-past-412",
+    "/api/flight15/force-apply-past-412-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-force-apply-past-412-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/reopen-required-after-412-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/reopen-required-after-412",
+    "/api/flight15/reopen-required-after-412-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-reopen-required-after-412-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/named-surface-allowlist-158-as-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/named-surface-allowlist-158-as-live",
+    "/api/flight15/named-surface-allowlist-158-as-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-named-surface-allowlist-158-as-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/invent-sixth-refusal-surface-after-named-fire-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/invent-sixth-refusal-surface-after-named-fire",
+    "/api/flight15/invent-sixth-refusal-surface-after-named-fire-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-invent-sixth-refusal-surface-after-named-fire-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/unnamed-cas-cyan-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/unnamed-cas-cyan-surface",
+    "/api/flight15/unnamed-cas-cyan-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-live-from-unnamed-cas-cyan-surface-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/cyan-row-158-as-live-live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire",
+    "/api/live-print-kit-refusal-paint-cas-review-private-before-cyan-after-named-surface-fire/158-merge"
+  ],
+  "scorecard": {
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "invent_apply_surface": 0,
+    "allowlist_apply_surfaces_only": 1,
+    "mismatch_auto_pick": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "silent_merge_apply": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "live_print_kit_refusal_paint",
+      "live_print_kit_refusal_paint_cas_review_private_before_cyan_after_named_surface_fire",
+      "invent_pipeline",
+      "off_allowlist_pipeline",
+      "allowlist_pipelines_only",
+      "invent_apply_surface",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "hold_timeout_refusal",
+      "dual_proof_required",
+      "single_digest_live",
+      "fabricate_digest",
+      "reuse_stale_digest",
+      "mismatch_auto_pick",
+      "review_private_default",
+      "cas_required_before_cyan",
+      "review_private_required_before_cyan"
+    ],
+    "digest_pipelines": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "disposition_apply_surfaces": [
+      "reject_apply",
+      "route_to_allowlist_extension_apply"
+    ],
+    "refusal_surface_allow_list": [
+      "cyan_from_also_refused_by_honesty_alone",
+      "single_digest_cyan_as_live",
+      "fabricate_refusal_as_live",
+      "fake_live_refusal_pack",
+      "skip_dual_digest_strip_before_cyan"
+    ],
+    "brief_156_refusal_surface_allow_list": [
+      "skip_ext_membership_as_dual_proof_live",
+      "invent_ext_membership_digest_as_live",
+      "invent_pipeline_as_ext_membership",
+      "cyan_from_allowlist_ext_apply",
+      "auto_mint_allowlist_without_dual_proof"
+    ],
+    "named_cyan_row_refusal_surface_allow_list": [
+      "cyan_from_also_refused_by_honesty_alone",
+      "single_digest_cyan_as_live",
+      "fabricate_refusal_as_live",
+      "fake_live_refusal_pack",
+      "skip_dual_digest_strip_before_cyan"
+    ]
+  },
+  "cousins": {
+    "brief_152": {
+      "merge_apply": false,
+      "role": "Disposition Apply CAS dual-digest membership proof strip (pair)"
+    },
+    "brief_151": {
+      "merge_apply": false,
+      "role": "CAS / review_private before disposition Apply (pair)"
+    },
+    "brief_150": {
+      "merge_apply": false,
+      "role": "Named off-list digest-pipeline disposition board (pair)"
+    },
+    "brief_149": {
+      "merge_apply": false,
+      "role": "Named digest-pipeline allow-list (pair)"
+    },
+    "brief_154": {
+      "merge_apply": false,
+      "role": "If-Match / etag lost-update ledger (cousin)"
+    },
+    "brief_153": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by skip-membership ledger (cousin)"
+    },
+    "brief_148": {
+      "merge_apply": false,
+      "role": "Dual-digest LIVE print_kit also_refused_by paint dual-proof strip (cousin)"
+    },
+    "brief_018": {
+      "merge_apply": false,
+      "role": "Box-desktop multi-agent isolation / CAS on shared /workspace (cousin)"
+    },
+    "brief_147": {
+      "merge_apply": false,
+      "role": "Named live_print_kit_refusal_paint Apply surface allow-list"
+    },
+    "brief_146": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by mismatch_auto_pick_or_fabricate"
+    },
+    "brief_145": {
+      "merge_apply": false,
+      "role": "Named mismatch-Hold Apply surface allow-list"
+    },
+    "brief_144": {
+      "merge_apply": false,
+      "role": "Print mismatch Hold disposition board"
+    },
+    "brief_143": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by live_print_kit_pipeline_paint"
+    },
+    "brief_142": {
+      "merge_apply": false,
+      "role": "Named off-list disposition board (generic)"
+    },
+    "brief_141": {
+      "merge_apply": false,
+      "role": "pipeline-aware mismatch Hold"
+    },
+    "brief_140": {
+      "merge_apply": false,
+      "role": "invent-print Apply cousin"
+    },
+    "brief_139": {
+      "merge_apply": false,
+      "role": "invent-print dual-digest"
+    },
+    "brief_138": {
+      "merge_apply": false,
+      "role": "invent Apply surface"
+    },
+    "brief_137": {
+      "merge_apply": false,
+      "role": "LIVE off-list paint"
+    },
+    "brief_136": {
+      "merge_apply": false,
+      "role": "Off-list mismatch Hold"
+    },
+    "brief_135": {
+      "merge_apply": false,
+      "role": "off-list digest-pipeline"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "role": "invent-print-reason Hold also_refused_by"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "role": "invent-Hold timeout"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "role": "invent-Hold dual-digest"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "role": "invent-print LIVE paint"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "role": "LIVE→print_kit dual-digest"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "role": "LIVE-Apply surface"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by live_print_kit_refusal_paint"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "role": "Print also_refused_by dual-digest mismatch Hold"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "role": "Named print also_refused_by digest-pipeline allow-list"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "role": "invent-print-reason Apply cousin"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "role": "off-list print_kit reason dual-digest"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "role": "invent-Hold print_kit reason"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "role": "LIVE cousin"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "role": "Print also_refused_by dual-digest"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "role": "Named print_kit refusal-reason allow-list"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "role": "Flight15 kit print also_refused_by"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "role": "Refusal ledger dual-digest"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "role": "snack also_refused_by"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "role": "also_refused_by cousin"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "role": "Flight15 kit"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "role": "webcast cousin"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "role": "clash cousin"
+    },
+    "brief_155": {
+      "merge_apply": false,
+      "role": ""
+    },
+    "brief_156": {
+      "merge_apply": false,
+      "role": ""
+    },
+    "brief_157": {
+      "merge_apply": false,
+      "role": ""
+    },
+    "brief_158": {
+      "merge_apply": false,
+      "role": "Named also_refused_by cyan-row dual-digest strip refusal-surface allow-list (pair)"
+    }
+  },
+  "live_print_kit_refusal_paint_cas_review_private_before_cyan_after_named_surface_fire_example": {
+    "schema": "live_print_kit_refusal_paint_cas_review_private_before_cyan_after_named_surface_fire/v1",
+    "timezone": "America/New_York",
+    "place": "Hometown, MD",
+    "also_refused_by": "live_print_kit_refusal_paint",
+    "merge_apply": false,
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "dual_proof_required": 1,
+    "fabricate_digest": 0,
+    "single_digest_live": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "invent_apply_surface": 0,
+    "reuse_stale_digest": 0,
+    "mismatch_auto_pick": 0,
+    "digest_pipelines": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "allow_list": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "disposition_apply_surfaces": [
+      "reject_apply",
+      "route_to_allowlist_extension_apply"
+    ],
+    "named_cyan_row_refusal_surface_allow_list": [
+      "cyan_from_also_refused_by_honesty_alone",
+      "single_digest_cyan_as_live",
+      "fabricate_refusal_as_live",
+      "fake_live_refusal_pack",
+      "skip_dual_digest_strip_before_cyan"
+    ],
+    "refusal_surface_allow_list": [
+      "cyan_from_also_refused_by_honesty_alone",
+      "single_digest_cyan_as_live",
+      "fabricate_refusal_as_live",
+      "fake_live_refusal_pack",
+      "skip_dual_digest_strip_before_cyan"
+    ],
+    "brief_157_strip": "also_refused_by_dual_digest_before_cyan",
+    "example_honesty_only_named_surface": {
+      "surface": "cyan_from_also_refused_by_honesty_alone",
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "digest_a": null,
+      "digest_b": null,
+      "cyan_paint_authorized": false,
+      "cas_required_before_cyan": true,
+      "review_private_required_before_cyan": true,
+      "honesty": "SYNTHETIC — named-surface fire honesty OK; cyan still CAS+review_private gated"
+    },
+    "example_invent_sixth_surface_refused": {
+      "surface": "vendor_cart_refusal_surface_SYNTHETIC",
+      "invent_apply_surface": 0,
+      "also_refused_by": null,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — sixth / unmapped surface refused (invent_apply_surface=0)"
+    },
+    "example_single_digest_cyan_refused": {
+      "surface": "single_digest_cyan_as_live",
+      "digest_a": "on_disk_row_sha256:EXAMPLE",
+      "digest_b": null,
+      "cyan_paint_authorized": false,
+      "single_digest_live": 0,
+      "honesty": "SYNTHETIC — single digest never paints cyan LIVE"
+    },
+    "example_fabricate_refusal_refused": {
+      "surface": "fabricate_refusal_as_live",
+      "cyan_row": "invented_LIVE_refusal_SYNTHETIC",
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — invent / fixture cyan refused"
+    },
+    "example_skip_strip_refused": {
+      "surface": "skip_dual_digest_strip_before_cyan",
+      "brief_157_strip_bypassed": true,
+      "dual_proof_required": 1,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — skip brief-157 dual-digest strip refused; reopen review_private"
+    },
+    "example_fake_live_pack_refused": {
+      "surface": "fake_live_refusal_pack",
+      "pack": "EXAMPLE",
+      "fake_live_refusal": 0,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — fake LIVE pack refused"
+    },
+    "example_also_refused_by_honesty_only": {
+      "surface": "skip_ext_membership_as_dual_proof_live",
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "digest_a": "on_disk_row_sha256:EXAMPLE",
+      "digest_b": null,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — also_refused_by honesty caption OK; cyan refused without second independent ledger digest (pairs brief-156 + brief-155 + brief-121)"
+    },
+    "example_dual_digest_cyan_authorized_hold": {
+      "surface": "skip_ext_membership_as_dual_proof_live",
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "digest_a": "on_disk_row_sha256:EXAMPLE_A",
+      "digest_b": "apply_ledger_row_digest:EXAMPLE_B",
+      "digests_match": true,
+      "cyan_paint_authorized": false,
+      "review_private": true,
+      "honesty": "SYNTHETIC — dual digests match; cyan still behind review_private Hold + human Apply; never auto-cyan"
+    },
+    "example_mismatch_auto_pick_refused": {
+      "digest_a": "on_disk_row_sha256:A",
+      "digest_b": "apply_ledger_row_digest:B_MISMATCH",
+      "digests_match": false,
+      "mismatch_auto_pick": 0,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — disagreeing digests reopen review_private; never auto-pick cyan"
+    },
+    "example_stale_digest_refused": {
+      "digest_b_source": "prior_session_cas_etag_SYNTHETIC",
+      "reuse_stale_digest": 0,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — stale digest reuse refused"
+    },
+    "example_membership_reject_apply": {
+      "proposed_pipeline": "vendor_receipt_sha_SYNTHETIC",
+      "disposition": "reject",
+      "apply_surface": "reject_apply",
+      "cas": {
+        "etag": "W/\"disp-42\"",
+        "if_match": "W/\"disp-42\"",
+        "result": "ok"
+      },
+      "membership_digest_a": {
+        "pipeline": "cas_store",
+        "proves": [
+          "cas_etag:W/\"disp-42\"",
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "membership_digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "proves": [
+          "cas_etag:W/\"disp-42\"",
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "digests_match": true,
+      "hold": {
+        "kind": "review_private",
+        "reason": "disposition_apply_membership",
+        "opened_at": "2026-10-27T13:55:00-04:00",
+        "state": "HOLD"
+      },
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "invented": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — reject_apply still requires dual-digest membership (brief-152); allow-list-extension path is separate; never invent pipeline; never cyan LIVE (pairs brief-152 + brief-151 + brief-150 + brief-149)"
+    },
+    "example_membership_route_apply": {
+      "proposed_pipeline": "email_body_etag_SYNTHETIC",
+      "disposition": "route-to-allowlist-extension",
+      "apply_surface": "route_to_allowlist_extension_apply",
+      "cas": {
+        "etag": "W/\"disp-43\"",
+        "if_match": "W/\"disp-43\"",
+        "result": "ok"
+      },
+      "membership_digest_a": {
+        "pipeline": "on_disk_row_sha256",
+        "proves": [
+          "apply_surface:route_to_allowlist_extension_apply",
+          "target_allowlist:brief-149"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "membership_digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "proves": [
+          "apply_surface:route_to_allowlist_extension_apply",
+          "target_allowlist:brief-149"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "digests_match": true,
+      "extension_apply_required": true,
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — second independent ledger digest proves route_to_allowlist_extension_apply membership before human Apply may extend brief-149 allow-list; never invent pipeline; never auto-mint; never cyan LIVE",
+      "allowlist_extend_authorized": false
+    },
+    "example_membership_mismatch_refused": {
+      "apply_surface": "route_to_allowlist_extension_apply",
+      "membership_digest_a": {
+        "pipeline": "cas_store",
+        "proves": [
+          "cas_etag:W/\"disp-42\"",
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false
+      },
+      "membership_digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "proves": [
+          "cas_etag:W/\"stale\"",
+          "apply_surface:reject_apply"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false
+      },
+      "digests_match": false,
+      "apply_closed": false,
+      "live_paint_authorized": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — extension membership digests disagree ⇒ allow-list extension refused; reopen review_private; never invent pipeline; never mismatch_auto_pick (pairs brief-152 + brief-149)",
+      "cas": {
+        "etag": "W/\"disp-42\"",
+        "if_match": "W/\"stale\"",
+        "result": "precondition_failed",
+        "lost_update": true
+      },
+      "force_apply": false,
+      "reopen_review_private": true,
+      "allowlist_extend_authorized": false
+    },
+    "example_extension_membership_proof": {
+      "apply_surface": "route_to_allowlist_extension_apply",
+      "target_allowlist": "brief-149",
+      "membership_digest_a": {
+        "pipeline": "cas_store",
+        "proves": [
+          "apply_surface:route_to_allowlist_extension_apply",
+          "target_allowlist:brief-149"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "membership_digest_b": {
+        "pipeline": "git_object_id",
+        "proves": [
+          "apply_surface:route_to_allowlist_extension_apply",
+          "target_allowlist:brief-149"
+        ],
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "allowlisted": true
+      },
+      "digests_match": true,
+      "human_apply_required": true,
+      "invent_pipeline": 0,
+      "allowlist_extend_authorized": false,
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — dual-digest extension membership proof strip before brief-149 allow-list Apply; never invent pipeline; never cyan LIVE from skip-membership alone"
+    },
+    "example_skip_membership_surface": {
+      "surface": "skip_ext_membership_as_dual_proof_live",
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "live_paint_authorized": false,
+      "honesty": "SYNTHETIC — named surface may paint also_refused_by with honesty caption; never cyan LIVE from skip-membership alone (pairs brief-155 + brief-152)"
+    },
+    "example_invented_surface_refused": {
+      "surface": "skip_and_force_live_apply_SYNTHETIC",
+      "allowlisted": false,
+      "apply_closed": false,
+      "honesty": "SYNTHETIC — invented refusal surface refused (invent_apply_surface=0); never paint also_refused_by from unnamed surface"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "live_badge": false,
+      "status": "EXAMPLE"
+    },
+    "hold": {
+      "state": "HOLD",
+      "reason": "live_print_kit_refusal_paint_cas_review_private_before_cyan_after_named_surface_fire",
+      "timeout_becomes_live": false,
+      "timeout_becomes_refusal": false,
+      "default": "review_private"
+    },
+    "preferred_fold": ":4335",
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "hold_timeout_refusal": 0,
+    "pipeline_allow_list": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "brief_158_named_surface_fire": true,
+    "cas_required_before_cyan": true,
+    "review_private_required_before_cyan": true,
+    "example_named_surface_fire_honesty_ok_cyan_cas_gated": {
+      "surface": "cyan_from_also_refused_by_honesty_alone",
+      "also_refused_by": "live_print_kit_refusal_paint",
+      "digest_a": "on_disk_row_sha256:EXAMPLE",
+      "digest_b": "apply_ledger_row_digest:EXAMPLE",
+      "cas_etag": "W/\"EXAMPLE-etag\"",
+      "review_private_hold_open": true,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — also_refused_by honesty caption OK after brief-158 named-surface fire; cyan refused until CAS + review_private + dual digests + human Apply (pairs brief-158 + brief-157 + brief-154 + brief-151)"
+    },
+    "example_skip_review_private_refused": {
+      "surface": "cyan_from_also_refused_by_honesty_alone",
+      "review_private_hold_open": false,
+      "cyan_paint_authorized": false,
+      "review_private_default": 1,
+      "honesty": "SYNTHETIC — skip review_private after named-surface fire refused"
+    },
+    "example_skip_cas_refused": {
+      "surface": "single_digest_cyan_as_live",
+      "cas_etag": null,
+      "if_match": null,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — skip CAS / If-Match before cyan refused (pairs brief-154 + brief-018)"
+    },
+    "example_stale_if_match_412_refused": {
+      "surface": "fabricate_refusal_as_live",
+      "if_match": "W/\"STALE-etag\"",
+      "http_status": 412,
+      "force_apply": false,
+      "cyan_paint_authorized": false,
+      "honesty": "SYNTHETIC — stale If-Match 412; never force Apply; reopen review_private"
+    }
+  }
+}

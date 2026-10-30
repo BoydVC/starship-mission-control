@@ -1,0 +1,15 @@
+{
+  "service": "starship-mission-control",
+  "url": "http://127.0.0.1:4335",
+  "run": "cd /workspace/tokenmax/starship-mission-control && ./run.sh",
+  "smoke": "PASS 22/22",
+  "research_lines": 271,
+  "launches": 6,
+  "starlink_metrics": 8,
+  "shells": 4,
+  "themes": 6,
+  "why_notes": 5,
+  "milestones": 3,
+  "live_fact_ids": 15,
+  "generated_at": "2026-10-26 21:39 America/New_York (EDT)"
+}

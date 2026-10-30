@@ -1,0 +1,273 @@
+{
+  "brief_id": "brief-123",
+  "title": "Invented print_kit Refusal-Reason Hold \u2014 Hometown Hold When Proposed print_kit also_refused_by reason_code \u2209 Named Allow-List (review_private; Never Invent); invent_refusal_reason=0 / fabricate_refusal=0 / hold_timeout_refusal=0",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-123.md + peer-review-123.json + citations-123.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 332,
+  "citations_passed": true,
+  "pipeline_version": "v1.122.0",
+  "pairs": [
+    "brief-120",
+    "brief-119"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": [
+    "EXAMPLE invent-attempt Hold when proposed print_kit also_refused_by reason_code \u2209 brief-120 named allow-list \u2014 never invent reason codes; never fabricate LIVE from invent; never Hold timeout\u2192LIVE",
+    "invent_refusal_reason=0 / fabricate_refusal=0 / hold_timeout_refusal=0 / review_private_default=1",
+    "fake_live_refusal=0 / off_allowlist_reason=0 / reuse_stale_reason=0 / allowlist_reasons_only=1 / burn_outbound=0",
+    "merge_apply=false / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0",
+    "Pairs brief-120 + brief-119; cousins brief-120/119(+121/122/118/117/116/098/091/085/088) merge_apply=false",
+    "also_refused_by on invent-print-kit-reason / hold-timeout-invent / fabricate-from-invent paths",
+    "Personal household only \u2014 not KPD; America/New_York; Hometown"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/invent-print-kit-reason",
+    "/api/invent-print-kit-refusal-reason-hold",
+    "/api/hold-timeout-invent-print-kit-refusal",
+    "/api/hold-timeout-invent-refusal",
+    "/api/fabricate-refusal-from-invent",
+    "/api/fabricate-live-from-invent-print-kit",
+    "/api/invented-print-kit-refusal-reason/mint",
+    "/api/invented-print-kit-refusal-reason/fabricate",
+    "/api/invented-print-kit-refusal-reason/hold-timeout",
+    "/api/print-kit/invent-reason-hold",
+    "/api/print-kit/fabricate-from-invent",
+    "/api/print-kit/hold-timeout-invent-refusal",
+    "/api/flight15/invent-print-kit-reason",
+    "/api/flight15/fabricate-refusal-from-invent",
+    "/api/flight15/hold-timeout-invent-print-kit-refusal",
+    "/api/reuse-stale-invent-print-kit-reason",
+    "/api/fake-live-from-invent-print-kit",
+    "/api/silent-mint-print-kit-reason",
+    "/api/allowlist/self-extend-from-invent",
+    "/api/invent-attempt-live-paint",
+    "/api/mint-print-kit-refusal-reason",
+    "/api/off-list-print-kit-reason-live"
+  ],
+  "scorecard": {
+    "invent_refusal_reason": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "fake_live_refusal": 0,
+    "off_allowlist_reason": 0,
+    "reuse_stale_reason": 0,
+    "allowlist_reasons_only": 1,
+    "burn_outbound": 0,
+    "merge_apply": false,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "review_private_default": 1,
+    "also_refused_by": [
+      "invent_print_kit_reason_hold",
+      "invent_refusal_reason",
+      "print_kit"
+    ]
+  },
+  "cousins": {
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_kit_reason_hold",
+        "named_print_kit_refusal_reason_allowlist"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (pair \u2014 owns reason-code set; membership check \u2260 invent Hold)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_kit_reason_hold",
+        "print_kit"
+      ],
+      "role": "Flight15 kit print also_refused_by (pair \u2014 owns print_kit also_refused_by rows; \u2260 invent-mint)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_kit_reason_hold",
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "print also_refused_by dual-digest (overlap)"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_kit_reason_hold",
+        "print_kit_also_refused_by_apply"
+      ],
+      "role": "Cousin also_refused_by print_kit LIVE Apply (overlap)"
+    },
+    "brief_118": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_kit_reason_hold",
+        "invent_refusal_reason"
+      ],
+      "role": "Named refusal-reason allow-list Flight15 text (overlap)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_kit_reason_hold"
+      ],
+      "role": "refusal ledger dual-digest strip (overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_kit_reason_hold",
+        "snack_order"
+      ],
+      "role": "snack also_refused_by (overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_kit_reason_hold",
+        "flight15_text_apply"
+      ],
+      "role": "Flight15 also_refused_by (overlap)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_kit_reason_hold",
+        "print_kit"
+      ],
+      "role": "Flight 15 family alert kit (overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_kit_reason_hold",
+        "webcast_live_apply"
+      ],
+      "role": "webcast (overlap)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_print_kit_reason_hold",
+        "clash_live_apply"
+      ],
+      "role": "clash (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Off-list print_kit reason_code \u2192 Hold review_private. Never invent. Never fabricate LIVE from invent. invent_refusal_reason=0 / fabricate_refusal=0 / hold_timeout_refusal=0. merge_apply=false. Never burn outbound.",
+  "invented_print_kit_refusal_reason_hold_example": {
+    "schema": "invented_print_kit_refusal_reason_hold/v1",
+    "timezone": "America/New_York",
+    "place": "Hometown, MD",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 invent attempt EXAMPLE only; Hold review_private; never mint code; never cyan LIVE; never timeout\u2192LIVE",
+    "invent_refusal_reason": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "review_private_default": 1,
+    "allowlist_source": "brief-120/named_print_kit_refusal_reason_allowlist",
+    "scorecard": {
+      "invent_refusal_reason": 0,
+      "fabricate_refusal": 0,
+      "hold_timeout_refusal": 0,
+      "fake_live_refusal": 0,
+      "off_allowlist_reason": 0,
+      "reuse_stale_reason": 0,
+      "allowlist_reasons_only": 1,
+      "burn_outbound": 0,
+      "merge_apply": false,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "auto_text_print": 0,
+      "review_private_default": 1
+    },
+    "example_invent_attempt": {
+      "row_id": "invent_attempt_refusal_991_SYNTHETIC",
+      "proposed_reason_code": "refusal_991",
+      "on_allowlist": false,
+      "hold": "review_private",
+      "live_paint_authorized": false,
+      "honesty": "SYNTHETIC \u2014 invent attempt EXAMPLE only; Hold review_private; never mint code; never cyan LIVE; never timeout\u2192LIVE",
+      "status": "EXAMPLE",
+      "live_badge": false,
+      "ts": "2026-10-27T10:38:00-04:00"
+    },
+    "invent_attempts_example": [
+      {
+        "id": "ex-invent-001",
+        "proposed_reason_code": "refusal_991",
+        "on_allowlist": false,
+        "result": "HOLD",
+        "destination": "review_private",
+        "reason": "invent_refusal_reason=0; off_allowlist_reason=0; review_private_default=1",
+        "honesty": "SYNTHETIC/EXAMPLE",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "ts": "2026-10-27T10:38:01-04:00"
+      },
+      {
+        "id": "ex-invent-002",
+        "proposed_reason_code": "free_text_oops",
+        "on_allowlist": false,
+        "result": "HOLD",
+        "destination": "review_private",
+        "reason": "invent_refusal_reason=0; fabricate_refusal=0; never mint free-text",
+        "honesty": "SYNTHETIC/EXAMPLE",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "ts": "2026-10-27T10:38:02-04:00"
+      },
+      {
+        "id": "ex-invent-003",
+        "proposed_reason_code": "cousin_clash_as_print_kit_INVENTED_EXTRA",
+        "on_allowlist": false,
+        "result": "HOLD",
+        "destination": "review_private",
+        "reason": "hold_timeout_refusal=0; never timeout\u2192LIVE; never fabricate LIVE from invent",
+        "honesty": "SYNTHETIC/EXAMPLE",
+        "status": "EXAMPLE",
+        "live_badge": false,
+        "ts": "2026-10-27T10:38:03-04:00"
+      }
+    ],
+    "live_refusal_paint": {
+      "allowed": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "refusal_id": null,
+      "honesty": "SYNTHETIC \u2014 never cyan LIVE refusal from invent attempt or expired Hold"
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "destination": null,
+      "auto_paint": null,
+      "auto_text": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false
+    },
+    "cas": {
+      "version": 1,
+      "path": "invented_print_kit_refusal_reason_hold.json"
+    }
+  }
+}

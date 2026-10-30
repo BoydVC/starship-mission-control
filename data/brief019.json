@@ -1,0 +1,117 @@
+{
+  "brief_id": "brief-019",
+  "source": "agent-brief-forge/out/brief-019.md + peer-review-019.json + citations-019.json",
+  "parent_briefs": [
+    "brief-001",
+    "brief-009",
+    "brief-010",
+    "brief-013",
+    "brief-018"
+  ],
+  "peer_review": {
+    "verdict": "accept_with_revisions_noted",
+    "independence": "simulated peer (same model family) — prefer external /interrogate before fleet law"
+  },
+  "telemetry_honesty": {
+    "rule": "every card carries LIVE / SYNTHETIC / STATEMENT / HISTORICAL / STALE / UNKNOWN; LIVE requires public URL + fetched_at this session; never invent vehicle TLM",
+    "live_requires": ["source_url", "fetched_at"],
+    "synthetic_must_label": true,
+    "forbidden": [
+      "cyan LIVE on invented Raptor / LOX / chopstick encoder values",
+      "SYNTHETIC sold as LIVE",
+      "webcam frame treated as vehicle telemetry",
+      "reveal webm sold as LIVE telemetry (brief-010)"
+    ]
+  },
+  "tower_chopsticks_sm": {
+    "rule": "illustrative Mechazilla / catch board state machine — not SpaceX PLC; every state carries quality ∈ {OK, STALE, BAD, UNKNOWN} and source_url or unsourced=true",
+    "provenance": "ILLUSTRATIVE",
+    "states": [
+      "PAD_QUIET",
+      "VEHICLE_NAMED",
+      "STATIC_FIRE_REPORTED",
+      "NET_UNOFFICIAL",
+      "NET_OFFICIAL",
+      "WEBCAST_LIVE",
+      "CATCH_INTENT_STATED",
+      "CATCH_WINDOW_OPEN",
+      "OUTCOME_HUMAN_CONFIRMED",
+      "UNKNOWN"
+    ],
+    "illegal_transitions": [
+      "PAD_QUIET → CATCH_WINDOW_OPEN (skipped NET_OFFICIAL)",
+      "NET_UNOFFICIAL → MISSION_READY",
+      "WEBCAST_LIVE from third-party cam alone",
+      "any → OUTCOME_* without human confirm when auto_announce would fire",
+      "quality!=OK → READY banner"
+    ],
+    "dual_catch_intent": "LIVE (statement) — not chopsticks ARMED"
+  },
+  "mission_ready_gates": {
+    "rule": "READY is a digest of gates, never a lonely green pill; all must pass",
+    "gates": [
+      "G1_source_freshness",
+      "G2_official_clock",
+      "G3_narrative_vs_telemetry",
+      "G4_regulatory_literacy",
+      "G5_catalogue_honesty",
+      "G6_mode_distinctness",
+      "G7_human_outcome_confirm",
+      "G8_snapshot_cas",
+      "G9_never_fabricate_telemetry",
+      "G10_no_outbound_from_weekly_burn"
+    ],
+    "fail_closed": true,
+    "hero_tminus_without_official_net": "forbidden"
+  },
+  "never_fabricate_telemetry": {
+    "rule": "never_fabricate_telemetry=0 hard law — scorecard column must stay zero",
+    "value": 0
+  },
+  "denied_claims": [
+    "fake LIVE telemetry",
+    "MISSION READY with any gate fail",
+    "CHOPSTICKS ARMED without public criteria feed",
+    "FAA cleared dual catch from earnings quotes alone",
+    "unofficial NET as official countdown authority",
+    "auto-announce catch success from burn"
+  ],
+  "denied_mutations": [
+    "mission-ready-force",
+    "fabricate",
+    "send",
+    "publish",
+    "overwrite",
+    "mutate"
+  ],
+  "refused_post_prefixes": [
+    "/api/mission-ready-force",
+    "/api/fabricate",
+    "/api/send",
+    "/api/publish",
+    "/api/overwrite",
+    "/api/mutate"
+  ],
+  "public_data_only": true,
+  "auto_announce": 0,
+  "scorecard": {
+    "never_fabricate_telemetry": 0,
+    "fake_live_badges": 0,
+    "mission_ready_without_gates": 0,
+    "synthetic_mislabel": 0,
+    "unofficial_net_as_official_clock": 0,
+    "webcam_as_telemetry": 0,
+    "license_hallucination": 0,
+    "stale_live_count": 0,
+    "catalogue_silent_average": 0,
+    "auto_announce": 0,
+    "snapshot_cas_conflicts_unresolved": 0,
+    "tz_wrong": 0,
+    "color_only_status": 0,
+    "mode_confusion": 0,
+    "kpd_writes": 0,
+    "burn_outbound": 0,
+    "timezone": "America/New_York"
+  },
+  "separation": "brief-009 = Paper Desk LIVE/SYNTHETIC; brief-010 = reveal honesty; brief-013 = sports odds cousin; brief-018 = snapshot CAS; brief-019 = ops-wall / public-telemetry specialization for :4335"
+}

@@ -1,0 +1,483 @@
+{
+  "brief_id": "brief-141",
+  "title": "Print also_refused_by Dual-Digest Mismatch Hold (Pipeline-Aware) — Hometown Hold When print_kit also_refused_by Digest A ≠ Digest B on Allow-Listed Pipelines (review_private; Never Auto-Pick); mismatch_auto_pick=0 / fabricate_refusal=0 / hold_timeout_refusal=0 / allowlist_pipelines_only=1",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-141.md + peer-review-141.json + citations-141.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 331,
+  "citations_passed": true,
+  "pipeline_version": "v1.140.0",
+  "pairs": [
+    "brief-126",
+    "brief-121"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": [
+    "EXAMPLE pipeline-aware dual-digest mismatch Hold — when print_kit also_refused_by digest A ≠ digest B on allow-listed pipelines (brief-126) open Hold review_private; never auto-pick; never fabricate LIVE refusal from mismatch; never Hold timeout→LIVE; never treat off-allowlist mismatch as LIVE",
+    "mismatch_auto_pick=0 / fabricate_refusal=0 / hold_timeout_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / allowlist_pipelines_only=1 / burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / single_digest_live=0 / fabricate_digest=0 / reuse_stale_digest=0",
+    "merge_apply=false / also_refused_by mismatch_hold / pipeline_aware_mismatch",
+    "Pairs brief-126 + brief-121; cousins brief-140/139/138/137/136/135/134/133/132/131/130/129/128/127/125/124/123/122/120/119 (+117/116/098/091/085/088) merge_apply=false",
+    "Prefer 141 on pipeline-aware mismatch Hold paths with also_refused_by overlaps; keep unique prior ownership (127 non-pipeline-scoped mismatch Hold, 126 digest-pipeline allow-list, 121 dual-digest match, 136 off-list mismatch Hold, 140 invent-Hold/off-list→invent-print-reason Apply, etc.)",
+    "Personal household only — not KPD; America/New_York; Hometown"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/mismatch-auto-pick-pipeline-aware-dual-digest-hold",
+    "/api/auto-pick-digest-a-pipeline-aware-mismatch",
+    "/api/auto-pick-digest-b-pipeline-aware-mismatch",
+    "/api/fabricate-refusal-from-pipeline-aware-mismatch",
+    "/api/fabricate-digest-to-resolve-pipeline-aware-mismatch",
+    "/api/hold-timeout-pipeline-aware-mismatch-hold",
+    "/api/pipeline-aware-mismatch-hold-timeout-live",
+    "/api/fake-live-from-pipeline-aware-mismatch",
+    "/api/single-digest-after-pipeline-aware-mismatch-live",
+    "/api/reuse-stale-digest-after-pipeline-aware-mismatch",
+    "/api/off-allowlist-mismatch-as-live",
+    "/api/off-allowlist-pipeline-mismatch-as-live",
+    "/api/cousin-apply-as-pipeline-aware-mismatch-hold",
+    "/api/silent-merge-cousin-pipeline-aware-mismatch-hold",
+    "/api/kit-print-as-pipeline-aware-mismatch-hold",
+    "/api/dual-digest-live-as-pipeline-aware-mismatch-hold",
+    "/api/snack-also-refused-by-as-pipeline-aware-mismatch-hold",
+    "/api/kit-print-as-pipeline-aware-mismatch-hold-apply",
+    "/api/dual-digest-live-as-pipeline-aware-mismatch-hold-apply",
+    "/api/snack-also-refused-by-as-pipeline-aware-mismatch-hold-apply",
+    "/api/merge-kit-print-pipeline-aware-mismatch-hold",
+    "/api/merge-dual-digest-live-pipeline-aware-mismatch-hold",
+    "/api/merge-snack-also-refused-by-pipeline-aware-mismatch-hold",
+    "/api/silent-merge-kit-print-pipeline-aware-mismatch-hold",
+    "/api/silent-merge-dual-digest-live-pipeline-aware-mismatch-hold",
+    "/api/silent-merge-snack-pipeline-aware-mismatch-hold",
+    "/api/pipeline-allowlist-126-as-pipeline-aware-mismatch-hold",
+    "/api/dual-digest-121-as-pipeline-aware-mismatch-hold",
+    "/api/mismatch-hold-127-as-pipeline-aware-mismatch-hold",
+    "/api/off-list-mismatch-136-as-pipeline-aware-mismatch-hold",
+    "/api/pipeline-allowlist-135-as-pipeline-aware-mismatch-hold",
+    "/api/invent-print-125-as-pipeline-aware-mismatch-hold",
+    "/api/invent-hold-123-as-pipeline-aware-mismatch-hold",
+    "/api/kit-print-119-as-pipeline-aware-mismatch-hold",
+    "/api/allowlist-120-as-pipeline-aware-mismatch-hold",
+    "/api/invent-hold-offlist-140-as-pipeline-aware-mismatch-hold",
+    "/api/dual-digest-proof-139-as-pipeline-aware-mismatch-hold",
+    "/api/surface-allowlist-138-as-pipeline-aware-mismatch-hold",
+    "/api/live-off-list-paint-137-as-pipeline-aware-mismatch-hold",
+    "/api/flight15/mismatch-auto-pick-pipeline-aware-dual-digest-hold",
+    "/api/flight15/fabricate-refusal-from-pipeline-aware-mismatch",
+    "/api/flight15/hold-timeout-pipeline-aware-mismatch-hold",
+    "/api/flight15/off-allowlist-mismatch-as-live",
+    "/api/print-also-refused-by-dual-digest-mismatch-hold-pipeline-aware/cousin-merge",
+    "/api/print-also-refused-by-dual-digest-mismatch-hold-pipeline-aware/auto-pick",
+    "/api/print-also-refused-by-dual-digest-mismatch-hold-pipeline-aware/fabricate-refusal",
+    "/api/print-also-refused-by-dual-digest-mismatch-hold-pipeline-aware/126-merge",
+    "/api/print-also-refused-by-dual-digest-mismatch-hold-pipeline-aware/121-merge",
+    "/api/print-also-refused-by-dual-digest-mismatch-hold-pipeline-aware/127-merge",
+    "/api/merge-pipeline-aware-mismatch-cyan-live",
+    "/api/silent-merge-pipeline-aware-mismatch-cyan-live",
+    "/api/auto-text-from-pipeline-aware-mismatch",
+    "/api/auto-print-from-pipeline-aware-mismatch"
+  ],
+  "scorecard": {
+    "mismatch_auto_pick": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "allowlist_pipelines_only": 1,
+    "merge_apply": false,
+    "also_refused_by": [
+      "pipeline_aware_mismatch_hold",
+      "mismatch_hold",
+      "mismatch_auto_pick",
+      "fabricate_refusal",
+      "hold_timeout_refusal",
+      "fake_live_refusal",
+      "allowlist_pipelines_only"
+    ],
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named digest-pipeline allow-list (pair — owns which pipelines may contribute; mismatch Hold when allow-listed A ≠ B is this brief)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold",
+        "dual_digest_live_apply"
+      ],
+      "role": "Print also_refused_by dual-digest (pair — owns matching dual digests before cyan LIVE; mismatch Hold when allow-listed A ≠ B is this brief)"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "Print also_refused_by dual-digest mismatch Hold (cousin — owns non-pipeline-scoped mismatch Hold; this brief scopes to allow-listed pipelines)"
+    },
+    "brief_140": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold",
+        "invent_print_reason_apply"
+      ],
+      "role": "invent-Hold / off-list → invent-print-reason Apply (overlap)"
+    },
+    "brief_139": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "invent-print dual-digest proof (overlap)"
+    },
+    "brief_138": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "invent-print Apply surface (overlap)"
+    },
+    "brief_137": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "LIVE off-list paint (overlap)"
+    },
+    "brief_136": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold",
+        "off_list_print_kit_reason_dual_digest_mismatch_hold"
+      ],
+      "role": "Off-list mismatch Hold (overlap)"
+    },
+    "brief_135": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "off-list digest-pipeline (overlap)"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "invent_print_reason_hold (overlap)"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "invent-Hold timeout (overlap)"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "invent-Hold dual-digest (overlap)"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "print_kit_live_apply (overlap)"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "LIVE→print_kit dual-digest (overlap)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "LIVE-Apply surface (overlap)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "LIVE print_kit paint (overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "invent-print-reason Apply (overlap)"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "off-list dual-digest (overlap)"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "invent-Hold (overlap)"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "LIVE cousin (overlap)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (overlap)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (cousin — owns print_kit rows; print Apply ≠ mismatch resolution)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "Refusal ledger dual-digest (overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "snack also_refused_by (overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "Flight15 also_refused_by (overlap)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "Flight 15 family alert kit (overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "webcast (overlap)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "clash (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Allow-listed digest A ≠ allow-listed digest B ⇒ Hold review_private. Never auto-pick. Never fabricate LIVE refusal from mismatch. allowlist_pipelines_only=1. mismatch_auto_pick=0. fabricate_refusal=0. hold_timeout_refusal=0. merge_apply=false. also_refused_by mismatch_hold.",
+  "print_also_refused_by_dual_digest_mismatch_hold_pipeline_aware_example": {
+    "schema": "print_also_refused_by_dual_digest_mismatch_hold_pipeline_aware/v1",
+    "timezone": "America/New_York",
+    "place": "Hometown, MD",
+    "honesty": "EXAMPLE/SYNTHETIC — pipeline-aware mismatch Hold cards are SYNTHETIC; never auto-pick; never fabricate LIVE refusal from mismatch; never Hold timeout→LIVE; allowlist_pipelines_only=1",
+    "mismatch_auto_pick": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "allowlist_pipelines_only": 1,
+    "review_private_default": 1,
+    "pipelines_allowlist": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "example_mismatch_hold": {
+      "row_id": "refuse_print_kit_from_clash_SYNTHETIC",
+      "digest_a": {
+        "pipeline": "on_disk_row_sha256",
+        "value": "EXAMPLE_DIGEST_A",
+        "fetched_at": "2026-10-27T10:00:00-04:00",
+        "allowlisted": true
+      },
+      "digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "value": "EXAMPLE_DIGEST_B_DIFFERS",
+        "fetched_at": "2026-10-27T10:00:01-04:00",
+        "allowlisted": true
+      },
+      "match": false,
+      "hold": {
+        "kind": "review_private",
+        "reason": "pipeline_aware_digest_mismatch",
+        "opened_at": "2026-10-27T10:00:02-04:00"
+      },
+      "live_paint_authorized": false,
+      "auto_pick": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — allow-listed digest A ≠ digest B; Hold review_private; never auto-pick; never fabricate LIVE refusal from mismatch (pairs brief-126 + brief-121)"
+    },
+    "example_match_still_hold_gated": {
+      "digest_a": {
+        "pipeline": "on_disk_row_sha256",
+        "value": "EXAMPLE_DIGEST_MATCH",
+        "allowlisted": true
+      },
+      "digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "value": "EXAMPLE_DIGEST_MATCH",
+        "allowlisted": true
+      },
+      "match": true,
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — matching EXAMPLE digests still require human Apply before cyan LIVE (brief-121 dual-digest + brief-119 row); this brief only owns the pipeline-aware mismatch Hold path"
+    },
+    "example_off_allowlist_not_live": {
+      "digest_a": {
+        "pipeline": "invented_off_list_pipeline",
+        "value": "EXAMPLE_OFF_A",
+        "allowlisted": false
+      },
+      "digest_b": {
+        "pipeline": "another_off_list_pipeline",
+        "value": "EXAMPLE_OFF_B",
+        "allowlisted": false
+      },
+      "match": false,
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — off-allowlist pipeline mismatch is never LIVE-eligible (allowlist_pipelines_only=1); not cyan; not auto-pick"
+    },
+    "scorecard": {
+      "mismatch_auto_pick": 0,
+      "fabricate_refusal": 0,
+      "hold_timeout_refusal": 0,
+      "dual_proof_required": 1,
+      "fake_live_refusal": 0,
+      "burn_outbound": 0,
+      "merge_apply": false,
+      "review_private_default": 1,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "auto_text_print": 0,
+      "single_digest_live": 0,
+      "fabricate_digest": 0,
+      "reuse_stale_digest": 0,
+      "allowlist_pipelines_only": 1
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE — allow-listed digest mismatch never paints cyan LIVE print_kit also_refused_by; mismatch_auto_pick=0; fabricate_refusal=0; hold_timeout_refusal=0; allowlist_pipelines_only=1; merge_apply=false; dual_proof_required=1",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "destination": null,
+      "auto_paint": null,
+      "auto_text": null,
+      "auto_pick": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false,
+      "timeout_becomes_auto_pick": false,
+      "reason": "pipeline_aware_digest_mismatch"
+    },
+    "pairs": [
+      "brief-126",
+      "brief-121"
+    ],
+    "cousins_merge_apply_false": [
+      "brief-140",
+      "brief-139",
+      "brief-138",
+      "brief-137",
+      "brief-136",
+      "brief-135",
+      "brief-134",
+      "brief-133",
+      "brief-132",
+      "brief-131",
+      "brief-130",
+      "brief-129",
+      "brief-128",
+      "brief-127",
+      "brief-125",
+      "brief-124",
+      "brief-123",
+      "brief-122",
+      "brief-120",
+      "brief-119",
+      "brief-117",
+      "brief-116",
+      "brief-098",
+      "brief-091",
+      "brief-085",
+      "brief-088"
+    ],
+    "cas": {
+      "version": 1,
+      "path": "print_also_refused_by_dual_digest_mismatch_hold_pipeline_aware.json"
+    },
+    "preferred_fold": ":4335"
+  }
+}

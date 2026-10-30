@@ -1,0 +1,13 @@
+brief	178
+theme	hold-timeout-vs-burn-outbound-under-disagreeing-mint-stamps
+pipeline	v1.177.0
+smoke	7509/7509
+api	/api/brief178 200
+pid	2752766
+bak	/workspace/tokenmax/starship-mission-control/server.py.bak-brief178-20261027-170203
+fold	PASS
+ts	20261027-170203
+surfaces	8
+pairs	brief-177+brief-176+brief-175+brief-174+brief-173+brief-172+brief-171+brief-167+brief-159+brief-017
+encode	dual_proof_required=1 fabricate_digest=0 single_digest_live=0 merge_apply=false burn_outbound=0
+note	No Boyd outbound; weekly burn only; forge :4330 untouched; 177 not re-folded

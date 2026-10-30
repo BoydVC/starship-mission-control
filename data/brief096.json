@@ -1,0 +1,129 @@
+{
+  "brief_id": "brief-096",
+  "title": "Flight 15 T-0 Dual-Proof Strip \u2014 Hometown Second Independent T-0 Source Proof Before Cyan LIVE Paint; Never Fabricate LIVE T-0 / Dual Proof Required",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-096.md + peer-review-096.json + citations-096.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 89,
+  "citations_passed": true,
+  "pipeline_version": "v1.95.0",
+  "pairs": [
+    "brief-091",
+    "brief-049"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": [
+    "Never fabricate LIVE T-0 without this-session dual independent proofs; missing proof => EXAMPLE/SYNTHETIC",
+    "dual_proof_required=1 \u2014 second independent publisher mandatory before cyan LIVE",
+    "Never fake LIVE T-0 from fixture/EXAMPLE NET; never single-source LIVE",
+    "Never auto-text kids/Flight15; Hold timeout never alerts; burn_outbound=0",
+    "Cousins brief-091 + brief-049 merge_apply=false \u2014 kit/window Apply \u2260 LIVE T-0 paint",
+    "Personal household only \u2014 not KPD; America/New_York; Hometown"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_strip",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/fabricate-t0",
+    "/api/fake-live-t0",
+    "/api/live-t0-paint",
+    "/api/hold-timeout-alert",
+    "/api/auto-post-t0",
+    "/api/reuse-stale-t0",
+    "/api/single-source-live",
+    "/api/flight15/fabricate-t0",
+    "/api/flight15/fake-live-t0",
+    "/api/flight15/live-t0-paint",
+    "/api/dual-proof/skip",
+    "/api/dual-proof/fabricate",
+    "/api/auto-text-kids",
+    "/api/burn-outbound",
+    "/api/auto-text-flight15",
+    "/api/hold-timeout-text",
+    "/api/fabricate-telemetry"
+  ],
+  "scorecard": {
+    "fabricate_t0": 0,
+    "dual_proof_required": 1,
+    "fake_live_t0": 0,
+    "single_source_live": 0,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "hold_timeout_alert": 0,
+    "fabricate_telemetry": 0,
+    "reuse_stale_t0": 0,
+    "auto_post_t0": 0,
+    "burn_outbound": 0
+  },
+  "cousins": {
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_t0_paint",
+        "text_flight15"
+      ],
+      "role": "Flight 15 family alert kit"
+    },
+    "brief_049": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_t0_paint",
+        "text_flight15"
+      ],
+      "role": "Starship launch window"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Two independent T-0 proofs before cyan LIVE. Never fabricate LIVE T-0. Kit Apply \u2260 window Apply \u2260 LIVE paint. Never auto-text kids.",
+  "flight15_t0_dual_proof_example": {
+    "schema": "flight15-t0-dual-proof/v1",
+    "tz": "America/New_York",
+    "place": "Hometown, MD",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 T-0 null until dual_proof; live_paint false",
+    "flight": {
+      "label": "Flight 15",
+      "t0": null,
+      "status": "EXAMPLE",
+      "live_paint": false,
+      "live_badge": false,
+      "proof": null
+    },
+    "proofs": {
+      "source_a": null,
+      "source_b": null,
+      "independent": false,
+      "dual_ok": false
+    },
+    "holds": {
+      "alert": {
+        "state": "HOLD",
+        "destination": null,
+        "default": "review_private",
+        "options": [
+          "review_private",
+          "export_strip",
+          "text_flight15",
+          "text_kids",
+          "post_public",
+          "defer",
+          "reject"
+        ],
+        "auto_text": null,
+        "auto_post": null,
+        "digest_sha256": null,
+        "expires_at": null,
+        "cousin_ack": {
+          "brief_091": false,
+          "brief_049": false
+        }
+      }
+    }
+  }
+}

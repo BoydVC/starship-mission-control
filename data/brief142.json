@@ -1,0 +1,403 @@
+{
+  "brief_id": "brief-142",
+  "title": "Named Off-List Digest-Pipeline Disposition Board — Hometown Board When Proposed Digest Pipeline ∉ Allow-List (disposition = reject / route-to-allowlist-extension only; Never Cyan LIVE; Never Invent Pipeline); invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / fabricate_refusal=0 / dual_proof_required=1 / review_private_default=1",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-142.md + peer-review-142.json + citations-142.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 328,
+  "citations_passed": true,
+  "pipeline_version": "v1.141.0",
+  "pairs": [
+    "brief-126",
+    "brief-121"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": [
+    "EXAMPLE Named off-list digest-pipeline disposition board — when proposed digest pipeline ∉ brief-126 allow-list open disposition reject / route-to-allowlist-extension only; never cyan LIVE; never invent pipeline; never count off-allowlist as dual-proof; never auto-mint allow-list",
+    "invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / fabricate_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / hold_timeout_refusal=0 / burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / single_digest_live=0 / fabricate_digest=0 / reuse_stale_digest=0",
+    "merge_apply=false / also_refused_by named_off_list_digest_pipeline_disposition / invent_pipeline / off_allowlist_pipeline",
+    "Pairs brief-126 + brief-121; cousins brief-141/140/139/138/137/136/135/134/133/132/131/130/129/128/127/125/124/123/122/120/119 (+117/116/098/091/085/088) merge_apply=false",
+    "Prefer 142 on off-list disposition paths with also_refused_by overlaps; keep unique prior ownership (126 allow-list membership, 121 dual-digest match, 141 pipeline-aware mismatch Hold, 135 off-list digest-pipeline rail, 136 off-list mismatch Hold, 137 LIVE off-list paint, etc.)",
+    "Personal household only — not KPD; America/New_York; Hometown"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/invent-pipeline-named-off-list-disposition",
+    "/api/invent-off-list-digest-pipeline-disposition",
+    "/api/off-allowlist-pipeline-as-dual-proof-disposition",
+    "/api/off-allowlist-pipeline-as-cyan-live-disposition",
+    "/api/cyan-live-from-off-list-disposition",
+    "/api/auto-mint-allowlist-extension-from-disposition",
+    "/api/fabricate-refusal-from-off-list-disposition",
+    "/api/fabricate-digest-via-off-list-disposition",
+    "/api/hold-timeout-off-list-disposition",
+    "/api/off-list-disposition-hold-timeout-live",
+    "/api/fake-live-from-off-list-disposition",
+    "/api/single-digest-after-off-list-disposition-live",
+    "/api/reuse-stale-digest-after-off-list-disposition",
+    "/api/cousin-apply-as-off-list-disposition",
+    "/api/silent-merge-cousin-off-list-disposition",
+    "/api/kit-print-as-off-list-disposition",
+    "/api/dual-digest-live-as-off-list-disposition",
+    "/api/snack-also-refused-by-as-off-list-disposition",
+    "/api/kit-print-as-off-list-disposition-apply",
+    "/api/dual-digest-live-as-off-list-disposition-apply",
+    "/api/snack-also-refused-by-as-off-list-disposition-apply",
+    "/api/merge-kit-print-off-list-disposition",
+    "/api/merge-dual-digest-live-off-list-disposition",
+    "/api/merge-snack-also-refused-by-off-list-disposition",
+    "/api/silent-merge-kit-print-off-list-disposition",
+    "/api/silent-merge-dual-digest-live-off-list-disposition",
+    "/api/silent-merge-snack-off-list-disposition",
+    "/api/pipeline-allowlist-126-as-off-list-disposition",
+    "/api/dual-digest-121-as-off-list-disposition",
+    "/api/pipeline-aware-mismatch-141-as-off-list-disposition",
+    "/api/off-list-pipeline-135-as-disposition",
+    "/api/off-list-mismatch-136-as-disposition",
+    "/api/live-off-list-paint-137-as-disposition",
+    "/api/invent-hold-offlist-140-as-off-list-disposition",
+    "/api/dual-digest-proof-139-as-off-list-disposition",
+    "/api/surface-allowlist-138-as-off-list-disposition",
+    "/api/invent-print-125-as-off-list-disposition",
+    "/api/invent-hold-123-as-off-list-disposition",
+    "/api/kit-print-119-as-off-list-disposition",
+    "/api/allowlist-120-as-off-list-disposition",
+    "/api/mismatch-hold-127-as-off-list-disposition",
+    "/api/flight15/invent-pipeline-named-off-list-disposition",
+    "/api/flight15/off-allowlist-pipeline-as-cyan-live-disposition",
+    "/api/flight15/fabricate-refusal-from-off-list-disposition",
+    "/api/flight15/hold-timeout-off-list-disposition",
+    "/api/named-off-list-digest-pipeline-disposition/cousin-merge",
+    "/api/named-off-list-digest-pipeline-disposition/invent-pipeline",
+    "/api/named-off-list-digest-pipeline-disposition/off-allowlist",
+    "/api/named-off-list-digest-pipeline-disposition/cyan-live",
+    "/api/named-off-list-digest-pipeline-disposition/auto-mint",
+    "/api/named-off-list-digest-pipeline-disposition/126-merge",
+    "/api/named-off-list-digest-pipeline-disposition/121-merge",
+    "/api/named-off-list-digest-pipeline-disposition/141-merge",
+    "/api/named-off-list-digest-pipeline-disposition/135-merge",
+    "/api/merge-off-list-disposition-cyan-live",
+    "/api/silent-merge-off-list-disposition-cyan-live",
+    "/api/auto-text-from-off-list-disposition",
+    "/api/auto-print-from-off-list-disposition"
+  ],
+  "scorecard": {
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "fabricate_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "named_off_list_digest_pipeline_disposition",
+      "invent_pipeline",
+      "off_allowlist_pipeline",
+      "allowlist_pipelines_only",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "hold_timeout_refusal"
+    ],
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named print also_refused_by digest-pipeline allow-list (pair — owns allow-list membership; this brief owns disposition when proposed ∉ list)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition",
+        "print_kit_dual_digest_live"
+      ],
+      "role": "Print also_refused_by dual-digest (pair — owns matching dual digests; off-list never reaches dual-proof path)"
+    },
+    "brief_141": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition",
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "Pipeline-aware mismatch Hold (cousin — allow-listed A ≠ B Hold ≠ off-list disposition)"
+    },
+    "brief_140": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition",
+        "invent_print_reason_apply"
+      ],
+      "role": "invent-Hold / off-list → invent-print-reason Apply (cousin overlap)"
+    },
+    "brief_139": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "Invent-print dual-digest proof (cousin overlap)"
+    },
+    "brief_138": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "Invent-print Apply surface (cousin overlap)"
+    },
+    "brief_137": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition",
+        "live_off_list_print_kit_reason_paint"
+      ],
+      "role": "LIVE off-list paint (cousin — never cyan from this disposition)"
+    },
+    "brief_136": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition",
+        "off_list_print_kit_reason_dual_digest_mismatch_hold"
+      ],
+      "role": "Off-list mismatch Hold (cousin overlap)"
+    },
+    "brief_135": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Off-list digest-pipeline (cousin — related off-list rail; merge_apply=false)"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "invent-print-reason Hold (cousin overlap)"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "invent-Hold timeout (cousin overlap)"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "invent-Hold dual-digest (cousin overlap)"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "print_kit_live_apply (cousin overlap)"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "LIVE→print_kit dual-digest (cousin overlap)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "LIVE-Apply surface (cousin overlap)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "LIVE print_kit paint (cousin overlap)"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "mismatch Hold (cousin overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "invent-print-reason Apply (cousin overlap)"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "Off-list dual-digest (cousin overlap)"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "invent-Hold (cousin overlap)"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "LIVE cousin (cousin overlap)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (cousin overlap)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (cousin overlap)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "Refusal ledger dual-digest (cousin overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "snack also_refused_by (cousin overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "Flight15 also_refused_by (cousin overlap)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "Flight15 kit / text (cousin overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "webcast LIVE (cousin overlap)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "clash LIVE (cousin overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Proposed digest pipeline ∉ allow-list ⇒ disposition reject / route-to-allowlist-extension only. Never cyan LIVE. Never invent pipeline. invent_pipeline=0. off_allowlist_pipeline=0. allowlist_pipelines_only=1. fabricate_refusal=0. dual_proof_required=1. fake_live_refusal=0. hold_timeout_refusal=0. review_private_default=1. merge_apply=false. also_refused_by named_off_list_digest_pipeline_disposition. Never burn outbound.",
+  "named_off_list_digest_pipeline_disposition_board_example": {
+    "schema": "named_off_list_digest_pipeline_disposition_board/v1",
+    "timezone": "America/New_York",
+    "place": "Hometown, MD",
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "review_private_default": 1,
+    "allow_list": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "also_refused_by": [
+      "named_off_list_digest_pipeline_disposition",
+      "invent_pipeline",
+      "off_allowlist_pipeline",
+      "allowlist_pipelines_only",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "hold_timeout_refusal"
+    ],
+    "example_off_list_disposition": {
+      "proposed_pipeline": "vendor_receipt_sha_SYNTHETIC",
+      "in_allow_list": false,
+      "disposition": "reject",
+      "allowed_dispositions": [
+        "reject",
+        "route-to-allowlist-extension"
+      ],
+      "hold": {
+        "kind": "review_private",
+        "reason": "off_allowlist_pipeline",
+        "opened_at": "2026-10-27T12:45:00-04:00",
+        "state": "HOLD"
+      },
+      "live_paint_authorized": false,
+      "invented": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — proposed pipeline ∉ allow-list; disposition reject (or route-to-allowlist-extension); never cyan LIVE; never invent pipeline (pairs brief-126)"
+    },
+    "example_route_to_extension": {
+      "proposed_pipeline": "email_body_etag_SYNTHETIC",
+      "in_allow_list": false,
+      "disposition": "route-to-allowlist-extension",
+      "extension_apply_required": true,
+      "live_paint_authorized": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — route-to-allowlist-extension still requires human Apply on brief-126 allow-list; this board never auto-mints; never cyan LIVE"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "status": "EXAMPLE",
+      "live_badge": false,
+      "refusal_id": null
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "reason": "off_list_digest_pipeline_disposition",
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false
+    },
+    "preferred_fold": ":4335"
+  }
+}

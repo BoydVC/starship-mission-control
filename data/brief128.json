@@ -1,0 +1,320 @@
+{
+  "brief_id": "brief-128",
+  "title": "Cousin also_refused_by dual-digest LIVE print_kit also_refused_by paint — Hometown Refusal Ledger When Flight15 Kit / Dual-Digest LIVE / Snack / Webcast / Clash Apply Attempted as Dual-Digest LIVE print_kit also_refused_by Paint; merge_apply=false; also_refused_by live_print_kit_refusal_paint",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-128.md + peer-review-128.json + citations-128.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 316,
+  "citations_passed": true,
+  "pipeline_version": "v1.127.0",
+  "pairs": [
+    "brief-121",
+    "brief-119",
+    "brief-091",
+    "brief-117"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": [
+    "EXAMPLE Cousin also_refused_by dual-digest LIVE print_kit also_refused_by paint — when Flight15 kit / dual-digest LIVE / snack / webcast / clash Apply attempted as dual-digest LIVE print_kit also_refused_by paint → REFUSE + ledger; merge_apply=false; also_refused_by live_print_kit_refusal_paint",
+    "fabricate_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / single_digest_live=0",
+    "kit_as_live_print_kit_refusal_paint=0 / dual_digest_live_as_live_print_kit_refusal_paint=0 / snack_as_live_print_kit_refusal_paint=0 / webcast_as_live_print_kit_refusal_paint=0 / clash_as_live_print_kit_refusal_paint=0 / silent_merge_apply=0 / hold_timeout_refusal=0",
+    "burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0",
+    "Pairs brief-121 + brief-119 + brief-091 + brief-117; cousins brief-121 + 119 + 091 + 117 (+126/127/120/122/123/124/125/116/098/085/088) merge_apply=false",
+    "also_refused_by live_print_kit_refusal_paint on kit/dual-digest LIVE/snack/webcast/clash→LIVE print_kit also_refused_by paint merge paths",
+    "Personal household only — not KPD; America/New_York; Hometown"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/kit-as-live-print-kit-refusal-paint",
+    "/api/kit-print-as-live-print-kit-refusal-paint",
+    "/api/dual-digest-live-as-live-print-kit-refusal-paint",
+    "/api/snack-as-live-print-kit-refusal-paint",
+    "/api/snack-also-refused-by-as-live-print-kit-refusal-paint",
+    "/api/webcast-as-live-print-kit-refusal-paint",
+    "/api/clash-as-live-print-kit-refusal-paint",
+    "/api/kit-as-live-print-kit-refusal-paint-apply",
+    "/api/kit-print-as-live-print-kit-refusal-paint-apply",
+    "/api/dual-digest-live-as-live-print-kit-refusal-paint-apply",
+    "/api/snack-as-live-print-kit-refusal-paint-apply",
+    "/api/snack-also-refused-by-as-live-print-kit-refusal-paint-apply",
+    "/api/webcast-as-live-print-kit-refusal-paint-apply",
+    "/api/clash-as-live-print-kit-refusal-paint-apply",
+    "/api/merge-kit-live-print-kit-refusal-paint",
+    "/api/merge-kit-print-live-print-kit-refusal-paint",
+    "/api/merge-dual-digest-live-live-print-kit-refusal-paint",
+    "/api/merge-snack-live-print-kit-refusal-paint",
+    "/api/merge-snack-also-refused-by-live-print-kit-refusal-paint",
+    "/api/merge-webcast-live-print-kit-refusal-paint",
+    "/api/merge-clash-live-print-kit-refusal-paint",
+    "/api/silent-merge-kit-live-print-kit-refusal-paint",
+    "/api/silent-merge-kit-print-live-print-kit-refusal-paint",
+    "/api/silent-merge-dual-digest-live-live-print-kit-refusal-paint",
+    "/api/silent-merge-snack-live-print-kit-refusal-paint",
+    "/api/silent-merge-webcast-live-print-kit-refusal-paint",
+    "/api/silent-merge-clash-live-print-kit-refusal-paint",
+    "/api/cousin-apply-as-live-print-kit-refusal-paint",
+    "/api/silent-merge-cousin-live-print-kit-refusal-paint",
+    "/api/fabricate-live-print-kit-refusal-paint",
+    "/api/fake-live-print-kit-refusal-paint",
+    "/api/single-digest-live-print-kit-refusal-paint",
+    "/api/hold-timeout-live-print-kit-refusal-paint",
+    "/api/flight15/kit-as-live-print-kit-refusal-paint",
+    "/api/flight15/kit-print-as-live-print-kit-refusal-paint",
+    "/api/flight15/dual-digest-live-as-live-print-kit-refusal-paint",
+    "/api/flight15/snack-as-live-print-kit-refusal-paint",
+    "/api/flight15/webcast-as-live-print-kit-refusal-paint",
+    "/api/flight15/clash-as-live-print-kit-refusal-paint",
+    "/api/live-print-kit-refusal-paint/cousin-merge",
+    "/api/live-print-kit-refusal-paint/kit-merge",
+    "/api/live-print-kit-refusal-paint/kit-print-merge",
+    "/api/live-print-kit-refusal-paint/dual-digest-live-merge",
+    "/api/live-print-kit-refusal-paint/snack-merge",
+    "/api/live-print-kit-refusal-paint/webcast-merge",
+    "/api/live-print-kit-refusal-paint/clash-merge"
+  ],
+  "scorecard": {
+    "merge_apply": false,
+    "also_refused_by": [
+      "live_print_kit_refusal_paint",
+      "kit_as_live_print_kit_refusal_paint",
+      "dual_digest_live_as_live_print_kit_refusal_paint",
+      "snack_as_live_print_kit_refusal_paint",
+      "webcast_as_live_print_kit_refusal_paint",
+      "clash_as_live_print_kit_refusal_paint",
+      "off_list_print_kit_reason_apply"
+    ],
+    "fabricate_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "kit_as_live_print_kit_refusal_paint": 0,
+    "dual_digest_live_as_live_print_kit_refusal_paint": 0,
+    "snack_as_live_print_kit_refusal_paint": 0,
+    "webcast_as_live_print_kit_refusal_paint": 0,
+    "clash_as_live_print_kit_refusal_paint": 0,
+    "silent_merge_apply": 0,
+    "hold_timeout_refusal": 0
+  },
+  "cousins": {
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "Print also_refused_by dual-digest (pair — owns dual-digest LIVE print_kit also_refused_by paint surface; cousin Apply ≠ that paint)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (pair — kit print Apply ≠ LIVE print_kit also_refused_by paint)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint",
+        "kit_apply"
+      ],
+      "role": "Flight 15 family alert kit (pair — kit Apply ≠ LIVE print_kit also_refused_by paint)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint",
+        "dual_digest_live_apply"
+      ],
+      "role": "Refusal ledger dual-digest (pair — dual-digest LIVE ≠ LIVE print_kit also_refused_by paint)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named digest-pipeline allow-list (overlap)"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "Print also_refused_by dual-digest mismatch Hold (overlap)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (overlap)"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint",
+        "print_kit"
+      ],
+      "role": "print_kit LIVE cousin also_refused_by (overlap)"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint",
+        "invent_hold"
+      ],
+      "role": "Invented print_kit refusal-reason Hold (overlap)"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "off-list print_kit reason dual-digest (overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint",
+        "invent_print_reason_apply"
+      ],
+      "role": "Cousin invent-print-reason Apply (overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint",
+        "snack_order"
+      ],
+      "role": "snack also_refused_by (overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "Flight15 also_refused_by (overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "webcast (overlap)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "clash (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Flight15 kit / dual-digest LIVE / snack / webcast / clash Apply ≠ dual-digest LIVE print_kit also_refused_by paint. merge_apply=false. also_refused_by live_print_kit_refusal_paint. dual_proof_required=1. single_digest_live=0. Never burn outbound.",
+  "live_print_kit_refusal_paint_also_refused_by_example": {
+    "schema": "live_print_kit_refusal_paint_also_refused_by/v1",
+    "timezone": "America/New_York",
+    "place": "Hometown, MD",
+    "honesty": "EXAMPLE/SYNTHETIC — refusal ledger rows are SYNTHETIC; never treat cousin Apply as dual-digest LIVE print_kit also_refused_by paint; never invent cyan LIVE",
+    "merge_apply": false,
+    "also_refused_by": [
+      "live_print_kit_refusal_paint",
+      "off_list_print_kit_reason_apply"
+    ],
+    "dual_proof_required": 1,
+    "single_digest_live": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "kit_as_live_print_kit_refusal_paint": 0,
+    "dual_digest_live_as_live_print_kit_refusal_paint": 0,
+    "snack_as_live_print_kit_refusal_paint": 0,
+    "webcast_as_live_print_kit_refusal_paint": 0,
+    "clash_as_live_print_kit_refusal_paint": 0,
+    "silent_merge_apply": 0,
+    "hold_timeout_refusal": 0,
+    "review_private_default": 1,
+    "refusals_example": [
+      {
+        "id": "ex-refusal-001",
+        "attempted": "brief-119.kit_print_apply",
+        "target": "live_print_kit_refusal_paint",
+        "result": "REFUSED",
+        "reason": "merge_apply=false; also_refused_by live_print_kit_refusal_paint; kit_as_live_print_kit_refusal_paint=0",
+        "honesty": "SYNTHETIC/EXAMPLE",
+        "live_badge": false,
+        "status": "EXAMPLE",
+        "ts": "2026-10-27T11:09:09-04:00"
+      }
+    ],
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE — cousin Apply never paints cyan LIVE print_kit also_refused_by; merge_apply=false; dual_proof_required=1; fabricate_refusal=0; fake_live_refusal=0",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "destination": null,
+      "auto_paint": null,
+      "auto_text": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "reason": "cousin_apply_as_live_print_kit_refusal_paint"
+    },
+    "pairs": [
+      "brief-121",
+      "brief-119",
+      "brief-091",
+      "brief-117"
+    ],
+    "cousins_merge_apply_false": [
+      "brief-121",
+      "brief-119",
+      "brief-091",
+      "brief-117",
+      "brief-126",
+      "brief-127",
+      "brief-120",
+      "brief-122",
+      "brief-123",
+      "brief-124",
+      "brief-125",
+      "brief-116",
+      "brief-098",
+      "brief-085",
+      "brief-088"
+    ],
+    "cas": {
+      "version": 1,
+      "path": "live_print_kit_refusal_paint_also_refused_by.json"
+    },
+    "preferred_fold": ":4335"
+  }
+}

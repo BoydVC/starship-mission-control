@@ -1,0 +1,30 @@
+fold_ts	20261027-162242
+brief	brief-170
+title	CAS Etag Freshness Bound after Membership Strip Pass under live_print_kit_refusal_paint
+port	4335
+pid	2498550
+bak	server.py.bak-brief170-20261027-162242
+data	data/brief170.json
+api	/api/brief170 200 live_ok
+prior	/api/brief169 200 · /api/brief168 200
+smoke	5993/5993 PASS
+invent_apply_surface	0
+invent_pipeline	0
+off_allowlist_pipeline	0
+dual_proof_required	1
+review_private_default	1
+burn_outbound	0
+fabricate_digest	0
+reuse_stale_digest	0
+hold_timeout_refusal	0
+auto_text_kids	0
+auto_text_print	0
+auto_text_flight15	0
+merge_apply	False
+pairs	brief-169,brief-168,brief-167,brief-166,brief-165,brief-164,brief-163,brief-162,brief-161,brief-159,brief-158
+cas_etag_freshness_bound_surfaces	8
+brief_forge	untouched
+brief_171	not_started
+boyd_outbound	0
+cloud_agents	0
+kpd	0

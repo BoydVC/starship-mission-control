@@ -1,0 +1,279 @@
+{
+  "brief_id": "brief-114",
+  "title": "Snack Cart Digest Dual-Proof Strip \u2014 Hometown Second Independent Cart Digest Before Cyan LIVE Order Paint; Never Fabricate LIVE Order / Dual Proof Required",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-114.md + peer-review-114.json + citations-114.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 307,
+  "citations_passed": true,
+  "pipeline_version": "v1.113.0",
+  "pairs": [
+    "brief-097",
+    "brief-091"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": [
+    "EXAMPLE dual cart digests before LIVE order paint \u2014 never cyan LIVE order from one digest / fixture / stale cart",
+    "fabricate_order=0 / dual_proof_required=1 / fake_live_order=0 / auto_order=0 / burn_outbound=0 / auto_text_kids=0",
+    "single_digest_live=0 / auto_checkout=0 / silent_cart_submit=0 / auto_reorder_snacks=0 / hold_timeout_order=0 / reuse_stale_cart=0",
+    "Pairs brief-097 + brief-091; cousins brief-097/091/096/098 merge_apply=false",
+    "also_refused_by on overlapping snack / Flight15 Apply / LIVE order paint surfaces",
+    "Personal household only \u2014 not KPD; America/New_York; Hometown"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_snack",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/fabricate-order",
+    "/api/fake-live-order",
+    "/api/single-digest-order",
+    "/api/auto-order",
+    "/api/auto-order-snacks",
+    "/api/auto-checkout",
+    "/api/snack/fabricate-order",
+    "/api/snack/auto-order",
+    "/api/snack/auto-checkout",
+    "/api/flight15/auto-order-snacks",
+    "/api/auto-order-doordash",
+    "/api/auto-order-instacart",
+    "/api/live-order-paint",
+    "/api/reuse-stale-cart",
+    "/api/silent-cart-submit",
+    "/api/auto-reorder-snacks",
+    "/api/hold-timeout-order",
+    "/api/dual-proof-order/skip",
+    "/api/dual-proof-order/fabricate"
+  ],
+  "scorecard": {
+    "fabricate_order": 0,
+    "dual_proof_required": 1,
+    "fake_live_order": 0,
+    "single_digest_live": 0,
+    "auto_order_snacks": 0,
+    "auto_order": 0,
+    "auto_checkout": 0,
+    "silent_cart_submit": 0,
+    "auto_reorder_snacks": 0,
+    "hold_timeout_order": 0,
+    "reuse_stale_cart": 0,
+    "auto_text_kids": 0,
+    "auto_text_snack": 0,
+    "off_allowlist_order": 0,
+    "burn_outbound": 0,
+    "merge_apply": false
+  },
+  "cousins": {
+    "brief_097": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_order_paint",
+        "snack_order"
+      ],
+      "role": "Flight 15 snack Hold allow-list"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_order_paint",
+        "flight15_text"
+      ],
+      "role": "Flight 15 family alert kit"
+    },
+    "brief_096": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_order_paint",
+        "live_t0_paint"
+      ],
+      "role": "Flight 15 T-0 dual-proof strip (overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_order_paint",
+        "flight15_text_apply"
+      ],
+      "role": "Flight15 also_refused_by (overlap)"
+    },
+    "brief_113": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_order_paint",
+        "live_t0_paint"
+      ],
+      "role": "cousin also_refused_by LIVE T-0 paint (overlap)"
+    },
+    "brief_111": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_order_paint",
+        "t0_allowlist_apply"
+      ],
+      "role": "T-0 source allow-list (overlap)"
+    },
+    "brief_112": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_order_paint",
+        "mismatch_hold_apply"
+      ],
+      "role": "dual-proof mismatch Hold (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Two independent cart digests before cyan LIVE order. Never fabricate LIVE order. Snack allow-list Apply \u2260 kit Apply \u2260 LIVE order paint. Never auto-order. Never auto-checkout. Never auto-text kids.",
+  "snack_cart_digest_dual_proof_example": {
+    "schema": "snack_cart_digest_dual_proof/v1",
+    "timezone": "America/New_York",
+    "place": "Hometown, MD",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 digests are SYNTHETIC; dual_proof_required unmet for LIVE; never fabricate LIVE order",
+    "scorecard": {
+      "fabricate_order": 0,
+      "dual_proof_required": 1,
+      "fake_live_order": 0,
+      "single_digest_live": 0,
+      "auto_order_snacks": 0,
+      "auto_order": 0,
+      "auto_checkout": 0,
+      "burn_outbound": 0,
+      "silent_cart_submit": 0,
+      "auto_reorder_snacks": 0,
+      "hold_timeout_order": 0,
+      "reuse_stale_cart": 0,
+      "auto_text_kids": 0,
+      "auto_text_snack": 0,
+      "off_allowlist_order": 0,
+      "merge_apply": false
+    },
+    "digests": [
+      {
+        "id": "digest_a_EXAMPLE",
+        "vendor": "DoorDash",
+        "sha256": "EXAMPLE_DIGEST_A",
+        "etag": "EXAMPLE_ETAG_A",
+        "fetched_at": "2026-10-27T20:00:00-04:00",
+        "source_kind": "vendor_cart_page",
+        "honesty": "SYNTHETIC",
+        "status": "EXAMPLE",
+        "live_badge": false
+      },
+      {
+        "id": "digest_b_EXAMPLE",
+        "vendor": "DoorDash",
+        "sha256": "EXAMPLE_DIGEST_B",
+        "etag": "EXAMPLE_ETAG_B",
+        "fetched_at": "2026-10-27T20:00:05-04:00",
+        "source_kind": "local_cart_snapshot",
+        "honesty": "SYNTHETIC",
+        "status": "EXAMPLE",
+        "live_badge": false
+      }
+    ],
+    "live_order_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 digests are SYNTHETIC; dual_proof_required unmet for LIVE",
+      "live_badge": false,
+      "order_id": null,
+      "status": "EXAMPLE"
+    },
+    "cousins": {
+      "brief-097": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_order_paint",
+          "snack_order"
+        ],
+        "role": "Flight 15 snack Hold allow-list"
+      },
+      "brief-091": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_order_paint",
+          "flight15_text"
+        ],
+        "role": "Flight 15 family alert kit"
+      },
+      "brief-096": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_order_paint",
+          "live_t0_paint"
+        ],
+        "role": "Flight 15 T-0 dual-proof strip (overlap)"
+      },
+      "brief-098": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_order_paint",
+          "flight15_text_apply"
+        ],
+        "role": "Flight15 also_refused_by (overlap)"
+      },
+      "brief-113": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_order_paint",
+          "live_t0_paint"
+        ],
+        "role": "cousin also_refused_by LIVE T-0 paint (overlap)"
+      },
+      "brief-111": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_order_paint",
+          "t0_allowlist_apply"
+        ],
+        "role": "T-0 source allow-list (overlap)"
+      },
+      "brief-112": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_order_paint",
+          "mismatch_hold_apply"
+        ],
+        "role": "dual-proof mismatch Hold (overlap)"
+      }
+    },
+    "hold": {
+      "state": "HOLD",
+      "destination": null,
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_snack",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "created_at": null,
+      "expires_at": null,
+      "review_private": true,
+      "timeout_becomes_order": false,
+      "auto_order": null,
+      "auto_checkout": null,
+      "cousin_ack": {
+        "brief_097": false,
+        "brief_091": false,
+        "brief_096": false,
+        "brief_098": false,
+        "brief_113": false,
+        "brief_111": false,
+        "brief_112": false
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "snack_cart_digest_dual_proof.json",
+      "etag": "EXAMPLE_CAS"
+    }
+  }
+}

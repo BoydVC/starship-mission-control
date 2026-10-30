@@ -1,0 +1,131 @@
+{
+  "brief_id": "brief-079",
+  "title": "SpaceX / Starlink Travel Weather Gate \u2014 Hometown Starbase or Starlink-Travel Week Board",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-079.md + peer-review-079.json + citations-079.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 284,
+  "citations_passed": true,
+  "pairs": [
+    "brief-026",
+    "brief-020",
+    "brief-038",
+    "brief-070",
+    "brief-073"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD (Anne Arundel)",
+  "place": "Hometown, MD",
+  "constraints": [
+    "Never auto-book trip / auto-reserve hotel / auto-buy flights without Apply",
+    "Never fabricate LIVE telemetry / weather / coverage / alert without this-session dual NWS+window proof; missing proof => EXAMPLE/SYNTHETIC",
+    "Trip Hold (review_private / export_gate default; book_trip / reserve_hotel / buy_flights / text_kids never default); Hold timeout never books",
+    "Cousins brief-070 (Starbase photo trip) + brief-073 (Starlink outage): merge_apply=false \u2014 their Apply never satisfies trip book",
+    "Pairs Mission Control brief-026 + Starlink brief-020 + Storm Prep brief-038 \u2014 separate Apply",
+    "Never fake LIVE travel gate from fixtures; never auto-text kids; burn_outbound=0",
+    "Personal household only \u2014 not KPD; America/New_York; Hometown"
+  ],
+  "trip_hold_destinations": [
+    "review_private",
+    "export_gate",
+    "book_trip",
+    "reserve_hotel",
+    "buy_flights",
+    "text_kids",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/auto-book-trip",
+    "/api/fabricate-telemetry",
+    "/api/fabricate-weather",
+    "/api/fabricate-coverage",
+    "/api/auto-reserve-hotel",
+    "/api/auto-buy-flights",
+    "/api/fake-live-travel-gate",
+    "/api/hold-timeout-book",
+    "/api/auto-text-kids",
+    "/api/fabricate-alert",
+    "/api/travel/auto-book",
+    "/api/travel/fake-live"
+  ],
+  "scorecard": {
+    "auto_book_trip": 0,
+    "fabricate_telemetry": 0,
+    "fabricate_weather": 0,
+    "fabricate_coverage": 0,
+    "auto_reserve_hotel": 0,
+    "auto_buy_flights": 0,
+    "fake_live_travel_gate": 0,
+    "hold_timeout_book": 0,
+    "burn_outbound": 0,
+    "auto_text_kids": 0,
+    "fabricate_alert": 0
+  },
+  "cousins": {
+    "brief_070": {
+      "merge_apply": false,
+      "role": "Starbase photo trip"
+    },
+    "brief_073": {
+      "merge_apply": false,
+      "role": "Starlink outage kit"
+    }
+  },
+  "starlink_travel_weather_example": {
+    "schema": "starlink-travel-weather/v1",
+    "tz": "America/New_York",
+    "place": "Hometown, MD",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 never cyan LIVE weather/telemetry/coverage without this-session dual NWS+window proof",
+    "destination": {
+      "kind": "EXAMPLE",
+      "name": "Starbase TX or Starlink-travel",
+      "status": "EXAMPLE"
+    },
+    "weather_gate": {
+      "nws": null,
+      "status": "EXAMPLE",
+      "proof": null,
+      "live_badge": false,
+      "alert": null
+    },
+    "window_gate": {
+      "public_window": null,
+      "status": "EXAMPLE",
+      "proof": null,
+      "live_badge": false,
+      "telemetry": null
+    },
+    "coverage_gate": {
+      "starlink": null,
+      "status": "EXAMPLE",
+      "proof": null,
+      "live_badge": false
+    },
+    "trip_hold": {
+      "destination": null,
+      "state": "HOLD",
+      "options": [
+        "review_private",
+        "export_gate",
+        "book_trip",
+        "reserve_hotel",
+        "buy_flights",
+        "text_kids",
+        "defer",
+        "reject"
+      ],
+      "default": "review_private",
+      "auto_book": null,
+      "auto_reserve": null,
+      "auto_buy": null,
+      "auto_text": null,
+      "digest_sha256": null,
+      "expires_at": null,
+      "cousin_ack": {
+        "brief_070": false,
+        "brief_073": false
+      },
+      "requires": "Parent A/Parent B Apply"
+    }
+  }
+}

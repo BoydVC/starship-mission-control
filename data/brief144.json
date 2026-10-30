@@ -1,0 +1,441 @@
+{
+  "brief_id": "brief-144",
+  "title": "Print also_refused_by Mismatch Hold Disposition Board — Hometown Board When mismatch Hold Opens (disposition = reject / re-fetch digests / attach-matching-digest only; Never Cyan LIVE; Never Auto-Pick); mismatch_auto_pick=0 / fabricate_refusal=0 / hold_timeout_refusal=0 / dual_proof_required=1 / review_private_default=1",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-144.md + peer-review-144.json + citations-144.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 328,
+  "citations_passed": true,
+  "pipeline_version": "v1.143.0",
+  "pairs": [
+    "brief-127",
+    "brief-121"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": [
+    "EXAMPLE Print also_refused_by mismatch Hold disposition board — when brief-127 mismatch Hold is open (digest A ≠ B) present disposition reject / re-fetch digests / attach-matching-digest only; never cyan LIVE; never auto-pick; never fabricate LIVE refusal; never Hold timeout→LIVE",
+    "mismatch_auto_pick=0 / fabricate_refusal=0 / hold_timeout_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / single_digest_live=0 / fabricate_digest=0 / reuse_stale_digest=0",
+    "merge_apply=false / also_refused_by print_also_refused_by_mismatch_hold_disposition / mismatch_auto_pick / fabricate_refusal / hold_timeout_refusal",
+    "Pairs brief-127 + brief-121; cousins brief-143/142/141/140…128/126/125…119 (+117/116/098/091/085/088) merge_apply=false",
+    "Prefer 144 on print mismatch Hold disposition board paths; keep unique prior ownership (143 live_print_kit_pipeline_paint, 142 off-list disposition, 141 pipeline-aware mismatch Hold, 126 allow-list, 121 dual-digest, 127 mismatch Hold open)",
+    "Personal household only — not KPD; America/New_York; Hometown"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/mismatch-auto-pick-mismatch-hold-disposition",
+    "/api/cyan-live-from-mismatch-hold-disposition",
+    "/api/fabricate-refusal-from-mismatch-hold-disposition",
+    "/api/fabricate-digest-via-mismatch-hold-disposition",
+    "/api/hold-timeout-mismatch-hold-disposition",
+    "/api/mismatch-hold-disposition-hold-timeout-live",
+    "/api/fake-live-from-mismatch-hold-disposition",
+    "/api/single-digest-after-mismatch-hold-disposition-live",
+    "/api/reuse-stale-digest-after-mismatch-hold-disposition",
+    "/api/reject-disposition-as-cyan-live",
+    "/api/re-fetch-digests-as-cyan-live",
+    "/api/attach-matching-digest-as-cyan-live",
+    "/api/attach-matching-digest-fabricate",
+    "/api/invent-pipeline-mismatch-hold-disposition",
+    "/api/off-allowlist-pipeline-as-mismatch-hold-disposition",
+    "/api/cousin-apply-as-mismatch-hold-disposition",
+    "/api/silent-merge-cousin-mismatch-hold-disposition",
+    "/api/kit-print-as-mismatch-hold-disposition",
+    "/api/dual-digest-live-as-mismatch-hold-disposition",
+    "/api/snack-also-refused-by-as-mismatch-hold-disposition",
+    "/api/kit-print-as-mismatch-hold-disposition-apply",
+    "/api/dual-digest-live-as-mismatch-hold-disposition-apply",
+    "/api/snack-also-refused-by-as-mismatch-hold-disposition-apply",
+    "/api/merge-kit-print-mismatch-hold-disposition",
+    "/api/merge-dual-digest-live-mismatch-hold-disposition",
+    "/api/merge-snack-also-refused-by-mismatch-hold-disposition",
+    "/api/silent-merge-kit-print-mismatch-hold-disposition",
+    "/api/silent-merge-dual-digest-live-mismatch-hold-disposition",
+    "/api/silent-merge-snack-mismatch-hold-disposition",
+    "/api/pipeline-allowlist-126-as-mismatch-hold-disposition",
+    "/api/dual-digest-121-as-mismatch-hold-disposition",
+    "/api/mismatch-hold-127-as-disposition",
+    "/api/pipeline-aware-mismatch-141-as-mismatch-hold-disposition",
+    "/api/off-list-disposition-142-as-mismatch-hold-disposition",
+    "/api/live-print-kit-pipeline-paint-143-as-mismatch-hold-disposition",
+    "/api/invent-hold-offlist-140-as-mismatch-hold-disposition",
+    "/api/dual-digest-proof-139-as-mismatch-hold-disposition",
+    "/api/surface-allowlist-138-as-mismatch-hold-disposition",
+    "/api/live-off-list-paint-137-as-mismatch-hold-disposition",
+    "/api/off-list-mismatch-136-as-mismatch-hold-disposition",
+    "/api/off-list-pipeline-135-as-mismatch-hold-disposition",
+    "/api/invent-print-125-as-mismatch-hold-disposition",
+    "/api/invent-hold-123-as-mismatch-hold-disposition",
+    "/api/kit-print-119-as-mismatch-hold-disposition",
+    "/api/allowlist-120-as-mismatch-hold-disposition",
+    "/api/flight15/mismatch-auto-pick-mismatch-hold-disposition",
+    "/api/flight15/cyan-live-from-mismatch-hold-disposition",
+    "/api/flight15/fabricate-refusal-from-mismatch-hold-disposition",
+    "/api/flight15/hold-timeout-mismatch-hold-disposition",
+    "/api/print-also-refused-by-mismatch-hold-disposition/cousin-merge",
+    "/api/print-also-refused-by-mismatch-hold-disposition/mismatch-auto-pick",
+    "/api/print-also-refused-by-mismatch-hold-disposition/cyan-live",
+    "/api/print-also-refused-by-mismatch-hold-disposition/fabricate-refusal",
+    "/api/print-also-refused-by-mismatch-hold-disposition/hold-timeout",
+    "/api/print-also-refused-by-mismatch-hold-disposition/attach-matching-fabricate",
+    "/api/print-also-refused-by-mismatch-hold-disposition/127-merge",
+    "/api/print-also-refused-by-mismatch-hold-disposition/121-merge",
+    "/api/print-also-refused-by-mismatch-hold-disposition/143-merge",
+    "/api/print-also-refused-by-mismatch-hold-disposition/142-merge",
+    "/api/print-also-refused-by-mismatch-hold-disposition/141-merge",
+    "/api/print-also-refused-by-mismatch-hold-disposition/126-merge",
+    "/api/merge-mismatch-hold-disposition-cyan-live",
+    "/api/silent-merge-mismatch-hold-disposition-cyan-live",
+    "/api/auto-text-from-mismatch-hold-disposition",
+    "/api/auto-print-from-mismatch-hold-disposition"
+  ],
+  "scorecard": {
+    "mismatch_auto_pick": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "print_also_refused_by_mismatch_hold_disposition",
+      "mismatch_auto_pick",
+      "fabricate_refusal",
+      "hold_timeout_refusal",
+      "fake_live_refusal",
+      "dual_proof_required",
+      "attach_matching_digest"
+    ],
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "Print also_refused_by dual-digest mismatch Hold (pair — owns Hold when A ≠ B; this brief owns disposition board only)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition",
+        "print_kit_dual_digest_live"
+      ],
+      "role": "Print also_refused_by dual-digest (pair — owns matching dual digests before cyan LIVE; disposition never waives dual proof)"
+    },
+    "brief_143": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition",
+        "live_print_kit_pipeline_paint"
+      ],
+      "role": "Cousin also_refused_by live_print_kit_pipeline_paint (cousin — refusal ledger ≠ mismatch disposition)"
+    },
+    "brief_142": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition",
+        "named_off_list_digest_pipeline_disposition"
+      ],
+      "role": "Named off-list disposition board (cousin — off-list disposition ≠ print mismatch disposition)"
+    },
+    "brief_141": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition",
+        "pipeline_aware_mismatch_hold"
+      ],
+      "role": "Pipeline-aware mismatch Hold (cousin — pipeline-aware Hold ≠ print mismatch disposition board)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named print also_refused_by digest-pipeline allow-list (cousin — allow-list membership ≠ disposition)"
+    },
+    "brief_140": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "invent-Hold / off-list → invent-print-reason Apply (cousin overlap)"
+    },
+    "brief_139": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "Invent-print dual-digest proof (cousin overlap)"
+    },
+    "brief_138": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "Invent-print Apply surface (cousin overlap)"
+    },
+    "brief_137": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition",
+        "live_off_list_print_kit_reason_paint"
+      ],
+      "role": "LIVE off-list paint (cousin — never cyan from disposition)"
+    },
+    "brief_136": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "Off-list mismatch Hold (cousin overlap)"
+    },
+    "brief_135": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "Off-list digest-pipeline (cousin overlap)"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "invent-print-reason Hold (cousin overlap)"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "invent-Hold timeout (cousin overlap)"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "invent-Hold dual-digest (cousin overlap)"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "print_kit_live_apply (cousin overlap)"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "LIVE→print_kit dual-digest (cousin overlap)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "LIVE-Apply surface (cousin overlap)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "LIVE print_kit paint (cousin overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "invent-print-reason Apply (cousin overlap)"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "Off-list dual-digest (cousin overlap)"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "invent-Hold (cousin overlap)"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "LIVE cousin (cousin overlap)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (cousin overlap)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (cousin overlap)"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "Refusal ledger dual-digest (cousin overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "snack also_refused_by (cousin overlap)"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "Flight15 also_refused_by (cousin overlap)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "Flight15 kit / text (cousin overlap)"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "webcast LIVE (cousin overlap)"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "print_also_refused_by_mismatch_hold_disposition"
+      ],
+      "role": "clash LIVE (cousin overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Digest A ≠ digest B Hold open ⇒ disposition reject / re-fetch digests / attach-matching-digest only. Never cyan LIVE. Never auto-pick. mismatch_auto_pick=0. fabricate_refusal=0. hold_timeout_refusal=0. dual_proof_required=1. fake_live_refusal=0. invent_pipeline=0. off_allowlist_pipeline=0. allowlist_pipelines_only=1. review_private_default=1. merge_apply=false. also_refused_by print_also_refused_by_mismatch_hold_disposition. Never burn outbound.",
+  "print_also_refused_by_mismatch_hold_disposition_board_example": {
+    "schema": "print_also_refused_by_mismatch_hold_disposition_board/v1",
+    "timezone": "America/New_York",
+    "place": "Hometown, MD",
+    "mismatch_auto_pick": 0,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "review_private_default": 1,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "merge_apply": false,
+    "burn_outbound": 0,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "also_refused_by": [
+      "print_also_refused_by_mismatch_hold_disposition",
+      "mismatch_auto_pick",
+      "fabricate_refusal",
+      "hold_timeout_refusal",
+      "fake_live_refusal",
+      "dual_proof_required",
+      "attach_matching_digest"
+    ],
+    "example_mismatch_disposition": {
+      "hold_id": "hold_mismatch_print_kit_f15_EXAMPLE",
+      "digest_a": {
+        "pipeline": "on_disk_row_sha256",
+        "sha256": "aaa…EXAMPLE",
+        "fetched_at": "2026-10-27T12:00:00-04:00"
+      },
+      "digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "sha256": "bbb…EXAMPLE",
+        "fetched_at": "2026-10-27T12:00:05-04:00"
+      },
+      "match": false,
+      "hold_state": "open",
+      "disposition": "reject",
+      "allowed_dispositions": [
+        "reject",
+        "re-fetch digests",
+        "attach-matching-digest"
+      ],
+      "cyan_live": false,
+      "auto_pick": false,
+      "live_paint_authorized": false,
+      "invented": false,
+      "review": "review_private",
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — digest A ≠ digest B; disposition reject (or re-fetch digests / attach-matching-digest); never cyan LIVE; never auto-pick (pairs brief-127 + brief-121)"
+    },
+    "example_attach_matching": {
+      "hold_id": "hold_mismatch_print_kit_f15_EXAMPLE",
+      "disposition": "attach-matching-digest",
+      "fabricate_digest": 0,
+      "auto_pick": false,
+      "live_paint_authorized": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — attach-matching-digest requires a second independent matching digest; never invent digest B; never auto-pick; dual_proof_required=1 still"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "status": "EXAMPLE",
+      "live_badge": false,
+      "refusal_id": null
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "reason": "print_also_refused_by_mismatch_hold_disposition",
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false
+    },
+    "pairs": [
+      "brief-127",
+      "brief-121"
+    ],
+    "preferred_fold": ":4335"
+  }
+}

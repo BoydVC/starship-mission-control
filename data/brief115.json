@@ -1,0 +1,261 @@
+{
+  "brief_id": "brief-115",
+  "title": "Off-Allowlist Vendor Refusal Ledger \u2014 Hometown Named Refusal Reasons When Off-List Vendor Proposed Under Snack Hold; Never Off-Allowlist Order / Allowlist Only",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-115.md + peer-review-115.json + citations-115.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 304,
+  "citations_passed": true,
+  "pipeline_version": "v1.114.0",
+  "pairs": [
+    "brief-097"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": [
+    "EXAMPLE named refusal reasons when off-list vendor under snack Hold \u2014 never invent reason codes / never cyan LIVE refusal from fixture",
+    "off_allowlist_order=0 / allowlist_only=1 / burn_outbound=0 / invent_refusal_reason=0 / fabricate_refusal=0 / fake_live_refusal=0",
+    "auto_order_snacks=0 / auto_checkout=0 / silent_cart_submit=0 / auto_reorder_snacks=0 / hold_timeout_order=0 / auto_text_kids=0 / auto_text_snack=0",
+    "Pairs brief-097; cousins brief-097+114+091(+098) merge_apply=false",
+    "also_refused_by on overlapping snack / LIVE-order / kit / Flight15 Apply surfaces",
+    "Personal household only \u2014 not KPD; America/New_York; Hometown"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_snack",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "named_refusal_reasons": [
+    "vendor_not_on_allowlist",
+    "unknown_vendor_surface",
+    "marketplace_not_approved",
+    "vendor_id_mismatch",
+    "allowlist_row_missing"
+  ],
+  "refused_endpoints": [
+    "/api/invent-refusal-reason",
+    "/api/off-allowlist-vendor",
+    "/api/off-allowlist-order",
+    "/api/snack/off-allowlist",
+    "/api/snack/invent-refusal-reason",
+    "/api/vendor/off-allowlist",
+    "/api/vendor/invent-refusal",
+    "/api/refusal/invent-reason",
+    "/api/off-allowlist-vendor/checkout",
+    "/api/off-allowlist-vendor/order",
+    "/api/fabricate-vendor-refusal",
+    "/api/fake-live-vendor-refusal",
+    "/api/invent-named-refusal",
+    "/api/allowlist/vendor-order-bypass"
+  ],
+  "scorecard": {
+    "off_allowlist_order": 0,
+    "allowlist_only": 1,
+    "burn_outbound": 0,
+    "invent_refusal_reason": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "auto_order_snacks": 0,
+    "auto_checkout": 0,
+    "silent_cart_submit": 0,
+    "auto_reorder_snacks": 0,
+    "hold_timeout_order": 0,
+    "auto_text_kids": 0,
+    "auto_text_snack": 0,
+    "fabricate_order": 0,
+    "fake_live_order": 0,
+    "merge_apply": false
+  },
+  "cousins": {
+    "brief_097": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_allowlist_refusal",
+        "snack_order"
+      ],
+      "role": "Flight 15 snack Hold allow-list"
+    },
+    "brief_114": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_allowlist_refusal",
+        "live_order_paint"
+      ],
+      "role": "snack cart digest dual-proof / LIVE order paint"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_allowlist_refusal",
+        "flight15_text"
+      ],
+      "role": "Flight 15 family alert kit"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_allowlist_refusal",
+        "flight15_text_apply"
+      ],
+      "role": "Flight15 also_refused_by (overlap)"
+    },
+    "brief_113": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_allowlist_refusal",
+        "live_t0_paint"
+      ],
+      "role": "cousin also_refused_by LIVE T-0 paint (overlap)"
+    },
+    "brief_112": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_allowlist_refusal",
+        "mismatch_hold_apply"
+      ],
+      "role": "dual-proof mismatch Hold (overlap)"
+    },
+    "brief_111": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_allowlist_refusal",
+        "t0_allowlist_apply"
+      ],
+      "role": "T-0 source allow-list (overlap)"
+    },
+    "brief_096": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "off_allowlist_refusal",
+        "live_t0_paint"
+      ],
+      "role": "Flight 15 T-0 dual-proof strip (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Named refusal reasons when off-list vendor proposed under snack Hold. Never off-allowlist order. Allowlist only. Never invent reason codes. Never fabricate LIVE refusal. Never auto-order/checkout. Never burn outbound.",
+  "off_allowlist_vendor_refusal_ledger_example": {
+    "schema": "off_allowlist_vendor_refusal_ledger/v1",
+    "timezone": "America/New_York",
+    "place": "Hometown, MD",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 rows are SYNTHETIC; never invent reason codes; never cyan LIVE refusal from fixture",
+    "scorecard": {
+      "off_allowlist_order": 0,
+      "allowlist_only": 1,
+      "burn_outbound": 0,
+      "invent_refusal_reason": 0,
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "auto_order_snacks": 0,
+      "auto_checkout": 0,
+      "silent_cart_submit": 0,
+      "auto_reorder_snacks": 0,
+      "hold_timeout_order": 0,
+      "auto_text_kids": 0,
+      "auto_text_snack": 0,
+      "fabricate_order": 0,
+      "fake_live_order": 0,
+      "merge_apply": false
+    },
+    "named_refusal_reasons": [
+      "vendor_not_on_allowlist",
+      "unknown_vendor_surface",
+      "marketplace_not_approved",
+      "vendor_id_mismatch",
+      "allowlist_row_missing"
+    ],
+    "rows": [
+      {
+        "id": "refusal_EXAMPLE_001",
+        "proposed_vendor": "Postmates_EXAMPLE",
+        "reason": "vendor_not_on_allowlist",
+        "proposed_at": "2026-10-27T20:05:00-04:00",
+        "hold_id": "hold_snack_EXAMPLE",
+        "honesty": "SYNTHETIC",
+        "status": "EXAMPLE",
+        "live_paint": false,
+        "live_badge": false
+      }
+    ],
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 rows are SYNTHETIC; fabricate_refusal=0 / fake_live_refusal=0",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "cousins": {
+      "brief-097": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "off_allowlist_refusal",
+          "snack_order"
+        ],
+        "role": "Flight 15 snack Hold allow-list"
+      },
+      "brief-114": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "off_allowlist_refusal",
+          "live_order_paint"
+        ],
+        "role": "snack cart digest dual-proof"
+      },
+      "brief-091": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "off_allowlist_refusal",
+          "flight15_text"
+        ],
+        "role": "Flight 15 family alert kit"
+      },
+      "brief-098": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "off_allowlist_refusal",
+          "flight15_text_apply"
+        ],
+        "role": "Flight15 also_refused_by"
+      }
+    },
+    "hold": {
+      "state": "HOLD",
+      "destination": null,
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_snack",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "created_at": null,
+      "expires_at": null,
+      "review_private": true,
+      "timeout_becomes_order": false,
+      "auto_order": null,
+      "auto_checkout": null,
+      "cousin_ack": {
+        "brief_097": false,
+        "brief_114": false,
+        "brief_091": false,
+        "brief_098": false,
+        "brief_113": false,
+        "brief_112": false,
+        "brief_111": false,
+        "brief_096": false
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "off_allowlist_vendor_refusal_ledger.json",
+      "etag": "EXAMPLE_CAS"
+    }
+  }
+}

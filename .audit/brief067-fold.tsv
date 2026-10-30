@@ -1,0 +1,10 @@
+ts	phase	decision	why	evidence	result
+2026-10-27T05:25:14-04:00	start	brief-067 fold into Starship Mission Control :4335	weekly burn fold; mirror brief-061/064 patterns	agent-brief-forge/out/brief-067.md	open
+2026-10-27T05:25:41-04:00	artifact	wrote data/brief067.json with EXAMPLE kit + snack/print Holds + scorecard zeros	brief data model §4; never fabricate LIVE T-0	data/brief067.json	ok
+2026-10-27T05:26:04-04:00	server	patched server.py with BRIEF067 REFUSED067 payload refuse routes health	prefer brief-067 refuse with also_refused_by on overlaps	server.py	ok
+2026-10-27T05:26:39-04:00	ui-smoke	added brief067 UI panel JS loader README fold note smoke section	mirror brief-064 fold surface	static/index.html static/app.js README.md smoke_test.sh	ok
+2026-10-27T05:26:45-04:00	restart	narrow kill pid 870866 then ./run.sh start	verified cwd+server.py+4335 before kill; never broad pkill	data/server.pid	pid 870866->885888
+2026-10-27T05:26:55-04:00	fix	smoke preference check now curls /api/fabricate-t0 explicitly	loop overwrote refuse json with countdown/auto-print empty also_refused_by	smoke_test.sh	fixed
+2026-10-27T05:27:15-04:00	verify	smoke_test.sh 164/164 PASS (0 fail)	all prior folds still green; brief-067 gates zero	/tmp/smc-smoke067c.log	tests green 164/164
+2026-10-27T05:27:15-04:00	done	brief-067 fold complete on Starship :4335	weekly burn deliverables met; no invent fallback	.audit/brief067-fold.tsv	164/164 PASS pid 885888
+2026-10-27T05:27:29-04:00	audit	trail matches work; no transcript dir on box for cross-check; no Task/subagent tool in executor	show-me-your-work audit + cross-model review limited in executor context	.audit/brief067-fold.tsv	INCONCLUSIVE transcript; review skipped

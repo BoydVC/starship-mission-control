@@ -1,0 +1,326 @@
+{
+  "brief_id": "brief-133",
+  "title": "Invent-Hold Timeout Disposition Board — Hometown Board When invent-Hold Expires (disposition = reject / route-to-allowlist-extension / attach-allowlisted-code Only; Never Cyan LIVE); hold_timeout_refusal=0 / review_private_default=1",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-133.md + peer-review-133.json + citations-133.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 314,
+  "citations_passed": true,
+  "pipeline_version": "v1.132.0",
+  "pairs": [
+    "brief-123",
+    "brief-120"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": [
+    "EXAMPLE invent-Hold timeout disposition board when invent-Hold expires — disposition ∈ {reject, route_to_allowlist_extension, attach_allowlisted_code} only; never cyan LIVE from timeout",
+    "hold_timeout_refusal=0 / review_private_default=1 / invent_refusal_reason=0 / fabricate_refusal=0 / fake_live_refusal=0 / disposition_allowlist_only=1 / timeout_to_live=0 / auto_disposition=0 / burn_outbound=0",
+    "single_digest_live=0 / dual_proof_required=1 / merge_apply=false / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / also_refused_by invent_hold_timeout_disposition",
+    "Pairs brief-123 + brief-120; cousins brief-132/131/130/129/128/127/126/125/121/119 merge_apply=false",
+    "also_refused_by on overlapping invent-Hold timeout disposition paths; prefer 133 on invent-Hold timeout disposition board paths",
+    "Personal household only — not KPD; America/New_York; Hometown"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "disposition_allowlist": [
+    "reject",
+    "route_to_allowlist_extension",
+    "attach_allowlisted_code"
+  ],
+  "refused_endpoints": [
+    "/api/timeout-to-live-invent-hold-disposition",
+    "/api/invent-hold-timeout-as-cyan-live",
+    "/api/auto-disposition-invent-hold-timeout",
+    "/api/invent-disposition-code-timeout",
+    "/api/offlist-reason-mint-on-timeout",
+    "/api/fabricate-invent-hold-timeout-refusal",
+    "/api/fake-live-invent-hold-timeout",
+    "/api/single-digest-invent-hold-timeout-live",
+    "/api/cousin-apply-as-invent-hold-timeout-live",
+    "/api/silent-merge-cousin-invent-hold-timeout",
+    "/api/allowlist-120-as-timeout-disposition-live",
+    "/api/invent-hold-123-as-timeout-live",
+    "/api/dual-digest-132-as-timeout-live",
+    "/api/invent-print-as-timeout-disposition-live",
+    "/api/live-print-kit-as-timeout-disposition",
+    "/api/print-kit-live-apply-as-timeout-disposition",
+    "/api/surface-allowlist-as-timeout-disposition",
+    "/api/paint-as-timeout-disposition",
+    "/api/mismatch-hold-as-timeout-disposition",
+    "/api/pipeline-allowlist-as-timeout-disposition",
+    "/api/invent-print-reason-apply-as-timeout-disposition",
+    "/api/dual-digest-print-as-timeout-disposition",
+    "/api/kit-print-as-timeout-disposition",
+    "/api/flight15/invent-hold-timeout-as-cyan-live",
+    "/api/flight15/auto-disposition-invent-hold-timeout",
+    "/api/invent-hold-timeout-disposition/timeout-to-live",
+    "/api/invent-hold-timeout-disposition/auto-disposition",
+    "/api/invent-hold-timeout-disposition/invent-code",
+    "/api/invent-hold-timeout-disposition/fabricate-refusal",
+    "/api/invent-hold-timeout-disposition/fake-live",
+    "/api/invent-hold-timeout-disposition/cousin-merge",
+    "/api/invent-hold-timeout-disposition/123-merge",
+    "/api/invent-hold-timeout-disposition/120-merge",
+    "/api/invent-hold-timeout-disposition/132-merge",
+    "/api/invent-hold-timeout-disposition/131-merge",
+    "/api/merge-invent-hold-timeout-cyan-live",
+    "/api/silent-merge-invent-hold-timeout-cyan-live",
+    "/api/auto-text-from-invent-hold-timeout",
+    "/api/auto-print-from-invent-hold-timeout",
+    "/api/invent-refusal-reason-as-timeout-disposition"
+  ],
+  "scorecard": {
+    "hold_timeout_refusal": 0,
+    "review_private_default": 1,
+    "invent_refusal_reason": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "disposition_allowlist_only": 1,
+    "timeout_to_live": 0,
+    "auto_disposition": 0,
+    "single_digest_live": 0,
+    "dual_proof_required": 1,
+    "merge_apply": false,
+    "also_refused_by": [
+      "invent_hold_timeout_disposition",
+      "invent_hold",
+      "timeout_to_live",
+      "auto_disposition",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "invent_refusal_reason"
+    ],
+    "burn_outbound": 0,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "silent_merge_apply": 0
+  },
+  "cousins": {
+    "brief_123": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition",
+        "invent_hold"
+      ],
+      "role": "Invented print_kit refusal-reason Hold (pair — owns Hold when off-list reason proposed; this brief owns named dispositions when that Hold expires)"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition"
+      ],
+      "role": "Named print_kit refusal-reason allow-list (pair — membership ≠ timeout disposition LIVE; route_to_allowlist_extension opens Hold, never silent extend)"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition",
+        "invent_hold_dual_digest"
+      ],
+      "role": "Print invent-Hold dual-digest proof (cousin — dual digests before invent-Hold disposition ≠ timeout disposition LIVE)"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition",
+        "print_kit_live_apply"
+      ],
+      "role": "Cousin invent-print / dual-digest LIVE paint as print_kit_live_apply (overlap)"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition"
+      ],
+      "role": "LIVE→print_kit dual-digest proof strip (overlap)"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition",
+        "live_apply_surface_allowlist"
+      ],
+      "role": "Named LIVE-Apply surface allow-list (overlap)"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition",
+        "live_print_kit_refusal_paint"
+      ],
+      "role": "Cousin dual-digest LIVE print_kit also_refused_by paint (overlap)"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition",
+        "dual_digest_mismatch_hold"
+      ],
+      "role": "Print also_refused_by dual-digest mismatch Hold (overlap)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition",
+        "digest_pipeline_allowlist"
+      ],
+      "role": "Named digest-pipeline allow-list (overlap)"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition",
+        "invent_print_reason_apply"
+      ],
+      "role": "Cousin invent-print-reason Apply (overlap)"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition",
+        "dual_digest_live_apply"
+      ],
+      "role": "Print also_refused_by dual-digest (overlap)"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition",
+        "kit_print_apply"
+      ],
+      "role": "Flight15 kit print also_refused_by (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "When invent-Hold expires, disposition ∈ {reject, route_to_allowlist_extension, attach_allowlisted_code} only. Never cyan LIVE from timeout. hold_timeout_refusal=0. review_private_default=1. invent_refusal_reason=0. fabricate_refusal=0. auto_disposition=0. timeout_to_live=0. disposition_allowlist_only=1. merge_apply=false. also_refused_by invent_hold_timeout_disposition. Never burn outbound.",
+  "invent_hold_timeout_disposition_example": {
+    "schema": "invent_hold_timeout_disposition/v1",
+    "timezone": "America/New_York",
+    "place": "Hometown, MD",
+    "hold_timeout_refusal": 0,
+    "review_private_default": 1,
+    "invent_refusal_reason": 0,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "disposition_allowlist": [
+      "reject",
+      "route_to_allowlist_extension",
+      "attach_allowlisted_code"
+    ],
+    "also_refused_by": [
+      "invent_hold_timeout_disposition",
+      "invent_hold",
+      "timeout_to_live",
+      "auto_disposition",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "invent_refusal_reason"
+    ],
+    "example_timeout": {
+      "row_id": "invent_hold_timeout_SYNTHETIC",
+      "trigger": "invent-Hold expired (brief-123) after off-list print_kit reason proposed",
+      "proposed_reason_code": "EXAMPLE_OFFLIST_991",
+      "allowlist_member": false,
+      "hold_opened_at": "2026-10-27T10:30:00-04:00",
+      "hold_expires_at": "2026-10-27T11:30:00-04:00",
+      "expired": true,
+      "disposition_eligible": [
+        "reject",
+        "route_to_allowlist_extension",
+        "attach_allowlisted_code"
+      ],
+      "chosen_disposition": null,
+      "live_paint_authorized": false,
+      "honesty": "SYNTHETIC — invent-Hold expired EXAMPLE only; never cyan LIVE from timeout; human Apply still required for any disposition; never invent reason"
+    },
+    "scorecard": {
+      "hold_timeout_refusal": 0,
+      "review_private_default": 1,
+      "invent_refusal_reason": 0,
+      "fabricate_refusal": 0,
+      "fake_live_refusal": 0,
+      "disposition_allowlist_only": 1,
+      "timeout_to_live": 0,
+      "auto_disposition": 0,
+      "single_digest_live": 0,
+      "dual_proof_required": 1,
+      "merge_apply": false,
+      "also_refused_by": [
+        "invent_hold_timeout_disposition",
+        "invent_hold",
+        "timeout_to_live",
+        "auto_disposition",
+        "fabricate_refusal",
+        "fake_live_refusal",
+        "invent_refusal_reason"
+      ],
+      "burn_outbound": 0,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "auto_text_print": 0,
+      "silent_merge_apply": 0
+    },
+    "pairs": [
+      "brief-123",
+      "brief-120"
+    ],
+    "cousins_merge_apply_false": [
+      "brief-132",
+      "brief-131",
+      "brief-130",
+      "brief-129",
+      "brief-128",
+      "brief-127",
+      "brief-126",
+      "brief-125",
+      "brief-121",
+      "brief-119"
+    ],
+    "preferred_fold": ":4335",
+    "honesty": "EXAMPLE/SYNTHETIC — invent-Hold timeout disposition EXAMPLE only; never cyan LIVE from timeout; never invent disposition codes; hold_timeout_refusal=0; review_private_default=1; invent_refusal_reason=0; fabricate_refusal=0; timeout_to_live=0; auto_disposition=0; disposition_allowlist_only=1; merge_apply=false; also_refused_by invent_hold_timeout_disposition",
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "destination": null,
+      "auto_paint": null,
+      "auto_text": null,
+      "auto_disposition": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false,
+      "reason": "awaiting_human_disposition_after_invent_hold_timeout"
+    },
+    "live_refusal_row_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE — invent-Hold timeout never paints cyan LIVE alone; hold_timeout_refusal=0; timeout_to_live=0; invent_refusal_reason=0; fabricate_refusal=0; fake_live_refusal=0; auto_disposition=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE — invent-Hold timeout never paints cyan LIVE alone; hold_timeout_refusal=0; timeout_to_live=0; invent_refusal_reason=0; fabricate_refusal=0; fake_live_refusal=0; auto_disposition=0; merge_apply=false",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    }
+  }
+}

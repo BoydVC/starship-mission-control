@@ -1,0 +1,370 @@
+{
+  "brief_id": "brief-150",
+  "title": "Named Off-List Digest-Pipeline Disposition Board for live_print_kit_refusal_paint Dual-Proof — Hometown Board When Proposed Digest Pipeline ∉ Allow-List under live_print_kit_refusal_paint Dual-Proof (disposition = reject / route-to-allowlist-extension only; Never Cyan LIVE; Never Invent Pipeline); invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / dual_proof_required=1 / fabricate_digest=0 / single_digest_live=0 / fabricate_refusal=0 / fake_live_refusal=0 / burn_outbound=0 / review_private_default=1 / merge_apply=false; pairs brief-149 + brief-148 + brief-126",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-150.md + peer-review-150.json + citations-150.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 328,
+  "citations_passed": true,
+  "pipeline_version": "v1.149.0",
+  "pairs": [
+    "brief-149",
+    "brief-148",
+    "brief-126"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": [
+    "EXAMPLE Named off-list digest-pipeline disposition board for live_print_kit_refusal_paint dual-proof — when proposed digest pipeline ∉ brief-149 allow-list ⇒ disposition reject / route-to-allowlist-extension only; invent_pipeline=0; off_allowlist_pipeline=0; allowlist_pipelines_only=1; never cyan LIVE from off-list; never invent pipeline; still dual_proof_required=1 / merge_apply=false / also_refused_by live_print_kit_refusal_paint",
+    "invent_pipeline=0 / off_allowlist_pipeline=0 / allowlist_pipelines_only=1 / fabricate_refusal=0 / hold_timeout_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / fabricate_digest=0 / reuse_stale_digest=0 / single_digest_live=0 / burn_outbound=0 / review_private_default=1 / auto_text_kids=0 / auto_text_flight15=0 / auto_text_print=0 / silent_merge_apply=0",
+    "merge_apply=false / also_refused_by live_print_kit_refusal_paint / disposition=reject|route-to-allowlist-extension / digest_pipelines=on_disk_row_sha256|apply_ledger_row_digest|cas_store|git_object_id",
+    "Pairs brief-149 + brief-148 + brief-126; cousins brief-147/146/145/144/143/142/141/140…129/127/125…120/119 (+117/116/098/091/085/088) merge_apply=false",
+    "Prefer 150 on live_print_kit_refusal_paint off-list digest-pipeline disposition paths; keep unique prior ownership (149 digest-pipeline allow-list, 148 dual-proof strip, 147 Apply surface allow-list, 146 mismatch_auto_pick_or_fabricate, 145 Apply surface allow-list, 144 disposition board, 143 live_print_kit_pipeline_paint, 142 off-list disposition, 141 pipeline-aware mismatch Hold, 127 mismatch Hold open, 121 dual-digest)",
+    "Personal household only — not KPD; America/New_York; Hometown"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/invent-pipeline-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/off-allowlist-pipeline-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/cyan-live-from-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/auto-mint-allowlist-extension-from-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/fabricate-refusal-from-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/fabricate-digest-via-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/hold-timeout-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition-hold-timeout-live",
+    "/api/fake-live-from-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/single-digest-after-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition-live",
+    "/api/reuse-stale-digest-after-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/cousin-apply-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/silent-merge-cousin-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/dual-proof-148-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/paint-128-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/pipeline-allowlist-126-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/digest-pipeline-allowlist-149-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/apply-surface-147-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/mismatch-auto-pick-or-fabricate-146-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/apply-surface-145-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/disposition-board-144-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/live-print-kit-pipeline-paint-143-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/off-list-disposition-142-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/pipeline-aware-mismatch-141-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/mismatch-hold-127-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/dual-digest-121-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/kit-print-119-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/surface-allowlist-138-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/invent-hold-offlist-140-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/dual-digest-proof-139-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/live-off-list-paint-137-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/off-list-mismatch-136-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/off-list-pipeline-135-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/invent-print-125-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/invent-hold-123-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/allowlist-120-as-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/invent-pipeline",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/off-allowlist-pipeline",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/cyan-live",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/auto-mint",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/fabricate-refusal",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/fake-live-refusal",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/single-digest",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/fabricate-digest",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/reuse-stale-digest",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/hold-timeout",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/cousin-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/149-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/148-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/147-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/146-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/145-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/144-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/143-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/142-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/141-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/128-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/127-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/126-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/121-merge",
+    "/api/live-print-kit-refusal-paint-off-list-digest-pipeline-disposition/119-merge",
+    "/api/flight15/invent-pipeline-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/flight15/off-allowlist-pipeline-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/flight15/cyan-live-from-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/flight15/fabricate-refusal-from-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/flight15/hold-timeout-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/merge-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition-cyan-live",
+    "/api/silent-merge-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition-cyan-live",
+    "/api/auto-text-from-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition",
+    "/api/auto-print-from-live-print-kit-refusal-paint-off-list-digest-pipeline-disposition"
+  ],
+  "scorecard": {
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "fabricate_refusal": 0,
+    "hold_timeout_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "burn_outbound": 0,
+    "review_private_default": 1,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "auto_text_print": 0,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "silent_merge_apply": 0,
+    "merge_apply": false,
+    "also_refused_by": [
+      "live_print_kit_refusal_paint",
+      "live_print_kit_refusal_paint_off_list_digest_pipeline_disposition",
+      "named_off_list_digest_pipeline_disposition",
+      "invent_pipeline",
+      "off_allowlist_pipeline",
+      "allowlist_pipelines_only",
+      "fabricate_refusal",
+      "fake_live_refusal",
+      "hold_timeout_refusal",
+      "dual_proof_required",
+      "single_digest_live",
+      "fabricate_digest"
+    ],
+    "digest_pipelines": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "allowed_dispositions": [
+      "reject",
+      "route-to-allowlist-extension"
+    ]
+  },
+  "cousins": {
+    "brief_149": {
+      "merge_apply": false,
+      "role": "Named digest-pipeline allow-list for live_print_kit_refusal_paint dual-proof (pair)"
+    },
+    "brief_148": {
+      "merge_apply": false,
+      "role": "Dual-digest LIVE print_kit also_refused_by paint dual-proof strip (pair)"
+    },
+    "brief_126": {
+      "merge_apply": false,
+      "role": "Named print also_refused_by digest-pipeline allow-list (pair)"
+    },
+    "brief_147": {
+      "merge_apply": false,
+      "role": "Named live_print_kit_refusal_paint Apply surface allow-list"
+    },
+    "brief_146": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by mismatch_auto_pick_or_fabricate"
+    },
+    "brief_145": {
+      "merge_apply": false,
+      "role": "Named mismatch-Hold Apply surface allow-list"
+    },
+    "brief_144": {
+      "merge_apply": false,
+      "role": "Print mismatch Hold disposition board"
+    },
+    "brief_143": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by live_print_kit_pipeline_paint"
+    },
+    "brief_142": {
+      "merge_apply": false,
+      "role": "Named off-list disposition board (generic)"
+    },
+    "brief_141": {
+      "merge_apply": false,
+      "role": "pipeline-aware mismatch Hold"
+    },
+    "brief_140": {
+      "merge_apply": false,
+      "role": "invent-print Apply cousin"
+    },
+    "brief_139": {
+      "merge_apply": false,
+      "role": "invent-print dual-digest"
+    },
+    "brief_138": {
+      "merge_apply": false,
+      "role": "invent Apply surface"
+    },
+    "brief_137": {
+      "merge_apply": false,
+      "role": "LIVE off-list paint"
+    },
+    "brief_136": {
+      "merge_apply": false,
+      "role": "Off-list mismatch Hold"
+    },
+    "brief_135": {
+      "merge_apply": false,
+      "role": "off-list digest-pipeline"
+    },
+    "brief_134": {
+      "merge_apply": false,
+      "role": "invent-print-reason Hold also_refused_by"
+    },
+    "brief_133": {
+      "merge_apply": false,
+      "role": "invent-Hold timeout"
+    },
+    "brief_132": {
+      "merge_apply": false,
+      "role": "invent-Hold dual-digest"
+    },
+    "brief_131": {
+      "merge_apply": false,
+      "role": "invent-print LIVE paint"
+    },
+    "brief_130": {
+      "merge_apply": false,
+      "role": "LIVE→print_kit dual-digest"
+    },
+    "brief_129": {
+      "merge_apply": false,
+      "role": "LIVE-Apply surface"
+    },
+    "brief_128": {
+      "merge_apply": false,
+      "role": "Cousin also_refused_by live_print_kit_refusal_paint"
+    },
+    "brief_127": {
+      "merge_apply": false,
+      "role": "Print also_refused_by dual-digest mismatch Hold"
+    },
+    "brief_125": {
+      "merge_apply": false,
+      "role": "invent-print-reason Apply cousin"
+    },
+    "brief_124": {
+      "merge_apply": false,
+      "role": "off-list print_kit reason dual-digest"
+    },
+    "brief_123": {
+      "merge_apply": false,
+      "role": "invent-Hold print_kit reason"
+    },
+    "brief_122": {
+      "merge_apply": false,
+      "role": "LIVE cousin"
+    },
+    "brief_121": {
+      "merge_apply": false,
+      "role": "Print also_refused_by dual-digest"
+    },
+    "brief_120": {
+      "merge_apply": false,
+      "role": "Named print_kit refusal-reason allow-list"
+    },
+    "brief_119": {
+      "merge_apply": false,
+      "role": "Flight15 kit print also_refused_by"
+    },
+    "brief_117": {
+      "merge_apply": false,
+      "role": "Refusal ledger dual-digest"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "role": "snack also_refused_by"
+    },
+    "brief_098": {
+      "merge_apply": false,
+      "role": "also_refused_by cousin"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "role": "Flight15 kit"
+    },
+    "brief_085": {
+      "merge_apply": false,
+      "role": "webcast cousin"
+    },
+    "brief_088": {
+      "merge_apply": false,
+      "role": "clash cousin"
+    }
+  },
+  "live_print_kit_refusal_paint_off_list_digest_pipeline_disposition_board_example": {
+    "schema": "live_print_kit_refusal_paint_off_list_digest_pipeline_disposition_board/v1",
+    "timezone": "America/New_York",
+    "place": "Hometown, MD",
+    "also_refused_by": "live_print_kit_refusal_paint",
+    "invent_pipeline": 0,
+    "off_allowlist_pipeline": 0,
+    "allowlist_pipelines_only": 1,
+    "review_private_default": 1,
+    "single_digest_live": 0,
+    "fabricate_digest": 0,
+    "dual_proof_required": 1,
+    "merge_apply": false,
+    "allow_list": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "digest_pipelines": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "example_off_list_disposition": {
+      "proposed_pipeline": "vendor_receipt_sha_SYNTHETIC",
+      "in_allow_list": false,
+      "disposition": "reject",
+      "allowed_dispositions": [
+        "reject",
+        "route-to-allowlist-extension"
+      ],
+      "hold": {
+        "kind": "review_private",
+        "reason": "off_allowlist_pipeline",
+        "opened_at": "2026-10-27T12:45:00-04:00",
+        "state": "HOLD"
+      },
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "invented": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — proposed pipeline ∉ allow-list under live_print_kit_refusal_paint; disposition reject (or route-to-allowlist-extension); never cyan LIVE; never invent pipeline (pairs brief-149 + brief-148 + brief-126)"
+    },
+    "example_route_to_extension": {
+      "proposed_pipeline": "email_body_etag_SYNTHETIC",
+      "in_allow_list": false,
+      "disposition": "route-to-allowlist-extension",
+      "extension_apply_required": true,
+      "live_paint_authorized": false,
+      "live_badge": false,
+      "status": "EXAMPLE",
+      "honesty": "SYNTHETIC — route-to-allowlist-extension still requires human Apply on brief-149 allow-list (and brief-126 if print-scoped); this board never auto-mints; never cyan LIVE"
+    },
+    "live_refusal_paint": {
+      "allowed": false,
+      "status": "EXAMPLE",
+      "live_badge": false,
+      "refusal_id": null
+    },
+    "hold": {
+      "state": "HOLD",
+      "default": "review_private",
+      "reason": "live_print_kit_refusal_paint_off_list_digest_pipeline_disposition",
+      "timeout_becomes_refusal": false,
+      "timeout_becomes_live": false,
+      "timeout_becomes_auto_mint": false
+    },
+    "preferred_fold": ":4335"
+  }
+}

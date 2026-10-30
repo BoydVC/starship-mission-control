@@ -1,0 +1,313 @@
+{
+  "brief_id": "brief-117",
+  "title": "Refusal Ledger Dual-Digest Proof Strip \u2014 Hometown Second Independent Ledger Digest Before Cyan LIVE Refusal-Row Paint; fabricate_refusal=0 / dual_proof_required=1 / fake_live_refusal=0",
+  "source": "/workspace/tokenmax/agent-brief-forge/out/brief-117.md + peer-review-117.json + citations-117.json",
+  "peer_review_verdict": "accept_with_revisions_noted",
+  "citations_count": 294,
+  "citations_passed": true,
+  "pipeline_version": "v1.116.0",
+  "pairs": [
+    "brief-098",
+    "brief-091"
+  ],
+  "timezone": "America/New_York",
+  "home": "Hometown, MD",
+  "place": "Hometown, MD",
+  "constraints": [
+    "EXAMPLE dual ledger digests before LIVE refusal-row paint \u2014 never cyan LIVE refusal from one digest / fixture / stale digest",
+    "fabricate_refusal=0 / dual_proof_required=1 / fake_live_refusal=0 / single_digest_live=0 / mismatch_auto_pick=0 / burn_outbound=0",
+    "fabricate_digest=0 / reuse_stale_digest=0 / hold_timeout_refusal=0 / auto_text_kids=0 / auto_text_flight15=0 / merge_apply=false / review_private_default=1",
+    "Pairs brief-098 + brief-091; cousins brief-098/091/096/113/116/112 merge_apply=false",
+    "also_refused_by on overlapping Flight15 refusal dual-digest / LIVE refusal-row paint surfaces",
+    "Personal household only \u2014 not KPD; America/New_York; Hometown"
+  ],
+  "notify_hold_destinations": [
+    "review_private",
+    "export_digest",
+    "text_flight15",
+    "text_kids",
+    "post_public",
+    "defer",
+    "reject"
+  ],
+  "refused_endpoints": [
+    "/api/single-digest-refusal",
+    "/api/live-refusal-row-paint",
+    "/api/refusal/single-digest",
+    "/api/refusal/live-row-paint",
+    "/api/dual-proof-refusal/skip",
+    "/api/dual-proof-refusal/fabricate",
+    "/api/fabricate-digest-refusal",
+    "/api/reuse-stale-digest-refusal",
+    "/api/hold-timeout-refusal",
+    "/api/flight15/single-digest-refusal",
+    "/api/flight15/live-refusal-row-paint",
+    "/api/ledger/single-digest-live",
+    "/api/ledger/live-refusal-row-paint",
+    "/api/mismatch-auto-pick-refusal",
+    "/api/fake-live-refusal-row"
+  ],
+  "scorecard": {
+    "fabricate_refusal": 0,
+    "dual_proof_required": 1,
+    "fake_live_refusal": 0,
+    "single_digest_live": 0,
+    "mismatch_auto_pick": 0,
+    "fabricate_digest": 0,
+    "reuse_stale_digest": 0,
+    "hold_timeout_refusal": 0,
+    "merge_apply": false,
+    "burn_outbound": 0,
+    "auto_text_kids": 0,
+    "auto_text_flight15": 0,
+    "review_private_default": 1
+  },
+  "cousins": {
+    "brief_098": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_refusal_row_paint",
+        "flight15_text_apply"
+      ],
+      "role": "Flight15 also_refused_by (pair \u2014 owns rows)"
+    },
+    "brief_091": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_refusal_row_paint",
+        "flight15_text"
+      ],
+      "role": "Flight 15 family alert kit (pair)"
+    },
+    "brief_096": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_refusal_row_paint",
+        "live_t0_paint"
+      ],
+      "role": "Flight 15 T-0 dual-proof strip (overlap)"
+    },
+    "brief_113": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_refusal_row_paint",
+        "live_t0_paint"
+      ],
+      "role": "live_t0_paint also_refused_by (overlap)"
+    },
+    "brief_116": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_refusal_row_paint",
+        "snack_order"
+      ],
+      "role": "snack also_refused_by (overlap)"
+    },
+    "brief_112": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_refusal_row_paint",
+        "mismatch_hold_apply"
+      ],
+      "role": "dual-proof mismatch Hold (overlap)"
+    },
+    "brief_114": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_refusal_row_paint",
+        "live_order_paint"
+      ],
+      "role": "snack cart dual-proof (overlap)"
+    },
+    "brief_115": {
+      "merge_apply": false,
+      "also_refused_by": [
+        "live_refusal_row_paint",
+        "off_allowlist_refusal"
+      ],
+      "role": "off-allowlist vendor refusal (overlap)"
+    }
+  },
+  "merge_apply": false,
+  "standing_rule": "Two independent matching ledger digests before cyan LIVE refusal-row. Never fabricate LIVE refusal. dual_proof_required=1. Kit Apply \u2260 refusal-row LIVE. Never burn outbound.",
+  "refusal_ledger_dual_digest_example": {
+    "schema": "refusal_ledger_dual_digest/v1",
+    "timezone": "America/New_York",
+    "place": "Hometown, MD",
+    "honesty": "EXAMPLE/SYNTHETIC \u2014 digests are SYNTHETIC; dual_proof_required unmet for LIVE; never fabricate LIVE refusal",
+    "dual_proof_required": 1,
+    "fabricate_refusal": 0,
+    "fake_live_refusal": 0,
+    "pipelines_allowlist": [
+      "on_disk_row_sha256",
+      "apply_ledger_row_digest",
+      "cas_store",
+      "git_object_id"
+    ],
+    "scorecard": {
+      "fabricate_refusal": 0,
+      "dual_proof_required": 1,
+      "fake_live_refusal": 0,
+      "single_digest_live": 0,
+      "mismatch_auto_pick": 0,
+      "fabricate_digest": 0,
+      "reuse_stale_digest": 0,
+      "hold_timeout_refusal": 0,
+      "merge_apply": false,
+      "burn_outbound": 0,
+      "auto_text_kids": 0,
+      "auto_text_flight15": 0,
+      "review_private_default": 1
+    },
+    "example_proof": {
+      "row_id": "refuse_flight15_text_from_clash_SYNTHETIC",
+      "digest_a": {
+        "pipeline": "on_disk_row_sha256",
+        "value": "EXAMPLE_DIGEST_A",
+        "fetched_at": "2026-10-27T09:00:00-04:00",
+        "honesty": "SYNTHETIC",
+        "status": "EXAMPLE",
+        "live_badge": false
+      },
+      "digest_b": {
+        "pipeline": "apply_ledger_row_digest",
+        "value": "EXAMPLE_DIGEST_A",
+        "fetched_at": "2026-10-27T09:00:01-04:00",
+        "honesty": "SYNTHETIC",
+        "status": "EXAMPLE",
+        "live_badge": false
+      },
+      "match": true,
+      "live_paint_authorized": false,
+      "honesty": "SYNTHETIC \u2014 matching digests EXAMPLE only; human Apply still required before cyan LIVE"
+    },
+    "digests": [
+      {
+        "id": "digest_a_EXAMPLE",
+        "pipeline": "on_disk_row_sha256",
+        "value": "EXAMPLE_DIGEST_A",
+        "fetched_at": "2026-10-27T09:00:00-04:00",
+        "honesty": "SYNTHETIC",
+        "status": "EXAMPLE",
+        "live_badge": false
+      },
+      {
+        "id": "digest_b_EXAMPLE",
+        "pipeline": "apply_ledger_row_digest",
+        "value": "EXAMPLE_DIGEST_A",
+        "fetched_at": "2026-10-27T09:00:01-04:00",
+        "honesty": "SYNTHETIC",
+        "status": "EXAMPLE",
+        "live_badge": false
+      }
+    ],
+    "live_refusal_row_paint": {
+      "allowed": false,
+      "reason": "EXAMPLE \u2014 digests are SYNTHETIC; dual_proof_required unmet for LIVE",
+      "live_badge": false,
+      "refusal_id": null,
+      "status": "EXAMPLE"
+    },
+    "cousins": {
+      "brief-098": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_refusal_row_paint",
+          "flight15_text_apply"
+        ],
+        "role": "Flight15 also_refused_by (pair \u2014 owns rows)"
+      },
+      "brief-091": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_refusal_row_paint",
+          "flight15_text"
+        ],
+        "role": "Flight 15 family alert kit (pair)"
+      },
+      "brief-096": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_refusal_row_paint",
+          "live_t0_paint"
+        ],
+        "role": "Flight 15 T-0 dual-proof strip (overlap)"
+      },
+      "brief-113": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_refusal_row_paint",
+          "live_t0_paint"
+        ],
+        "role": "live_t0_paint also_refused_by (overlap)"
+      },
+      "brief-116": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_refusal_row_paint",
+          "snack_order"
+        ],
+        "role": "snack also_refused_by (overlap)"
+      },
+      "brief-112": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_refusal_row_paint",
+          "mismatch_hold_apply"
+        ],
+        "role": "dual-proof mismatch Hold (overlap)"
+      },
+      "brief-114": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_refusal_row_paint",
+          "live_order_paint"
+        ],
+        "role": "snack cart dual-proof (overlap)"
+      },
+      "brief-115": {
+        "merge_apply": false,
+        "also_refused_by": [
+          "live_refusal_row_paint",
+          "off_allowlist_refusal"
+        ],
+        "role": "off-allowlist vendor refusal (overlap)"
+      }
+    },
+    "hold": {
+      "state": "HOLD",
+      "destination": null,
+      "default": "review_private",
+      "options": [
+        "review_private",
+        "export_digest",
+        "text_flight15",
+        "text_kids",
+        "post_public",
+        "defer",
+        "reject"
+      ],
+      "created_at": null,
+      "expires_at": null,
+      "review_private": true,
+      "timeout_becomes_refusal": false,
+      "auto_paint": null,
+      "auto_text": null,
+      "cousin_ack": {
+        "brief_098": false,
+        "brief_091": false,
+        "brief_096": false,
+        "brief_113": false,
+        "brief_116": false,
+        "brief_112": false,
+        "brief_114": false,
+        "brief_115": false
+      }
+    },
+    "cas": {
+      "version": 1,
+      "path": "refusal_ledger_dual_digest.json",
+      "etag": "EXAMPLE_CAS"
+    }
+  }
+}
